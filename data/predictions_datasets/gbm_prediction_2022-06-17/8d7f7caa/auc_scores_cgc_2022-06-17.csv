@@ -1,0 +1,4 @@
+Method,default,default_gbm,baseline_nonzero,baseline_nonzero_gbm
+BASELINE,0.618,0.591,0.560,0.673
+OURS,0.583,0.550,0.541,0.537
+ELASPIC_COV,0.567,0.614,0.577,0.659
