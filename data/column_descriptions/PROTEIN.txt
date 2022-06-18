@@ -1,0 +1,3 @@
+UniProt protein representation.
+Proteins = ELASPIC Results Core Proteins + ELASPIC Results Interface Proteins
+Number of proteins in ELASPIC BRCA: 6859

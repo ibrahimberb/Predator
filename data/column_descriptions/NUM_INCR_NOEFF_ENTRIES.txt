@@ -1,0 +1,5 @@
+Number of increasing+no_effect predicted entries for each protein. 
+Note: 
+For some entries, it is possible that we may not have any predictions, 
+either because it is not an interface mutation or it was causing 
+"invalid" predictions with its triplet (0 and 1 at the same time).

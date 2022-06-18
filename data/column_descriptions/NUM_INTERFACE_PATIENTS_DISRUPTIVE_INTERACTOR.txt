@@ -1,0 +1,2 @@
+Number of interface patients where at least one interaction is disrupted for that gene.
+This information is coming from Patient Interaction Data.

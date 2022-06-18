@@ -1,0 +1,1 @@
+Represents if given gene is CGC (BRCA) gene list.

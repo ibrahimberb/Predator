@@ -1,0 +1,3 @@
+Gene names that are obtained from SNV data.
+If one protein matches to more than one gene names, they are considered 
+exceptional cases, skipped and named as NA.

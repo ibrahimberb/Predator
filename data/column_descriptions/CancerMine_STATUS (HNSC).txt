@@ -1,0 +1,1 @@
+Represents if given gene is CancerMine (HNSC) gene list.

@@ -1,0 +1,4 @@
+Number of unique ELASPIC interface interactors for each protein. 
+Note: 
+Union of the interactors are over all mutation position, 
+i.e. position is not taken into account.

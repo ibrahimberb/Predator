@@ -1,0 +1,1 @@
+Number of patients that core mutation occurred for each protein.

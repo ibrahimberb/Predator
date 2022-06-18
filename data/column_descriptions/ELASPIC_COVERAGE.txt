@@ -1,0 +1,8 @@
+Go over each patients in SNV data. 
+List all specific protein.mutation pairs for current patient. 
+If any of these mutations are in ELASPIC, increase the count 
+(without considering CORE or INTERFACE) Then, go to the next patient.
+
+This can be thought of as another kind of baseline.
+
+Note: We count only once if there are multiple occurrence of the same protein's mutations.

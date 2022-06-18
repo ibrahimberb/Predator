@@ -1,0 +1,1 @@
+Represents if given gene is CGC gene list.

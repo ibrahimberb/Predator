@@ -1,0 +1,1 @@
+Number of patients that *only* interface mutation occurred for each protein as a new column.

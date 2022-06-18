@@ -1,0 +1,5 @@
+Number of ELASPIC interface entries for each protein.
+Note: 
+This does not necessarily have to be NUM_DISRUPTIVE_ENTRIES + NUM_UNIQUE_INTERACTORS 
+due to either triplet(s) which were not interface (hence no prediction at all) 
+or the reduction of invalid predictions.
