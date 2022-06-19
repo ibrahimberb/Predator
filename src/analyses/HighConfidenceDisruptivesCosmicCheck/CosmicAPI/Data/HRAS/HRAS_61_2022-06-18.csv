@@ -1,0 +1,14 @@
+GENE,CODON,CGC_STATUS,TIER,COSMIC_MUT,NUCLEOTIDE_CHANGE,AA_CHANGE,MUTATION_TYPE
+HRAS,61,Tier 1,TIER_1,COSV54236691,c.182A>G,p.Q61R,Substitution - Missense
+HRAS,61,Tier 1,TIER_1,COSV54236740,c.181C>A,p.Q61K,Substitution - Missense
+HRAS,61,Tier 1,TIER_2,COSV54236656,c.182A>T,p.Q61L,Substitution - Missense
+HRAS,61,Tier 1,TIER_2,COSV54236743,c.183G>T,p.Q61H,Substitution - Missense
+HRAS,61,Tier 1,TIER_2,COSV54239883,c.183G>C,p.Q61H,Substitution - Missense
+HRAS,61,Tier 1,TIER_2,COSV54238654,c.182A>C,p.Q61P,Substitution - Missense
+HRAS,61,Tier 1,TIER_2,COSV54242140,c.181C>G,p.Q61E,Substitution - Missense
+HRAS,61,Tier 1,TIER_3,COSV54239592,c.182_183delinsGA,p.Q61R,Substitution - Missense
+HRAS,61,Tier 1,TIER_3,COSV54243173,c.182_183delinsGT,p.Q61R,Substitution - Missense
+HRAS,61,Tier 1,TIER_3,COSV54242436,c.181_182delinsAG,p.Q61R,Substitution - Missense
+HRAS,61,Tier 1,TIER_3,COSV54244391,c.182_183delinsTA,p.Q61L,Substitution - Missense
+HRAS,61,Tier 1,OTHER_MUTATION,COSV54240324,c.181C>T,p.Q61*,Substitution - Nonsense
+HRAS,61,Tier 1,OTHER_MUTATION,COSV54242016,c.183G>A,p.Q61=,Substitution - coding silent

@@ -1,0 +1,1069 @@
+GENE,RESIDUE_POSITION,ERROR_ENCOUNTERED,SUBMITTED,DOWNLOADED,CGC_STATUS,MOST_SIGNIFICANT_CODON_TIER,URL
+LIN7B,115,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LIN7B/codon/115
+ITGAM,166,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITGAM/codon/166
+E2F1,168,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/E2F1/codon/168
+ESR1,222,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ESR1/codon/222
+TP53,273,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/273
+HRAS,12,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/HRAS/codon/12
+SUGT1,241,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SUGT1/codon/241
+EPHA7,895,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EPHA7/codon/895
+RAP1B,17,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAP1B/codon/17
+NOTCH3,1905,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NOTCH3/codon/1905
+ARHGAP24,290,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARHGAP24/codon/290
+SLC9A3R1,198,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SLC9A3R1/codon/198
+BCL2L11,153,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BCL2L11/codon/153
+SLIT2,590,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SLIT2/codon/590
+FBXW7,465,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/FBXW7/codon/465
+CASP8,233,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CASP8/codon/233
+NTRK3,582,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NTRK3/codon/582
+BCAR1,747,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/BCAR1/codon/747
+CBFB,63,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CBFB/codon/63
+PROS1,172,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PROS1/codon/172
+CHRNB2,125,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CHRNB2/codon/125
+ACVR1C,230,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ACVR1C/codon/230
+IL1RL1,164,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IL1RL1/codon/164
+PROP1,69,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PROP1/codon/69
+CAPN1,473,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CAPN1/codon/473
+SNRPG,58,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SNRPG/codon/58
+SOCS6,405,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SOCS6/codon/405
+BMI1,77,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BMI1/codon/77
+SF3B4,120,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SF3B4/codon/120
+NUP153,671,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NUP153/codon/671
+TP53,248,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/248
+ITGA11,275,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ITGA11/codon/275
+RAN,68,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAN/codon/68
+MPHOSPH8,658,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MPHOSPH8/codon/658
+CKS1B,37,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CKS1B/codon/37
+RAB35,45,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB35/codon/45
+CXCR4,144,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CXCR4/codon/144
+DRD1,205,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DRD1/codon/205
+PTK2,550,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PTK2/codon/550
+KLHL12,511,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLHL12/codon/511
+UBA3,150,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBA3/codon/150
+WNT3A,209,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/WNT3A/codon/209
+H4C1,69,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/69
+LRRK2,1954,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LRRK2/codon/1954
+BTRC,460,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BTRC/codon/460
+SMAD2,356,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD2/codon/356
+PTK2,597,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PTK2/codon/597
+UBE2E1,164,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2E1/codon/164
+H4C1,43,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/43
+UBE2D2,61,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2D2/codon/61
+HDAC2,168,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HDAC2/codon/168
+DYRK1B,115,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DYRK1B/codon/115
+GYG2,162,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GYG2/codon/162
+ERBB2,310,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/ERBB2/codon/310
+NFKB1,685,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NFKB1/codon/685
+TPSAB1,106,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TPSAB1/codon/106
+MAT2A,84,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAT2A/codon/84
+TJP1,52,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TJP1/codon/52
+TP53,179,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/179
+CTLA4,137,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CTLA4/codon/137
+MIB1,968,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MIB1/codon/968
+PSMA2,158,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA2/codon/158
+PACSIN2,83,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PACSIN2/codon/83
+FGF7,63,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGF7/codon/63
+LIMK1,523,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LIMK1/codon/523
+TP53,241,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/241
+PGR,603,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PGR/codon/603
+PSMA7,150,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA7/codon/150
+TAF1,1538,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TAF1/codon/1538
+ASGR2,192,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ASGR2/codon/192
+RAB21,52,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB21/codon/52
+TP53,280,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/280
+PER2,420,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PER2/codon/420
+WDR4,168,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/WDR4/codon/168
+GSTA1,95,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/GSTA1/codon/95
+NPAS2,22,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NPAS2/codon/22
+LNX1,653,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LNX1/codon/653
+ADCY2,993,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ADCY2/codon/993
+MAPK3,152,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPK3/codon/152
+H4C1,40,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/40
+TOB1,95,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TOB1/codon/95
+BTK,525,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/BTK/codon/525
+TP53,247,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/247
+ERBB2,769,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/ERBB2/codon/769
+CAMK4,128,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CAMK4/codon/128
+PACSIN1,425,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PACSIN1/codon/425
+MAPKAPK5,113,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPKAPK5/codon/113
+RAB8A,33,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB8A/codon/33
+RPS6KA3,111,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RPS6KA3/codon/111
+FBXL2,83,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FBXL2/codon/83
+ATP7A,290,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ATP7A/codon/290
+RARG,341,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RARG/codon/341
+SHB,412,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SHB/codon/412
+CDK1,228,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK1/codon/228
+MYL12A,110,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYL12A/codon/110
+TP53,275,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/275
+KCNH1,642,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KCNH1/codon/642
+TP53,168,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/168
+TCF3,561,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TCF3/codon/561
+MINK1,189,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MINK1/codon/189
+RAF1,354,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAF1/codon/354
+ITCH,869,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITCH/codon/869
+TRAF6,96,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TRAF6/codon/96
+MAP3K2,517,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP3K2/codon/517
+H3C1,73,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H3C1/codon/73
+ERBB2,939,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ERBB2/codon/939
+TNIK,112,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TNIK/codon/112
+H3C1,107,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H3C1/codon/107
+HNRNPA2B1,70,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HNRNPA2B1/codon/70
+PRKAR2B,290,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKAR2B/codon/290
+BRD7,228,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BRD7/codon/228
+OTX2,64,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/OTX2/codon/64
+IGHG4,54,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/IGHG4/codon/54
+TRIM2,50,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM2/codon/50
+UBE2E3,175,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2E3/codon/175
+AHR,40,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AHR/codon/40
+TESK2,105,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TESK2/codon/105
+BMPR1B,489,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/BMPR1B/codon/489
+IBTK,116,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IBTK/codon/116
+DAPK1,310,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DAPK1/codon/310
+BMI1,45,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BMI1/codon/45
+PAX6,231,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PAX6/codon/231
+EPHA1,791,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EPHA1/codon/791
+MYF5,125,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYF5/codon/125
+CREBBP,1169,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CREBBP/codon/1169
+GINS3,147,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/GINS3/codon/147
+GGA3,81,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GGA3/codon/81
+UBA2,176,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBA2/codon/176
+ID1,95,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ID1/codon/95
+APOBEC3G,126,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/APOBEC3G/codon/126
+CRYBA4,155,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CRYBA4/codon/155
+DPYSL5,231,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DPYSL5/codon/231
+PRKAA1,73,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKAA1/codon/73
+H4C1,42,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/42
+RAB37,87,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RAB37/codon/87
+NUAK1,149,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NUAK1/codon/149
+RAC1,69,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAC1/codon/69
+IKBKE,228,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IKBKE/codon/228
+SPTA1,1005,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SPTA1/codon/1005
+KLK3,209,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLK3/codon/209
+NR5A2,480,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NR5A2/codon/480
+HIF3A,327,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HIF3A/codon/327
+MAP2K4,134,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/MAP2K4/codon/134
+PRKACA,83,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKACA/codon/83
+RBM39,151,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RBM39/codon/151
+UBC,123,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBC/codon/123
+PRKACA,197,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKACA/codon/197
+MYL12B,98,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYL12B/codon/98
+TARS1,444,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TARS1/codon/444
+RHOA,5,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/RHOA/codon/5
+PACSIN3,280,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PACSIN3/codon/280
+SCML1,313,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SCML1/codon/313
+OTUB1,135,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/OTUB1/codon/135
+TP53,242,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/242
+RHOQ,72,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHOQ/codon/72
+H2AC11,111,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H2AC11/codon/111
+ESYT1,486,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ESYT1/codon/486
+GNB5,269,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GNB5/codon/269
+MAP2K4,186,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP2K4/codon/186
+HRAS,13,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/HRAS/codon/13
+KLK2,240,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLK2/codon/240
+NUAK1,87,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NUAK1/codon/87
+VPS4B,357,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VPS4B/codon/357
+NCKAP1,777,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NCKAP1/codon/777
+SH2B3,367,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SH2B3/codon/367
+ATL1,239,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ATL1/codon/239
+F12,557,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/F12/codon/557
+TFPI2,128,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TFPI2/codon/128
+NR5A2,489,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NR5A2/codon/489
+FES,720,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FES/codon/720
+TOB1,100,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TOB1/codon/100
+PIK3CA,420,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/PIK3CA/codon/420
+MYCN,401,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYCN/codon/401
+HDAC4,870,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HDAC4/codon/870
+PPP4C,238,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PPP4C/codon/238
+H3C1,132,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H3C1/codon/132
+PIK3CD,927,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PIK3CD/codon/927
+ROBO2,92,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ROBO2/codon/92
+MYL6B,97,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYL6B/codon/97
+RAP1B,35,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAP1B/codon/35
+USP44,412,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/USP44/codon/412
+RAB11B,48,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB11B/codon/48
+SLIT3,115,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SLIT3/codon/115
+C5,1206,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/C5/codon/1206
+MARK2,114,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MARK2/codon/114
+RXRA,448,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RXRA/codon/448
+NR1H4,187,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NR1H4/codon/187
+BAZ1A,1480,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BAZ1A/codon/1480
+RAMP1,105,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAMP1/codon/105
+PLAU,396,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLAU/codon/396
+ESYT1,806,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ESYT1/codon/806
+CWC22,211,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CWC22/codon/211
+ROBO1,124,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ROBO1/codon/124
+PLXNA1,1591,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLXNA1/codon/1591
+CDK7,159,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK7/codon/159
+NCF1,162,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NCF1/codon/162
+CTSB,105,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CTSB/codon/105
+LYN,498,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LYN/codon/498
+HOXB13,268,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HOXB13/codon/268
+TP53,176,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/176
+SMAD4,370,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD4/codon/370
+EPHA8,106,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EPHA8/codon/106
+CTNNB1,292,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CTNNB1/codon/292
+HGFAC,296,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HGFAC/codon/296
+RBM4B,19,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RBM4B/codon/19
+TFDP1,168,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TFDP1/codon/168
+GGA2,118,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GGA2/codon/118
+CNOT1,2045,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CNOT1/codon/2045
+TOP2A,155,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TOP2A/codon/155
+CRYGC,140,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CRYGC/codon/140
+FBXW7,505,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/FBXW7/codon/505
+H4C1,41,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/41
+ACTN4,137,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ACTN4/codon/137
+TNNC1,147,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNNC1/codon/147
+RGS9,385,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RGS9/codon/385
+NCF4,94,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NCF4/codon/94
+MCFD2,129,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MCFD2/codon/129
+SRSF1,138,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRSF1/codon/138
+CDCA8,29,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDCA8/codon/29
+MAT2A,139,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAT2A/codon/139
+EXOSC8,233,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EXOSC8/codon/233
+CNOT3,633,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CNOT3/codon/633
+YBX1,65,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/YBX1/codon/65
+CAMK1,106,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CAMK1/codon/106
+VAMP4,80,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VAMP4/codon/80
+SENP6,712,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SENP6/codon/712
+LSM1,59,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LSM1/codon/59
+LYN,258,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LYN/codon/258
+RPS20,79,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RPS20/codon/79
+RPL35,58,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RPL35/codon/58
+KCNIP2,148,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/KCNIP2/codon/148
+HNRNPA1,27,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HNRNPA1/codon/27
+MEIS2,337,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MEIS2/codon/337
+USP7,380,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/USP7/codon/380
+WNT3A,207,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/WNT3A/codon/207
+NCBP2,99,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NCBP2/codon/99
+CCT5,467,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CCT5/codon/467
+RNF125,53,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RNF125/codon/53
+SKP1,136,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SKP1/codon/136
+TRIM41,595,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM41/codon/595
+YES1,215,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/YES1/codon/215
+RAB11B,82,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB11B/codon/82
+PPP1CA,272,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PPP1CA/codon/272
+CHRNA3,110,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CHRNA3/codon/110
+WNT5A,253,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/WNT5A/codon/253
+NR2F1,371,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NR2F1/codon/371
+TAOK2,302,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TAOK2/codon/302
+FGF5,98,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGF5/codon/98
+IRAK3,421,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IRAK3/codon/421
+SMAD4,365,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD4/codon/365
+BCL9,359,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BCL9/codon/359
+COL5A2,1294,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/COL5A2/codon/1294
+RAB1A,159,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB1A/codon/159
+RPS6KA1,569,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RPS6KA1/codon/569
+HCLS1,472,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HCLS1/codon/472
+PSMA5,96,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA5/codon/96
+MAT1A,277,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAT1A/codon/277
+BCL9L,407,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/BCL9L/codon/407
+CASK,504,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CASK/codon/504
+PCBP1,100,,1,1,None,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/PCBP1/codon/100
+RTN4R,36,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RTN4R/codon/36
+PRKACB,197,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRKACB/codon/197
+MAST1,413,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAST1/codon/413
+BIRC7,244,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BIRC7/codon/244
+PTK2B,586,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PTK2B/codon/586
+SFTPA1,160,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SFTPA1/codon/160
+DMBX1,101,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/DMBX1/codon/101
+ABL2,139,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ABL2/codon/139
+A1CF,80,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/A1CF/codon/80
+NR4A1,348,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NR4A1/codon/348
+GSTA4,98,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GSTA4/codon/98
+LIMS1,12,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/LIMS1/codon/12
+TFDP1,176,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TFDP1/codon/176
+AP4E1,134,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AP4E1/codon/134
+STK33,241,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STK33/codon/241
+HERC4,855,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HERC4/codon/855
+RHOC,65,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RHOC/codon/65
+PLK1,213,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLK1/codon/213
+UBA3,399,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBA3/codon/399
+HAND1,142,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HAND1/codon/142
+WNT3,210,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/WNT3/codon/210
+PSMA1,89,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PSMA1/codon/89
+PABPC4,83,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PABPC4/codon/83
+SMAD4,355,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/SMAD4/codon/355
+DFFA,66,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DFFA/codon/66
+PTK2,633,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PTK2/codon/633
+C3,148,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/C3/codon/148
+MXD1,94,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MXD1/codon/94
+BMPR2,378,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BMPR2/codon/378
+RAB33B,67,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB33B/codon/67
+ATP7B,120,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ATP7B/codon/120
+SMAD2,305,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD2/codon/305
+RANBP2,1231,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RANBP2/codon/1231
+MEP1A,402,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MEP1A/codon/402
+JAK2,588,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/JAK2/codon/588
+GABARAPL1,52,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GABARAPL1/codon/52
+PSMA3,72,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA3/codon/72
+RHOA,69,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/RHOA/codon/69
+PLXNB3,1579,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLXNB3/codon/1579
+TRIM39,46,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM39/codon/46
+CDK19,146,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK19/codon/146
+ALDH1A1,131,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ALDH1A1/codon/131
+ESR2,197,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ESR2/codon/197
+VAMP2,57,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VAMP2/codon/57
+RNF126,243,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RNF126/codon/243
+TUBB6,251,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TUBB6/codon/251
+SMAD3,268,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD3/codon/268
+HTR6,200,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HTR6/codon/200
+SRPK3,473,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRPK3/codon/473
+BCL2L11,156,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BCL2L11/codon/156
+RAD18,44,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAD18/codon/44
+TRIM26,37,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM26/codon/37
+GRIA2,679,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRIA2/codon/679
+RAB3C,65,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB3C/codon/65
+H4C1,30,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/30
+GDF6,444,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GDF6/codon/444
+GRIK2,758,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRIK2/codon/758
+IGF2,64,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IGF2/codon/64
+NXF1,177,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NXF1/codon/177
+GRK2,387,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRK2/codon/387
+PXN,526,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PXN/codon/526
+SLC9A3R2,229,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SLC9A3R2/codon/229
+HGS,36,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HGS/codon/36
+PRDX2,150,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRDX2/codon/150
+ARHGAP33,228,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARHGAP33/codon/228
+SHQ1,335,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SHQ1/codon/335
+MAP2K7,279,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP2K7/codon/279
+NFYC,98,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NFYC/codon/98
+OBSCN,6749,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/OBSCN/codon/6749
+HDAC9,850,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HDAC9/codon/850
+CBX3,153,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CBX3/codon/153
+RGS9,389,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RGS9/codon/389
+TAF4B,664,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TAF4B/codon/664
+SMAD2,415,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD2/codon/415
+H4C1,76,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/76
+RPS6KA1,636,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RPS6KA1/codon/636
+LYN,356,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LYN/codon/356
+DLG2,212,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DLG2/codon/212
+MAPK3,211,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPK3/codon/211
+DCP1A,117,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DCP1A/codon/117
+ACTB,197,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ACTB/codon/197
+AHR,43,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AHR/codon/43
+FES,626,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FES/codon/626
+AP1M2,189,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AP1M2/codon/189
+CUL4B,898,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CUL4B/codon/898
+PABPC4,75,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PABPC4/codon/75
+RAB7A,71,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB7A/codon/71
+CDH9,77,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDH9/codon/77
+PACSIN1,288,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PACSIN1/codon/288
+RARG,339,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RARG/codon/339
+PIK3CB,983,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PIK3CB/codon/983
+GRB10,560,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRB10/codon/560
+CALML3,20,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CALML3/codon/20
+VCL,680,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VCL/codon/680
+IRF3,100,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/IRF3/codon/100
+PER3,266,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PER3/codon/266
+MITF,357,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MITF/codon/357
+BRD2,443,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BRD2/codon/443
+H4C1,84,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/84
+HECW1,1555,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HECW1/codon/1555
+PAX6,261,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PAX6/codon/261
+RET,959,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RET/codon/959
+RASSF1,219,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RASSF1/codon/219
+PPP3CB,364,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PPP3CB/codon/364
+RPS6KA3,114,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RPS6KA3/codon/114
+RHOXF2,155,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHOXF2/codon/155
+INHBA,350,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/INHBA/codon/350
+CDK2,122,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK2/codon/122
+SMAD2,368,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/SMAD2/codon/368
+EZR,60,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EZR/codon/60
+PTPRT,917,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/PTPRT/codon/917
+CCNT2,133,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CCNT2/codon/133
+MYO5A,1731,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYO5A/codon/1731
+CREBBP,1165,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CREBBP/codon/1165
+HBG2,129,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HBG2/codon/129
+FSTL1,84,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FSTL1/codon/84
+RRAGA,38,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RRAGA/codon/38
+MAPK3,84,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPK3/codon/84
+NEUROG1,137,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NEUROG1/codon/137
+KDR,720,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KDR/codon/720
+CHM,395,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CHM/codon/395
+HIRA,458,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HIRA/codon/458
+PIK3R3,126,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PIK3R3/codon/126
+SRXN1,101,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRXN1/codon/101
+MAPK8,184,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPK8/codon/184
+GRK2,221,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRK2/codon/221
+SRSF2,48,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRSF2/codon/48
+TUBB6,312,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TUBB6/codon/312
+U2AF2,322,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/U2AF2/codon/322
+MAD2L2,171,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAD2L2/codon/171
+RHOA,39,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHOA/codon/39
+ROBO2,60,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ROBO2/codon/60
+HCN4,704,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HCN4/codon/704
+TTK,581,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TTK/codon/581
+CEBPE,232,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CEBPE/codon/232
+TMX1,86,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TMX1/codon/86
+STUB1,256,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STUB1/codon/256
+MAP1LC3C,44,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP1LC3C/codon/44
+LIMS2,248,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LIMS2/codon/248
+PDGFRB,260,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PDGFRB/codon/260
+CELF2,64,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CELF2/codon/64
+RHOC,176,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHOC/codon/176
+NUAK1,128,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NUAK1/codon/128
+PYCR1,204,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PYCR1/codon/204
+CDC34,107,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDC34/codon/107
+LNX2,352,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LNX2/codon/352
+DPYSL2,268,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DPYSL2/codon/268
+GNB5,369,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GNB5/codon/369
+LNX1,386,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LNX1/codon/386
+SMAD3,287,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/SMAD3/codon/287
+UBE2K,153,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2K/codon/153
+HLA-DPA1,162,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HLA-DPA1/codon/162
+LIMK1,368,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LIMK1/codon/368
+ABL1,152,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ABL1/codon/152
+OTUB1,198,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/OTUB1/codon/198
+ITGA2B,342,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITGA2B/codon/342
+SAMHD1,451,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SAMHD1/codon/451
+ADRA1A,134,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ADRA1A/codon/134
+CUL1,581,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CUL1/codon/581
+LSM10,80,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LSM10/codon/80
+HDAC9,844,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/HDAC9/codon/844
+RASSF5,283,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RASSF5/codon/283
+LHX1,205,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LHX1/codon/205
+CCR7,179,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CCR7/codon/179
+MLH1,205,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/MLH1/codon/205
+PCBP1,102,,1,1,None,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/PCBP1/codon/102
+TP63,174,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TP63/codon/174
+TAF11,163,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TAF11/codon/163
+MAP2K7,327,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP2K7/codon/327
+RAP2B,67,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAP2B/codon/67
+NR1H4,419,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NR1H4/codon/419
+H2AX,118,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H2AX/codon/118
+CSNK1A1,21,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CSNK1A1/codon/21
+CDC42BPG,274,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDC42BPG/codon/274
+SDCBP2,185,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SDCBP2/codon/185
+CAPN1,591,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CAPN1/codon/591
+KCNH5,132,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KCNH5/codon/132
+TRIM33,994,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM33/codon/994
+SMAD3,340,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD3/codon/340
+ARAF,459,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARAF/codon/459
+SPAST,460,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SPAST/codon/460
+H3C1,67,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H3C1/codon/67
+PFN2,63,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PFN2/codon/63
+NEUROG3,126,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NEUROG3/codon/126
+AP2A2,381,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AP2A2/codon/381
+PPM1A,33,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PPM1A/codon/33
+CSNK1D,160,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CSNK1D/codon/160
+AURKA,265,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AURKA/codon/265
+IKBKE,54,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IKBKE/codon/54
+EPHA1,193,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EPHA1/codon/193
+RGS6,317,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RGS6/codon/317
+ARHGAP27,841,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ARHGAP27/codon/841
+MATK,319,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MATK/codon/319
+TIMP1,93,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TIMP1/codon/93
+INHA,291,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/INHA/codon/291
+MAP3K1,1487,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/MAP3K1/codon/1487
+BMPR1B,315,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/BMPR1B/codon/315
+PIK3R1,333,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/PIK3R1/codon/333
+DAPK1,53,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DAPK1/codon/53
+PLCG2,732,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLCG2/codon/732
+BRD2,430,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BRD2/codon/430
+CDK1,211,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK1/codon/211
+IGFBP3,251,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/IGFBP3/codon/251
+ACTR3,308,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ACTR3/codon/308
+SMAD6,384,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD6/codon/384
+CCL22,40,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CCL22/codon/40
+BMP10,344,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BMP10/codon/344
+ADORA1,188,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ADORA1/codon/188
+SLIT2,614,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SLIT2/codon/614
+IFNA2,143,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IFNA2/codon/143
+MMP1,360,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MMP1/codon/360
+AURKC,105,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AURKC/codon/105
+YWHAB,57,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/YWHAB/codon/57
+NTRK1,673,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NTRK1/codon/673
+TWIST2,113,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TWIST2/codon/113
+SMAD6,359,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMAD6/codon/359
+RBM10,153,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RBM10/codon/153
+PAK4,478,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PAK4/codon/478
+MAP1LC3C,76,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP1LC3C/codon/76
+LIG4,846,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LIG4/codon/846
+MYL12B,91,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYL12B/codon/91
+RAB39B,45,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RAB39B/codon/45
+FNTA,282,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FNTA/codon/282
+RAB11B,46,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB11B/codon/46
+FGF1,35,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGF1/codon/35
+HAND1,137,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HAND1/codon/137
+TRAPPC3L,86,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRAPPC3L/codon/86
+BMI1,33,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BMI1/codon/33
+HLA-DRA,69,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HLA-DRA/codon/69
+RCC1,320,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RCC1/codon/320
+H2AC20,102,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H2AC20/codon/102
+UBE2E3,148,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2E3/codon/148
+UBE2E1,55,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2E1/codon/55
+CTSL,182,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CTSL/codon/182
+PSMA4,249,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA4/codon/249
+ASF1B,43,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ASF1B/codon/43
+PARVB,299,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PARVB/codon/299
+PSMB4,145,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMB4/codon/145
+NAGK,197,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NAGK/codon/197
+RAB34,106,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RAB34/codon/106
+PKN1,790,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PKN1/codon/790
+ARHGDIB,144,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARHGDIB/codon/144
+BAX,139,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BAX/codon/139
+WDR61,71,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/WDR61/codon/71
+AKT2,268,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AKT2/codon/268
+RFC4,142,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RFC4/codon/142
+PIK3CD,945,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PIK3CD/codon/945
+ABL2,493,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ABL2/codon/493
+C1QC,119,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/C1QC/codon/119
+ASAP2,948,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ASAP2/codon/948
+MSX1,192,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MSX1/codon/192
+AP2A2,602,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AP2A2/codon/602
+CLIP1,117,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CLIP1/codon/117
+MKNK2,255,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MKNK2/codon/255
+KCNIP2,216,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/KCNIP2/codon/216
+HBB,42,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HBB/codon/42
+PPP1CA,136,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PPP1CA/codon/136
+ROR1,709,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ROR1/codon/709
+SCUBE3,293,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SCUBE3/codon/293
+APOBEC1,118,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/APOBEC1/codon/118
+RNF125,76,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RNF125/codon/76
+CRX,40,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CRX/codon/40
+TIA1,10,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TIA1/codon/10
+CRYGC,59,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CRYGC/codon/59
+CDK3,53,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK3/codon/53
+PBX1,290,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PBX1/codon/290
+HRAS,60,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HRAS/codon/60
+LMX1A,194,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LMX1A/codon/194
+CDK9,202,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK9/codon/202
+PSMB5,120,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMB5/codon/120
+LHX1,210,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LHX1/codon/210
+MAP2K5,107,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP2K5/codon/107
+VCAN,290,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VCAN/codon/290
+RAB1B,52,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB1B/codon/52
+P4HB,399,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/P4HB/codon/399
+HGF,391,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HGF/codon/391
+EIF2AK1,533,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EIF2AK1/codon/533
+CIRBP,17,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CIRBP/codon/17
+FKBP1A,39,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FKBP1A/codon/39
+FBXW7,479,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/FBXW7/codon/479
+H3C1,128,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H3C1/codon/128
+SMAD4,352,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/SMAD4/codon/352
+IRF2,108,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IRF2/codon/108
+MASP2,193,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MASP2/codon/193
+CDC7,290,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDC7/codon/290
+EPAS1,98,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EPAS1/codon/98
+PSD4,655,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSD4/codon/655
+TNFAIP6,116,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNFAIP6/codon/116
+TAOK3,56,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TAOK3/codon/56
+STXBP6,176,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STXBP6/codon/176
+ARF6,31,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARF6/codon/31
+KCNN2,455,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KCNN2/codon/455
+GRIK2,649,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRIK2/codon/649
+UBQLN1,559,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBQLN1/codon/559
+SEC24C,723,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/SEC24C/codon/723
+BTRC,458,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BTRC/codon/458
+DLG2,217,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/DLG2/codon/217
+ARNTL,110,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARNTL/codon/110
+GABARAPL1,5,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GABARAPL1/codon/5
+PSPC1,191,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PSPC1/codon/191
+LATS2,978,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LATS2/codon/978
+ATP7B,627,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ATP7B/codon/627
+CDC42BPB,395,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CDC42BPB/codon/395
+ACTC1,63,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ACTC1/codon/63
+RAB11A,53,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB11A/codon/53
+CSNK2A2,55,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CSNK2A2/codon/55
+MAX,46,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAX/codon/46
+PLEKHH1,632,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLEKHH1/codon/632
+CCL11,65,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CCL11/codon/65
+DYRK1B,277,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DYRK1B/codon/277
+ITSN1,1013,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITSN1/codon/1013
+RAB3D,161,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB3D/codon/161
+SYTL5,38,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SYTL5/codon/38
+HGF,261,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HGF/codon/261
+MAP2K7,162,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP2K7/codon/162
+CAMK2D,455,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CAMK2D/codon/455
+AP1S1,121,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AP1S1/codon/121
+CSK,319,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CSK/codon/319
+UNC5B,177,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UNC5B/codon/177
+GDF6,392,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GDF6/codon/392
+S100A1,67,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/S100A1/codon/67
+ABL2,310,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ABL2/codon/310
+FER,804,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FER/codon/804
+RAF1,495,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAF1/codon/495
+TLR1,683,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TLR1/codon/683
+TEC,528,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TEC/codon/528
+ANXA3,197,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ANXA3/codon/197
+ANXA3,267,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ANXA3/codon/267
+FGF1,110,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGF1/codon/110
+GRIA1,505,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRIA1/codon/505
+TRIM31,17,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM31/codon/17
+IL13,141,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IL13/codon/141
+TFEC,155,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TFEC/codon/155
+RHEB,42,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHEB/codon/42
+UBE2T,101,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/UBE2T/codon/101
+UBR5,2712,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBR5/codon/2712
+BMPR1B,395,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/BMPR1B/codon/395
+MTERF4,322,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MTERF4/codon/322
+AKT1,33,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AKT1/codon/33
+RNF41,2,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RNF41/codon/2
+NGFR,104,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NGFR/codon/104
+TWIST2,116,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TWIST2/codon/116
+SGK1,200,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SGK1/codon/200
+DPYSL3,28,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/DPYSL3/codon/28
+BMPR1B,215,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/BMPR1B/codon/215
+GNG8,18,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/GNG8/codon/18
+CSNK1A1,145,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CSNK1A1/codon/145
+TGFBR1,374,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TGFBR1/codon/374
+C1R,199,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/C1R/codon/199
+ELAVL1,155,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ELAVL1/codon/155
+VAV3,705,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VAV3/codon/705
+CTSH,184,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CTSH/codon/184
+TNFAIP1,88,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNFAIP1/codon/88
+ITSN1,1009,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ITSN1/codon/1009
+PRKCE,573,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRKCE/codon/573
+MSX1,173,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MSX1/codon/173
+HLA-DMB,42,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/HLA-DMB/codon/42
+RAN,49,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RAN/codon/49
+IGF2,35,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/IGF2/codon/35
+C3,1009,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/C3/codon/1009
+ELAVL1,261,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ELAVL1/codon/261
+EGLN2,325,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/EGLN2/codon/325
+TGFBR1,414,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TGFBR1/codon/414
+UBE2D3,112,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/UBE2D3/codon/112
+RIMS1,178,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RIMS1/codon/178
+DDX17,219,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/DDX17/codon/219
+MAPK6,314,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MAPK6/codon/314
+LIN7A,170,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/LIN7A/codon/170
+IPO13,310,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IPO13/codon/310
+RHOA,59,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHOA/codon/59
+TWIST1,158,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TWIST1/codon/158
+MAP3K10,315,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP3K10/codon/315
+MAPRE1,249,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MAPRE1/codon/249
+SPTA1,1034,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/SPTA1/codon/1034
+AGXT,332,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AGXT/codon/332
+ABCC4,1220,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ABCC4/codon/1220
+SLC9A3R1,176,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SLC9A3R1/codon/176
+YES1,300,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/YES1/codon/300
+MYLK2,382,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MYLK2/codon/382
+RAB11FIP2,478,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB11FIP2/codon/478
+PRTN3,197,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRTN3/codon/197
+CRY1,414,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CRY1/codon/414
+VAMP8,55,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VAMP8/codon/55
+PSMA5,93,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PSMA5/codon/93
+PRDX2,154,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRDX2/codon/154
+ERBB4,488,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ERBB4/codon/488
+H3C1,114,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H3C1/codon/114
+ROBO2,94,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ROBO2/codon/94
+TNKS2,1107,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNKS2/codon/1107
+DLG4,169,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DLG4/codon/169
+H4C1,93,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/93
+SOCS5,433,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/SOCS5/codon/433
+SRSF2,95,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/SRSF2/codon/95
+CYC1,233,,1,1,None,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CYC1/codon/233
+MUL1,303,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MUL1/codon/303
+VAMP8,58,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VAMP8/codon/58
+TNIK,59,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNIK/codon/59
+PLG,607,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLG/codon/607
+CREBBP,608,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CREBBP/codon/608
+LATS2,727,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/LATS2/codon/727
+PPP1R13B,922,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PPP1R13B/codon/922
+GRB10,459,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRB10/codon/459
+PSMA5,19,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA5/codon/19
+VCP,495,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/VCP/codon/495
+CUL2,725,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CUL2/codon/725
+CNR1,275,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CNR1/codon/275
+FDX2,135,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FDX2/codon/135
+HCLS1,467,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HCLS1/codon/467
+MCF2,676,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MCF2/codon/676
+H2BC21,94,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H2BC21/codon/94
+TUBB4B,344,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TUBB4B/codon/344
+CPSF7,94,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CPSF7/codon/94
+CRYBB1,115,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CRYBB1/codon/115
+UTRN,391,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/UTRN/codon/391
+GRB10,558,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRB10/codon/558
+TP53,249,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/249
+PIK3CB,1049,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PIK3CB/codon/1049
+CRYBB2,160,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CRYBB2/codon/160
+LSM10,76,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/LSM10/codon/76
+TRIM54,133,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM54/codon/133
+UGT1A3,376,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/UGT1A3/codon/376
+TFRC,740,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TFRC/codon/740
+PRKAG2,479,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRKAG2/codon/479
+MOS,253,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MOS/codon/253
+BIRC2,588,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BIRC2/codon/588
+PTPN6,144,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PTPN6/codon/144
+CBX5,115,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CBX5/codon/115
+MYO16,73,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYO16/codon/73
+SOCS4,383,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SOCS4/codon/383
+PRKAG2,524,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKAG2/codon/524
+EPHA2,162,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/EPHA2/codon/162
+PLAT,266,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PLAT/codon/266
+PLK1,196,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PLK1/codon/196
+ERBB2,940,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ERBB2/codon/940
+CDK3,217,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK3/codon/217
+C3,1060,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/C3/codon/1060
+SNRPB2,25,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SNRPB2/codon/25
+ID1,91,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ID1/codon/91
+RBM39,295,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RBM39/codon/295
+CRYGC,30,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CRYGC/codon/30
+HES1,84,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HES1/codon/84
+CAMK1,95,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CAMK1/codon/95
+TRIM26,20,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TRIM26/codon/20
+PAK2,386,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PAK2/codon/386
+PPARD,279,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PPARD/codon/279
+DNM1,672,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/DNM1/codon/672
+GLS2,565,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/GLS2/codon/565
+MAPK6,113,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MAPK6/codon/113
+PRKACA,111,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRKACA/codon/111
+H3-4,53,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H3-4/codon/53
+RB1,661,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/RB1/codon/661
+PRPF31,304,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRPF31/codon/304
+SH3KBP1,46,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SH3KBP1/codon/46
+ITK,431,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITK/codon/431
+KCNA4,217,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/KCNA4/codon/217
+ERBB2,747,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ERBB2/codon/747
+CPSF6,113,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CPSF6/codon/113
+UBE2M,121,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2M/codon/121
+CCR1,223,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CCR1/codon/223
+ENC1,67,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ENC1/codon/67
+PPP2R5D,369,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PPP2R5D/codon/369
+LIMK1,404,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/LIMK1/codon/404
+CHD4,641,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CHD4/codon/641
+AFDN,1036,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AFDN/codon/1036
+ARNT2,430,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARNT2/codon/430
+HBQ1,128,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/HBQ1/codon/128
+E2F2,168,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/E2F2/codon/168
+RPA4,152,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RPA4/codon/152
+TRA2A,160,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRA2A/codon/160
+NCL,587,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NCL/codon/587
+NMNAT1,163,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NMNAT1/codon/163
+WEE1,390,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/WEE1/codon/390
+BATF,69,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BATF/codon/69
+SIRT5,68,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SIRT5/codon/68
+NME2,114,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NME2/codon/114
+NPHP1,162,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NPHP1/codon/162
+EPHA4,106,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EPHA4/codon/106
+PRKCD,452,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKCD/codon/452
+PDGFRA,842,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/PDGFRA/codon/842
+FGB,238,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGB/codon/238
+BAG2,173,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BAG2/codon/173
+PSMB7,113,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMB7/codon/113
+TOP3A,255,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TOP3A/codon/255
+CHFR,335,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CHFR/codon/335
+RPS6KA5,253,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RPS6KA5/codon/253
+CNOT1,2087,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CNOT1/codon/2087
+NEDD4L,945,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NEDD4L/codon/945
+KLK9,204,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLK9/codon/204
+GRIA3,604,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRIA3/codon/604
+IRAK2,193,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IRAK2/codon/193
+TP53,246,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/246
+RFFL,346,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RFFL/codon/346
+TP53,178,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/178
+STK3,226,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STK3/codon/226
+STXBP2,270,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STXBP2/codon/270
+FOXM1,256,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FOXM1/codon/256
+ASF1B,123,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ASF1B/codon/123
+TNNC1,102,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNNC1/codon/102
+ITSN2,275,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITSN2/codon/275
+TNNI3,145,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNNI3/codon/145
+TRIM68,57,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM68/codon/57
+BMI1,34,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BMI1/codon/34
+PLAT,507,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLAT/codon/507
+F2R,206,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/F2R/codon/206
+PARD6B,248,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PARD6B/codon/248
+TYK2,860,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TYK2/codon/860
+TOB1,93,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TOB1/codon/93
+MAPK7,259,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPK7/codon/259
+TXK,513,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TXK/codon/513
+TGFBR2,287,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/TGFBR2/codon/287
+NPAS2,300,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NPAS2/codon/300
+BAZ1B,1428,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/BAZ1B/codon/1428
+ITPR1,65,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITPR1/codon/65
+HOXD9,336,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HOXD9/codon/336
+MAP3K7,198,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP3K7/codon/198
+ITGAX,426,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITGAX/codon/426
+COP1,159,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/COP1/codon/159
+NCL,554,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NCL/codon/554
+RAD23B,48,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RAD23B/codon/48
+KIR2DL4,195,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/KIR2DL4/codon/195
+CDK13,714,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK13/codon/714
+SRF,211,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/SRF/codon/211
+PSMA7,66,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PSMA7/codon/66
+AURKC,124,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AURKC/codon/124
+NUDT14,142,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NUDT14/codon/142
+SHANK1,2148,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SHANK1/codon/2148
+TACR1,124,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TACR1/codon/124
+DLG2,163,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/DLG2/codon/163
+FGD1,559,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGD1/codon/559
+KCNH1,134,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KCNH1/codon/134
+PSMB10,177,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMB10/codon/177
+UBE2M,118,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBE2M/codon/118
+CDKN2A,108,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CDKN2A/codon/108
+LIMS2,59,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/LIMS2/codon/59
+TJP1,207,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TJP1/codon/207
+MAFB,269,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAFB/codon/269
+EPHA7,656,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EPHA7/codon/656
+CNOT7,258,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CNOT7/codon/258
+ACTN2,243,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ACTN2/codon/243
+HUWE1,4334,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HUWE1/codon/4334
+SIM2,308,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SIM2/codon/308
+SOCS5,424,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SOCS5/codon/424
+KLK3,227,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLK3/codon/227
+ADCY1,389,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ADCY1/codon/389
+JAK3,967,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/JAK3/codon/967
+ASB1,105,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ASB1/codon/105
+NTM,68,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NTM/codon/68
+NTRK3,705,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NTRK3/codon/705
+RAB1A,149,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB1A/codon/149
+MITF,351,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MITF/codon/351
+SRSF2,47,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRSF2/codon/47
+ITGAM,664,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITGAM/codon/664
+HUWE1,4336,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HUWE1/codon/4336
+KLK3,65,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLK3/codon/65
+SRSF7,82,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRSF7/codon/82
+RHOXF2,159,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHOXF2/codon/159
+SKP1,46,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SKP1/codon/46
+CDKN2A,87,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CDKN2A/codon/87
+FBXO4,99,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FBXO4/codon/99
+RAB35,48,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB35/codon/48
+RHOD,80,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RHOD/codon/80
+RAB11B,51,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB11B/codon/51
+RRAS2,79,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RRAS2/codon/79
+TJP1,25,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TJP1/codon/25
+CDX2,206,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDX2/codon/206
+LIMK1,393,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LIMK1/codon/393
+FBXW7,543,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/FBXW7/codon/543
+CPA4,236,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CPA4/codon/236
+CD2AP,4,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CD2AP/codon/4
+C1S,222,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/C1S/codon/222
+PHC1,993,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PHC1/codon/993
+C2,705,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/C2/codon/705
+FGF19,129,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGF19/codon/129
+ELAVL1,94,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ELAVL1/codon/94
+HUWE1,4150,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HUWE1/codon/4150
+MYOD1,151,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYOD1/codon/151
+MAP3K5,856,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAP3K5/codon/856
+MAPK8,65,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPK8/codon/65
+RPS6KB2,274,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RPS6KB2/codon/274
+STAM2,205,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STAM2/codon/205
+CCNK,85,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CCNK/codon/85
+TRAF6,105,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRAF6/codon/105
+H2AZ1,113,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H2AZ1/codon/113
+KLRC1,116,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLRC1/codon/116
+PI3,82,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PI3/codon/82
+CDH9,111,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDH9/codon/111
+H4C1,55,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/55
+SEC24C,762,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SEC24C/codon/762
+AURKB,95,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AURKB/codon/95
+FBXW11,151,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FBXW11/codon/151
+DYRK1B,199,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DYRK1B/codon/199
+RASGRF2,1153,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RASGRF2/codon/1153
+ESYT1,523,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ESYT1/codon/523
+ICAM1,62,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ICAM1/codon/62
+RAC1,29,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/RAC1/codon/29
+ROBO1,86,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ROBO1/codon/86
+DRD1,197,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DRD1/codon/197
+SIM1,107,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SIM1/codon/107
+H4C1,96,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/96
+GDF6,366,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GDF6/codon/366
+HRAS,61,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/HRAS/codon/61
+RPS6KB1,330,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RPS6KB1/codon/330
+TGFBR2,460,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TGFBR2/codon/460
+ASCL1,137,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ASCL1/codon/137
+GLP2R,121,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GLP2R/codon/121
+CASP8,308,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CASP8/codon/308
+BRAF,466,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/BRAF/codon/466
+RRAS2,72,,1,1,None,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/RRAS2/codon/72
+MEX3B,555,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MEX3B/codon/555
+HUWE1,4339,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HUWE1/codon/4339
+SKI,133,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SKI/codon/133
+IL16,253,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IL16/codon/253
+ADORA2A,111,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ADORA2A/codon/111
+PRKCE,614,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKCE/codon/614
+CREB5,431,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CREB5/codon/431
+HUS1,134,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HUS1/codon/134
+RXRG,380,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RXRG/codon/380
+RAB7A,34,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB7A/codon/34
+SERPINA5,386,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SERPINA5/codon/386
+RXRA,421,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RXRA/codon/421
+NOTCH2,341,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NOTCH2/codon/341
+H4C1,62,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/62
+CDKN2A,74,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CDKN2A/codon/74
+DOK1,167,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DOK1/codon/167
+ARHGAP35,1284,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARHGAP35/codon/1284
+SYT1,200,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SYT1/codon/200
+H4C1,95,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/95
+INPPL1,588,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/INPPL1/codon/588
+EIF2S1,45,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EIF2S1/codon/45
+RAP1B,12,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAP1B/codon/12
+ELAVL1,90,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ELAVL1/codon/90
+IHH,160,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IHH/codon/160
+PRL,205,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRL/codon/205
+CLIP1,274,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CLIP1/codon/274
+ARNTL,436,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ARNTL/codon/436
+PRKACB,237,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRKACB/codon/237
+NTF3,209,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NTF3/codon/209
+CD1E,233,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CD1E/codon/233
+NOTCH1,933,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NOTCH1/codon/933
+RAB11B,78,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB11B/codon/78
+DLG2,152,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DLG2/codon/152
+ARNT,185,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARNT/codon/185
+IKBKB,105,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IKBKB/codon/105
+HECTD1,485,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HECTD1/codon/485
+LYN,171,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LYN/codon/171
+RAB7A,153,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAB7A/codon/153
+DAPK3,47,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DAPK3/codon/47
+PMAIP1,33,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PMAIP1/codon/33
+STK11,107,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STK11/codon/107
+H4C1,75,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/75
+GNB4,254,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GNB4/codon/254
+U2AF2,304,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/U2AF2/codon/304
+HBG2,109,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HBG2/codon/109
+SIM1,113,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SIM1/codon/113
+GDI1,102,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GDI1/codon/102
+GNB2,268,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GNB2/codon/268
+TXK,488,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TXK/codon/488
+PDZRN3,313,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PDZRN3/codon/313
+ALB,105,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ALB/codon/105
+CDKN2A,84,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/CDKN2A/codon/84
+CDH7,148,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDH7/codon/148
+AURKC,250,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AURKC/codon/250
+SRSF6,14,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRSF6/codon/14
+LHX4,159,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LHX4/codon/159
+PRKD1,747,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKD1/codon/747
+GNB5,223,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GNB5/codon/223
+VAV1,828,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VAV1/codon/828
+MAPK9,162,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MAPK9/codon/162
+CDKN2A,90,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/CDKN2A/codon/90
+HLA-G,268,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HLA-G/codon/268
+DOCK1,45,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DOCK1/codon/45
+S100A1,68,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/S100A1/codon/68
+IGFBP5,223,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IGFBP5/codon/223
+TRA2B,111,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRA2B/codon/111
+NTM,80,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NTM/codon/80
+RAC3,34,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAC3/codon/34
+KLK1,234,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLK1/codon/234
+TRIM55,91,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM55/codon/91
+DYRK1A,169,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DYRK1A/codon/169
+MAP1LC3A,62,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MAP1LC3A/codon/62
+SELP,57,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SELP/codon/57
+ARHGAP1,323,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARHGAP1/codon/323
+NUP37,191,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NUP37/codon/191
+TESK2,116,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TESK2/codon/116
+LRRC7,1520,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LRRC7/codon/1520
+ARHGEF7,231,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ARHGEF7/codon/231
+SORBS3,656,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SORBS3/codon/656
+ASCL1,161,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ASCL1/codon/161
+TP53,244,,1,1,Tier 1,TIER_2,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/244
+PSMA3,9,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA3/codon/9
+TLR9,915,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TLR9/codon/915
+TUBB2B,182,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TUBB2B/codon/182
+ADCY7,904,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ADCY7/codon/904
+RARA,349,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RARA/codon/349
+TYK2,962,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TYK2/codon/962
+KLK3,229,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KLK3/codon/229
+DIAPH2,194,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/DIAPH2/codon/194
+NRAS,54,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NRAS/codon/54
+KIFC3,451,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/KIFC3/codon/451
+LATS2,672,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/LATS2/codon/672
+SUCLG1,122,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SUCLG1/codon/122
+MATN3,82,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MATN3/codon/82
+PRKACA,215,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRKACA/codon/215
+PRMT8,247,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PRMT8/codon/247
+ITK,202,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ITK/codon/202
+ADCY2,298,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ADCY2/codon/298
+SH2D1A,8,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SH2D1A/codon/8
+PSMA7,91,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMA7/codon/91
+MSX2,166,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MSX2/codon/166
+SAT1,154,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SAT1/codon/154
+RGS20,335,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RGS20/codon/335
+TRIM56,24,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TRIM56/codon/24
+SRSF1,51,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SRSF1/codon/51
+GNB2,284,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/GNB2/codon/284
+TAF1,1416,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TAF1/codon/1416
+BMP10,396,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BMP10/codon/396
+TNIK,166,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNIK/codon/166
+FRK,145,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FRK/codon/145
+ELANE,156,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ELANE/codon/156
+PAX3,244,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PAX3/codon/244
+CLNS1A,43,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CLNS1A/codon/43
+GRIA4,516,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRIA4/codon/516
+PPP1R12B,215,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PPP1R12B/codon/215
+LRRK2,1446,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LRRK2/codon/1446
+PIK3R3,419,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PIK3R3/codon/419
+RAF1,66,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAF1/codon/66
+NR2C2,151,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NR2C2/codon/151
+ACTN3,100,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ACTN3/codon/100
+CHRNB4,263,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CHRNB4/codon/263
+PABPC1,307,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PABPC1/codon/307
+CKM,19,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/CKM/codon/19
+S100B,85,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/S100B/codon/85
+PRDX2,172,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PRDX2/codon/172
+RING1,110,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RING1/codon/110
+TAF4B,655,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TAF4B/codon/655
+TP63,329,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TP63/codon/329
+VAV2,698,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/VAV2/codon/698
+NOTCH2,335,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NOTCH2/codon/335
+SF3B6,81,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/SF3B6/codon/81
+RIT2,78,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RIT2/codon/78
+HBEGF,132,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/HBEGF/codon/132
+H4C1,79,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/H4C1/codon/79
+IL13,51,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/IL13/codon/51
+FOXP2,559,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/FOXP2/codon/559
+CAMK2B,275,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CAMK2B/codon/275
+PSMB6,103,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PSMB6/codon/103
+SMURF1,730,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SMURF1/codon/730
+TP53,177,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/177
+HSPG2,3222,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/HSPG2/codon/3222
+MAP3K12,191,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MAP3K12/codon/191
+MYL12B,109,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYL12B/codon/109
+HOMER1,9,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HOMER1/codon/9
+HBEGF,115,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HBEGF/codon/115
+BRCA1,1837,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BRCA1/codon/1837
+FGR,434,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FGR/codon/434
+FLNC,124,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/FLNC/codon/124
+RAP2B,71,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RAP2B/codon/71
+ITK,500,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ITK/codon/500
+MYLK,1824,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/MYLK/codon/1824
+PLEKHA6,82,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PLEKHA6/codon/82
+RGS7,290,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RGS7/codon/290
+FBXW11,430,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/FBXW11/codon/430
+TCP1,113,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TCP1/codon/113
+ATP6V1C2,181,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/ATP6V1C2/codon/181
+CDK13,957,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CDK13/codon/957
+CCNT1,146,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CCNT1/codon/146
+RARA,380,,1,1,Tier 1,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RARA/codon/380
+RIT2,55,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RIT2/codon/55
+HBEGF,118,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HBEGF/codon/118
+CYP11B1,53,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/CYP11B1/codon/53
+GRIA2,749,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRIA2/codon/749
+TEC,587,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TEC/codon/587
+BBS10,62,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BBS10/codon/62
+TOB1,65,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TOB1/codon/65
+EXOSC5,147,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/EXOSC5/codon/147
+TRIM39,436,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIM39/codon/436
+TUBG1,182,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/TUBG1/codon/182
+STX4,206,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/STX4/codon/206
+E2F1,138,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/E2F1/codon/138
+PSMB8,126,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/PSMB8/codon/126
+FEN1,28,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/FEN1/codon/28
+HOXD1,253,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/HOXD1/codon/253
+NR4A1,309,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/NR4A1/codon/309
+GRK4,191,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/GRK4/codon/191
+TRIB3,234,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TRIB3/codon/234
+TP53,181,,1,1,Tier 1,TIER_3,https://cancer.sanger.ac.uk/cmc/gene/TP53/codon/181
+RXRA,397,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RXRA/codon/397
+RHOH,37,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RHOH/codon/37
+RNF111,957,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/RNF111/codon/957
+SHE,397,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SHE/codon/397
+PHC2,822,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PHC2/codon/822
+NEDD4,1097,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/NEDD4/codon/1097
+TIMM9,66,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TIMM9/codon/66
+MOS,101,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MOS/codon/101
+BIRC2,569,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/BIRC2/codon/569
+MYL2,127,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MYL2/codon/127
+PIAS2,204,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/PIAS2/codon/204
+LMX1A,197,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/LMX1A/codon/197
+SF3B4,45,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/SF3B4/codon/45
+C1R,211,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/C1R/codon/211
+TNPO1,551,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/TNPO1/codon/551
+UBA6,985,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/UBA6/codon/985
+AP2B1,517,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/AP2B1/codon/517
+RCC1,323,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/RCC1/codon/323
+MEX3B,542,,1,1,None,OTHER_MUTATION,https://cancer.sanger.ac.uk/cmc/gene/MEX3B/codon/542
+FGFR2,252,,1,1,Tier 1,TIER_1,https://cancer.sanger.ac.uk/cmc/gene/FGFR2/codon/252
+ESYT3,487,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/ESYT3/codon/487
+FGF1,109,We don’t recognise that codon in our database! Please try your search again.,1,0,,,https://cancer.sanger.ac.uk/cmc/gene/FGF1/codon/109

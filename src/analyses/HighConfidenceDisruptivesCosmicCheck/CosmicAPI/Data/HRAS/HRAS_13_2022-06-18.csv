@@ -1,0 +1,9 @@
+GENE,CODON,CGC_STATUS,TIER,COSMIC_MUT,NUCLEOTIDE_CHANGE,AA_CHANGE,MUTATION_TYPE
+HRAS,13,Tier 1,TIER_1,COSV54236651,c.37G>C,p.G13R,Substitution - Missense
+HRAS,13,Tier 1,TIER_1,COSV54237051,c.38G>T,p.G13V,Substitution - Missense
+HRAS,13,Tier 1,TIER_1,COSV54237021,c.38G>A,p.G13D,Substitution - Missense
+HRAS,13,Tier 1,TIER_1,COSV54241641,c.37G>T,p.G13C,Substitution - Missense
+HRAS,13,Tier 1,TIER_2,COSV54236730,c.37G>A,p.G13S,Substitution - Missense
+HRAS,13,Tier 1,TIER_3,COSV54241327,c.37_38delinsAA,p.G13N,Substitution - Missense
+HRAS,13,Tier 1,TIER_3,COSV104539835,c.37_39delinsAAG,p.G13K,Substitution - Missense
+HRAS,13,Tier 1,OTHER_MUTATION,COSV54250075,c.39T>A,p.G13=,Substitution - coding silent
