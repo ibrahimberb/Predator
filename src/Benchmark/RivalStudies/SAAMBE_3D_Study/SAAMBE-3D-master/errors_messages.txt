@@ -1,0 +1,2 @@
+Error type: Please check the PDB file, there is no coordinate at the mutation site
+Error type: Wild type amino acid does not match the structure.
