@@ -180,6 +180,23 @@ def get_current_date_time():
     return current_time
 
 
+def log(message, kind):
+    if kind == "debug":
+        log.debug(message)
+
+    elif kind == "info":
+        log.info(message)
+
+    elif kind == "warning":
+        log.warning(message)
+
+    elif kind == "error":
+        log.error(message)
+
+    elif kind == "critical":
+        log.critical(message)
+
+
 def unzip_predator(predator_zip_file_path):
     predator_zip_folder_path = pathlib.Path(predator_zip_file_path).parent
 
