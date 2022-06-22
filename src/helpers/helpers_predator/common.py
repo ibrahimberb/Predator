@@ -180,7 +180,7 @@ def get_current_date_time():
     return current_time
 
 
-def log(message, kind):
+def predator_log(message, kind="info"):
     if kind == "debug":
         log.debug(message)
 
