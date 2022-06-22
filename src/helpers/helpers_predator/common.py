@@ -7,6 +7,9 @@ from datetime import datetime
 from pathlib import Path
 import copy
 
+import zipfile
+import pathlib
+
 from ..mylogger import get_handler
 import logging
 
@@ -175,6 +178,24 @@ def export_config(config, config_path):
 def get_current_date_time():
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     return current_time
+
+
+def unzip_predator(predator_zip_file_path):
+    predator_zip_folder_path = pathlib.Path(predator_zip_file_path).parent
+
+    predator_file_path = op.join(predator_zip_folder_path, "predator.pkl")
+
+    # If the file predator_file_path exists, do nothing...
+    if op.isfile(predator_file_path):
+        log.debug(f"Predator in {predator_file_path} already exists...")
+        return
+
+    # Extract from zip file
+    else:
+        with zipfile.ZipFile(predator_zip_file_path, 'r') as zip_ref:
+            zip_ref.extractall(predator_zip_folder_path)
+
+        log.info(f"Predator model is extracted from zip file.\n{predator_zip_folder_path}.")
 
 
 def compare_predator_objects(p1, p2):
