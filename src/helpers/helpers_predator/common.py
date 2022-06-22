@@ -5,6 +5,7 @@ import numpy as np
 import os.path as op
 from datetime import datetime
 from pathlib import Path
+import copy
 
 from ..mylogger import get_handler
 import logging
@@ -198,7 +199,14 @@ def compare_predator_objects(p1, p2):
     for k in p1.__dict__.keys():
         log.debug(f"Checking attribute {k} ..")
 
-        if k in ["n_experiment", "n_models", "random_seeds", "tcga_cohorts", "eliminate_models", "config"]:
+        if k in ["n_experiment", "n_models", "random_seeds", "tcga_cohorts", "eliminate_models"]:
+            assert getattr(p1, k) == getattr(p2, k)
+
+        elif k == "config":
+            config_1 = copy.deepcopy(p1.config)
+            config_2 = copy.deepcopy(p2.config)
+            del config_1["main"]["preparation_completed"]
+            del config_2["main"]["preparation_completed"]
             assert getattr(p1, k) == getattr(p2, k)
 
         elif k == "paths":
