@@ -6,6 +6,8 @@ import os.path as op
 from datetime import datetime
 from pathlib import Path
 import copy
+import os
+import re
 
 import zipfile
 import pathlib
@@ -85,10 +87,6 @@ def export_serialized_predator(predator, folder_path="PredatorModels") -> None:
     -------
         None. Exports to file.
     """
-    # TODO: Create a folder named `SerializedModel` (find better name) and
-    #  export the config file, too.
-    #  folder will be containing production ready pickle object and its metadata.
-
     current_date = datetime.today().strftime('%Y-%m-%d')
 
     random_id = get_random_id(folder_path)
@@ -213,6 +211,24 @@ def unzip_predator(predator_zip_file_path):
             zip_ref.extractall(predator_zip_folder_path)
 
         log.info(f"Predator model is extracted from zip file.\n{predator_zip_folder_path}.")
+
+
+def unzip_snv_files(snv_files_path):
+    pattern = re.compile(r"^SNV_(.*).zip$")
+    zip_files = [file for file in os.listdir(snv_files_path) if pattern.match(file)]
+
+    for file in zip_files:
+        file_path = op.join(snv_files_path, file)
+        extracted_file_name = file.replace(".zip", ".csv")
+        extracted_file_path = op.join(snv_files_path, extracted_file_name)
+        if op.isfile(extracted_file_path):
+            log.debug(f"{extracted_file_name} already exists...")
+
+        else:
+            with zipfile.ZipFile(file_path, 'r') as zip_ref:
+                zip_ref.extractall(snv_files_path)
+
+            log.debug(f"{extracted_file_name} is extracted successfully.")
 
 
 def compare_predator_objects(p1, p2):
