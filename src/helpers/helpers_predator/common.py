@@ -348,11 +348,30 @@ def compare_predator_objects(p1, p2):
                 assert p1.fine_tuner.classifiers_attributes_data.iloc[i, 2] == \
                        p2.fine_tuner.classifiers_attributes_data.iloc[i, 2], i
 
-            assert all([str(a) == str(b) for a, b in zip(p1.fine_tuner.randomized_search_objects,
-                                                         p2.fine_tuner.randomized_search_objects)])
+            N_JOBS_REGEX_PATTERN = r'n_jobs=-?[0-9]\d*?'
+            for a, b in zip(p1.fine_tuner.randomized_search_objects, p2.fine_tuner.randomized_search_objects):
+                if hasattr(a, "__getitem__") and hasattr(b, "__getitem__"):
+                    for aa, bb in zip(a, b):
+                        s1 = re.sub(N_JOBS_REGEX_PATTERN, '', str(aa))
+                        s2 = re.sub(N_JOBS_REGEX_PATTERN, '', str(bb))
+                        assert s1 == s2
 
-            assert all([str(a) == str(b) for a, b in zip(p1.fine_tuner.best_estimators,
-                                                         p2.fine_tuner.best_estimators)])
+                else:
+                    s1 = re.sub(N_JOBS_REGEX_PATTERN, '', str(a))
+                    s2 = re.sub(N_JOBS_REGEX_PATTERN, '', str(b))
+                    assert s1 == s2, f"s1:{s1}, s2:{s2}"
+
+            for a, b in zip(p1.fine_tuner.best_estimators, p2.fine_tuner.best_estimators):
+                if hasattr(a, "__getitem__") and hasattr(b, "__getitem__"):
+                    for aa, bb in zip(a, b):
+                        s1 = re.sub(N_JOBS_REGEX_PATTERN, '', str(aa))
+                        s2 = re.sub(N_JOBS_REGEX_PATTERN, '', str(bb))
+                        assert s1 == s2
+
+                else:
+                    s1 = re.sub(N_JOBS_REGEX_PATTERN, '', str(a))
+                    s2 = re.sub(N_JOBS_REGEX_PATTERN, '', str(b))
+                    assert s1 == s2
 
             assert p1.fine_tuner.param_grid == p2.fine_tuner.param_grid
 
