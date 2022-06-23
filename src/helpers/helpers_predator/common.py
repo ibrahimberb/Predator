@@ -245,7 +245,7 @@ def compare_predator_objects(p1, p2):
             config_2 = copy.deepcopy(p2.config)
             del config_1["main"]["preparation_completed"]
             del config_2["main"]["preparation_completed"]
-            assert getattr(p1, k) == getattr(p2, k)
+            assert config_1 == config_2
 
         elif k == "paths":
             assert p1.paths.__dict__.keys() == p2.paths.__dict__.keys()
