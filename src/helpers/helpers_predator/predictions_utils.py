@@ -335,7 +335,7 @@ def add_votes(
 
 def take_avg(x):
     """
-    Returns the average of probabilities of class X. # TODO: Which class?
+    Returns the average of probabilities.
     If number of NO_VOTE are more than half, returns NO_VOTE.
     """
     n_no_votes = len([e for e in x if e == 'NO_VOTE'])
@@ -347,7 +347,7 @@ def take_avg(x):
 
 def take_median(x):
     """
-    Returns the median of probabilities of class X. # TODO: Which class?
+    Returns the median of probabilities.
     If number of NO_VOTE are more than half, returns NO_VOTE.
     """
     n_no_votes = len([e for e in x if e == 'NO_VOTE'])
