@@ -13,3 +13,4 @@ openpyxl~=3.0.9
 xlsxwriter~=3.0.3
 jupyterlab
 ipywidgets
+papermill
