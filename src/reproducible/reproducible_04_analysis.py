@@ -1,9 +1,7 @@
 import papermill as pm
 import os
 import os.path as op
-
 import sys
-sys.path.insert(0, "../../")
 
 FILE_NAME = op.basename(__file__)
 
