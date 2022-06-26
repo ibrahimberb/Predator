@@ -1,21 +1,11 @@
 import papermill as pm
 import os
 import warnings
-
 import os.path as op
-
-from sklearn.exceptions import UndefinedMetricWarning
-
 import sys
-sys.path.insert(0, "../../")
 
-warnings.filterwarnings(
-    'ignore', category=RuntimeWarning, append=True
-)
+warnings.filterwarnings("ignore")
 
-warnings.filterwarnings(
-    'ignore', category=UndefinedMetricWarning, append=True
-)
 
 FILE_NAME = op.basename(__file__)
 
