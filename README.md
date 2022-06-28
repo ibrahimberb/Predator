@@ -52,7 +52,7 @@ please execute the following command:
 ``python reproducable_01_training_predator.py``
 
 Newly trained model will be extracted in 
-`src\PredatorModels\PredatorModel_<date>\<hash>` directory. Additionally, a new executed
+_src\PredatorModels\PredatorModel\_<date\>\\\<hash>_ directory. Additionally, a new executed
 Jupyter notebook _Reproduced_PredatorStudyModel.ipynb_ will be created in _reproducible_ folder.
 
 ### Predictions on the TCGA Mutation Datasets
@@ -87,9 +87,9 @@ with the command below:
 
 Execution of this command will create counts file for each TCGA.
 
-Run the first part of the notebook `tables/preliminary_tables_counts.ipynb` as indicated.
+Run the first part of the notebook _tables/preliminary_tables_counts.ipynb_ as indicated.
 
-Run the notebook `analyses/PatientInteractionAnalysis/PatientInteractionAnalysis.ipynb`
+Run the notebook _analyses/PatientInteractionAnalysis/PatientInteractionAnalysis.ipynb_.
 
-Continue with the second part of the `tables/preliminary_tables_counts.ipynb`, which
+Continue with the second part of the _tables/preliminary_tables_counts.ipynb_, which
 the Gene Level Statistics table will be generated.
