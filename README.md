@@ -3,7 +3,7 @@
 <h2 align="center">Predicting the Impact of Cancer Somatic Mutations on Protein-Protein Interactions</h2>
 <br/>
 
-[Predator](https://github.com/abucompbio/predator/) is a computational tool that offers both 
+[Predator](https://github.com/abu-compbio/Predator/) is a computational tool that offers both 
 the prediction of mutation effects on protein-protein interactions by classifying them 
 into disrupting and nondisrupting and provides a comprehensive analysis on candidate cancer 
 associated genes, their most frequently disrupted interaction partners, cancer patients and 
@@ -46,7 +46,7 @@ Below are the steps to obtain the results in the paper.
 
 
 ### Training the _Predator_
-The trained model can be found in [here](https://www.google.com). In order to train from scratch, 
+The trained model can be found in [here](https://github.com/abu-compbio/Predator/tree/main/src/PredatorModels/PredatorModel_2022-06-16/cc84a54e). In order to train from scratch, 
 please execute the following command:
 
 ``python reproducable_01_training_predator.py``
