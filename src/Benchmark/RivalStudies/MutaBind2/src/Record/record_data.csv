@@ -1,0 +1,741 @@
+MUTATION_EFFECT_LABEL,PROTEIN,MUTATION,INTERACTOR,PDB_ID,CHAIN_ID_1,CHAIN_ID_2,ERROR_ENCOUNTERED,SUBMITTED,SAVED,RESULT_URL,JOB_ID,PDB_ID_REGISTERED,MUTATED_CHAIN,MUTATION_REGISTERED,DDG_PREDICTED,INTERFACE,DELETERIOUS
+1,Q9BPZ3,F118A,P11940,1jgn,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01116,Y40C,P50749,3ddc,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102717134899375098563,Job Id: 2022102717134899375098563,Job Id: 2022102717134899375098563,A,Y40C,2.38,Yes,Yes
+1,Q96QK1,F534D,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102717361551438880483,Job Id: 2022102717361551438880483,Job Id: 2022102717361551438880483,C,F534D,1.64,Yes,Yes
+1,Q96QK1,F534D,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102717480232687747253,Job Id: 2022102717480232687747253,Job Id: 2022102717480232687747253,C,F534D,1.62,Yes,Yes
+1,O43521-3,G66A,Q07812,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07812-2,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07812-4,2nl9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102718050236823330790,Job Id: 2022102718050236823330790,Job Id: 2022102718050236823330790,B,G66A,2.94,Yes,Yes
+1,O43521-3,G66A,Q07812-5,2nl9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102718112448636708077,Job Id: 2022102718112448636708077,Job Id: 2022102718112448636708077,B,G66A,2.94,Yes,Yes
+1,O43521-3,G66A,Q07812-6,2nl9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102718162473826115737,Job Id: 2022102718162473826115737,Job Id: 2022102718162473826115737,B,G66A,2.94,Yes,Yes
+1,O43521-3,G66A,Q07812-7,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07812-8,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q13418,Q362H,Q9NVD7,3rep,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102718223703511845560,Job Id: 2022102718223703511845560,Job Id: 2022102718223703511845560,A,Q362H,0.68,Yes,No
+1,Q9BV40,L51P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P11802,R24C,P42772,1bi7,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9HAU5,M1173E,Q92900,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102718363727493918157,Job Id: 2022102718363727493918157,Job Id: 2022102718363727493918157,E,M1173E,2.52,Yes,Yes
+1,Q9HAU5,M1173E,Q92900-2,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102719040573007905420,Job Id: 2022102719040573007905420,Job Id: 2022102719040573007905420,E,M1173E,2.47,Yes,Yes
+0,Q969J2,G79R,Q96IT1,3lhr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9UH99,S641E,Q8WXH0-3,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102719315412019902957,Job Id: 2022102719315412019902957,Job Id: 2022102719315412019902957,A,S641E,2.33,Yes,Yes
+1,Q9UH99,S641E,Q8WXH0-4,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102800413762661599033,Job Id: 2022102800413762661599033,Job Id: 2022102800413762661599033,A,S641E,2.33,Yes,Yes
+1,Q9UH99,S641E,Q8WXH0-7,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102800533682676548324,Job Id: 2022102800533682676548324,Job Id: 2022102800533682676548324,A,S641E,2.33,Yes,Yes
+1,Q9UH99,S641E,Q8WXH0,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102801032685845805018,Job Id: 2022102801032685845805018,Job Id: 2022102801032685845805018,A,S641E,2.32,Yes,Yes
+1,Q9UH99,S641E,Q8WXH0-2,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102801184730912157662,Job Id: 2022102801184730912157662,Job Id: 2022102801184730912157662,A,S641E,2.32,Yes,Yes
+1,Q9UH99,S641E,Q8WXH0-5,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102801294283993863479,Job Id: 2022102801294283993863479,Job Id: 2022102801294283993863479,A,S641E,2.33,Yes,Yes
+1,Q9UH99,S641E,Q8WXH0-6,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102801420871826579740,Job Id: 2022102801420871826579740,Job Id: 2022102801420871826579740,A,S641E,2.33,Yes,Yes
+1,Q9Y4K3,L74E,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102801520786419498398,Job Id: 2022102801520786419498398,Job Id: 2022102801520786419498398,A,L74E,3.03,Yes,Yes
+1,P62805,R37A,Q71DI3,1kx5,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P38919,R206E,O15234,3ex7,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102802040287279313652,Job Id: 2022102802040287279313652,Job Id: 2022102802040287279313652,C,R206E,1.34,Yes,No
+1,Q15013,Q83A,Q13257,2qyf,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102802531486032053827,Job Id: 2022102802531486032053827,Job Id: 2022102802531486032053827,B,Q83A,2.72,Yes,Yes
+1,Q13241,F114A,P13747,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01112,E37G,P04049,4g0n,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102803364182973279317,Job Id: 2022102803364182973279317,Job Id: 2022102803364182973279317,A,E37G,1.77,Yes,Yes
+1,P01112,E37G,P04049-2,4g0n,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102803474414871821557,Job Id: 2022102803474414871821557,Job Id: 2022102803474414871821557,A,E37G,1.8,Yes,Yes
+1,Q53EL6,D414A,P60842,2zu6,B,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102804001154559719973,Job Id: 2022102804001154559719973,Job Id: 2022102804001154559719973,B,D414A,0.51,Yes,No
+1,Q99558,K430A,O14920-3,4idt,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102804205452506159820,Job Id: 2022102804205452506159820,Job Id: 2022102804205452506159820,B,K430A,1.31,Yes,No
+0,P42773,T69A,Q00534,1blx,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,Q92843,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,Q92843-2,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q13794,F32I,Q07817,3mqp,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102804483107477917243,Job Id: 2022102804483107477917243,Job Id: 2022102804483107477917243,B,F32I,-0.97,Yes,No
+1,Q96F10,R126C,P21673,2b4d,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P61587,Y60A,O43157,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q15019,H270D,Q14141-2,2qag,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102804592152133456792,Job Id: 2022102804592152133456792,Job Id: 2022102804592152133456792,A,H270D,0.79,Yes,No
+0,Q15019,H270D,Q14141-3,2qag,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102805184852325754905,Job Id: 2022102805184852325754905,Job Id: 2022102805184852325754905,A,H270D,0.82,Yes,No
+0,Q15019,H270D,Q14141-4,2qag,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102814554342079157466,Job Id: 2022102814554342079157466,Job Id: 2022102814554342079157466,A,H270D,0.8,Yes,No
+1,P04049,R89L,P15056,3ny5,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P50616,Y50N,Q9UIV1,2d5r,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P50616,Y50N,Q9UIV1-2,2d5r,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P25815,F74V,P23297,2y5i,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P25815,I11A,P23297,2y5i,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P60891,N114S,P11908,4f8e,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102816074070221403484,Job Id: 2022102816074070221403484,Job Id: 2022102816074070221403484,B,N114S,0.46,Yes,No
+0,P60891,N114S,P11908-2,4f8e,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102816293252464489980,Job Id: 2022102816293252464489980,Job Id: 2022102816293252464489980,B,N114S,0.45,Yes,No
+1,Q9HCG8,N174A,P38919,4c9b,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102816512487304833295,Job Id: 2022102816512487304833295,Job Id: 2022102816512487304833295,B,N174A,0.95,Yes,No
+1,Q9BZW8,E70A,P09326,2ptt,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P55957,D95A,Q07817,1zy3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q16665,V336E,P27540,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102817191314262057712,Job Id: 2022102817191314262057712,Job Id: 2022102817191314262057712,A,V336E,2.39,Yes,Yes
+1,Q16665,V336E,P27540-2,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102817273561605862037,Job Id: 2022102817273561605862037,Job Id: 2022102817273561605862037,A,V336E,2.39,Yes,Yes
+1,Q16665,V336E,P27540-3,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102817491755426688662,Job Id: 2022102817491755426688662,Job Id: 2022102817491755426688662,A,V336E,2.39,Yes,Yes
+0,P46527,Y88A,P07948,1jsu,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102817575894095182649,Job Id: 2022102817575894095182649,Job Id: 2022102817575894095182649,C,Y88A,3.44,Yes,Yes
+0,P46527,Y88A,P07948-2,1jsu,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102818084846614652700,Job Id: 2022102818084846614652700,Job Id: 2022102818084846614652700,C,Y88A,3.44,Yes,Yes
+1,P61587,L90R,O43157-2,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61587,L90R,O43157,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q92900,V204D,Q9HAU5,2wjv,B,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102818221054680226506,Job Id: 2022102818221054680226506,Job Id: 2022102818221054680226506,B,V204D,1.03,Yes,No
+1,Q8N5H7-2,L469R,P56945-4,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102819494913182122502,Job Id: 2022102819494913182122502,Job Id: 2022102819494913182122502,A,L469R,3.12,Yes,Yes
+1,Q8N5H7-2,L469R,P56945-7,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102822225604665933923,Job Id: 2022102822225604665933923,Job Id: 2022102822225604665933923,A,L469R,3.09,Yes,Yes
+1,Q8N5H7-2,L469R,P56945-8,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102917484315738539373,Job Id: 2022102917484315738539373,Job Id: 2022102917484315738539373,A,L469R,3.12,Yes,Yes
+1,Q8N5H7-2,L469R,P56945,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102918015900385351965,Job Id: 2022102918015900385351965,Job Id: 2022102918015900385351965,A,L469R,3.12,Yes,Yes
+1,Q8N5H7-2,L469R,P56945-2,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102919214685301165118,Job Id: 2022102919214685301165118,Job Id: 2022102919214685301165118,A,L469R,3.1,Yes,Yes
+1,Q8N5H7-2,L469R,P56945-3,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102919351106133318953,Job Id: 2022102919351106133318953,Job Id: 2022102919351106133318953,A,L469R,3.12,Yes,Yes
+1,Q8N5H7-2,L469R,P56945-5,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102919471273354158695,Job Id: 2022102919471273354158695,Job Id: 2022102919471273354158695,A,L469R,3.12,Yes,Yes
+1,Q8N5H7-2,L469R,P56945-6,3t6g,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102920003219626353764,Job Id: 2022102920003219626353764,Job Id: 2022102920003219626353764,A,L469R,3.11,Yes,Yes
+1,P02671,C184W,P02675,3ghg,J,K,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P26715,V213A,P13747,1p4l,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P38919,H223D,P61326,2j0s,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102920143544392953135,Job Id: 2022102920143544392953135,Job Id: 2022102920143544392953135,A,H223D,0.97,Yes,No
+1,Q13241,Q112A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y376,F178E,Q9P289,2wtk,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102920315845657288885,Job Id: 2022102920315845657288885,Job Id: 2022102920315845657288885,D,F178E,2.06,Yes,Yes
+1,Q9Y376,F178E,Q9P289-2,2wtk,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102920520020764802126,Job Id: 2022102920520020764802126,Job Id: 2022102920520020764802126,D,F178E,2.07,Yes,Yes
+1,Q9Y376,F178E,Q9P289-3,3gni,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102921141701635434973,Job Id: 2022102921141701635434973,Job Id: 2022102921141701635434973,A,F178E,2.0,Yes,Yes
+1,Q9HAU5,F1171E,Q92900,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102921320294234585969,Job Id: 2022102921320294234585969,Job Id: 2022102921320294234585969,E,F1171E,3.54,Yes,Yes
+1,Q9HAU5,F1171E,Q92900-2,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102921585940660428656,Job Id: 2022102921585940660428656,Job Id: 2022102921585940660428656,E,F1171E,3.54,Yes,Yes
+1,Q13241,N160A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P07195,R172P,P00338-2,4aj2,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P07195,R172P,P00338-3,4aj2,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P07195,R172P,P00338-5,4aj2,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,L46P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812-2,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812-4,2nl9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102922541877570699282,Job Id: 2022102922541877570699282,Job Id: 2022102922541877570699282,B,G66E,3.97,Yes,Yes
+1,O43521-3,G66E,Q07812-5,2nl9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102923005850262342869,Job Id: 2022102923005850262342869,Job Id: 2022102923005850262342869,B,G66E,3.97,Yes,Yes
+1,O43521-3,G66E,Q07812-6,2nl9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022102923074386677210640,Job Id: 2022102923074386677210640,Job Id: 2022102923074386677210640,B,G66E,3.99,Yes,Yes
+1,O43521-3,G66E,Q07812-7,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812-8,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P15056,L515G,P04049,4h58,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P15056,L515G,P04049-2,4h58,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14893,R213D,Q16637,2leh,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103001344692668626917,Job Id: 2022103001344692668626917,Job Id: 2022103001344692668626917,A,R213D,1.11,Yes,No
+1,O14893,R213D,Q16637-2,2leh,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103001445466813471497,Job Id: 2022103001445466813471497,Job Id: 2022103001445466813471497,A,R213D,1.12,Yes,No
+1,O14893,R213D,Q16637-3,2leh,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103001552338294681066,Job Id: 2022103001552338294681066,Job Id: 2022103001552338294681066,A,R213D,1.13,Yes,No
+1,O14893,R213D,Q16637-4,2leh,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103002063057560731634,Job Id: 2022103002063057560731634,Job Id: 2022103002063057560731634,A,R213D,1.15,Yes,No
+0,Q71DI3,M91G,P62805,1kx5,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q96QK1,N725A,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103002172911224977745,Job Id: 2022103002172911224977745,Job Id: 2022103002172911224977745,C,N725A,1.34,Yes,No
+1,Q96QK1,N725A,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103002293188752419238,Job Id: 2022103002293188752419238,Job Id: 2022103002293188752419238,C,N725A,1.21,Yes,No
+1,Q13133,K273A,Q15788,1p8d,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13133,K273A,Q15788-2,1p8d,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13133,K273A,Q15788-3,1p8d,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8N423,Y61A,P17693,2dyp,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9UJM3,M346A,P00533,4i21,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103002444427515936213,Job Id: 2022103002444427515936213,Job Id: 2022103002444427515936213,C,M346A,2.96,Yes,Yes
+1,Q15788,L694A,Q13133,1p8d,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15788,L694A,Q13133-2,1p8d,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15788,L694A,Q13133-3,1p8d,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13133,E441A,Q15788,1p8d,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13257,Y199A,Q12834,4aez,H,G,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103002585114148487663,Job Id: 2022103002585114148487663,Job Id: 2022103002585114148487663,H,Y199A,1.0,No,No
+0,P11362,P252R,P08620,3ojv,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103003162744270177444,Job Id: 2022103003162744270177444,Job Id: 2022103003162744270177444,C,P252R,0.86,Yes,No
+1,Q13241,Q112A,P13747,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O00311,I99T,Q9UBU7,4f9a,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103003310977213357850,Job Id: 2022103003310977213357850,Job Id: 2022103003310977213357850,C,I99T,0.4,Yes,No
+1,O14980,F572A,O95149,3nc0,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103004432447288760830,Job Id: 2022103004432447288760830,Job Id: 2022103004432447288760830,D,F572A,1.82,Yes,Yes
+1,Q13241,N160A,P13747,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y4K3,L74R,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103005485030712877300,Job Id: 2022103005485030712877300,Job Id: 2022103005485030712877300,A,L74R,3.08,Yes,Yes
+1,P51809,L157P,O15400,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P51809,L157P,O15400-2,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,Y201A,Q9UHP7,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,Y201A,Q9UHP7-2,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,Y201A,Q9UHP7-6,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q16611,Y110E,P55957,4bd2,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q16611,Y110E,P55957-2,4bd2,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q13241,T146A,P13747,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P11802,R24H,P42773,1blx,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,D73K,Q9BRP8,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q96QK1,Q586A,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103006095365023377219,Job Id: 2022103006095365023377219,Job Id: 2022103006095365023377219,C,Q586A,0.95,Yes,No
+1,Q96QK1,Q586A,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103006234845876971172,Job Id: 2022103006234845876971172,Job Id: 2022103006234845876971172,C,Q586A,0.98,Yes,No
+1,Q9UBQ0,W93A,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103006362195794931892,Job Id: 2022103006362195794931892,Job Id: 2022103006362195794931892,A,W93A,2.13,Yes,Yes
+1,Q96QK1,R582D,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103006491164301618380,Job Id: 2022103006491164301618380,Job Id: 2022103006491164301618380,C,R582D,1.04,Yes,No
+1,Q96QK1,R582D,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103007020423908865858,Job Id: 2022103007020423908865858,Job Id: 2022103007020423908865858,C,R582D,1.09,Yes,No
+1,P01903,G53D,P28068,4md4,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P56945,L787E,Q8N5H7-4,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103007160186149203922,Job Id: 2022103007160186149203922,Job Id: 2022103007160186149203922,B,L787E,1.7,Yes,Yes
+1,Q9BV40,L16P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13257,R133A,Q12834,4aez,H,G,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,T18P,O15400,3hd7,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,T18P,O15400-2,1sfc,I,J,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P02538,I462S,P13646,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q13794,K35E,Q92843,3mqp,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103007370916309611634,Job Id: 2022103007370916309611634,Job Id: 2022103007370916309611634,B,K35E,0.34,No,No
+0,Q13794,K35E,Q92843-2,3mqp,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103007450087218878526,Job Id: 2022103007450087218878526,Job Id: 2022103007450087218878526,B,K35E,0.38,No,No
+1,Q96QK1,Y729A,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103007530392541517859,Job Id: 2022103007530392541517859,Job Id: 2022103007530392541517859,C,Y729A,1.41,Yes,No
+1,Q96QK1,Y729A,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103008060005675043287,Job Id: 2022103008060005675043287,Job Id: 2022103008060005675043287,C,Y729A,1.46,Yes,No
+1,Q15836,V25P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13241,E164A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P55211,P336S,Q13490,1nw9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103008210863270374643,Job Id: 2022103008210863270374643,Job Id: 2022103008210863270374643,B,P336S,0.39,Yes,No
+1,P52298,D107R,Q09161,3fey,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103008304635037090565,Job Id: 2022103008304635037090565,Job Id: 2022103008304635037090565,B,D107R,1.61,Yes,Yes
+1,Q9NQT4,R96Q,Q96B26,2nn6,D,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103009034145706296586,Job Id: 2022103009034145706296586,Job Id: 2022103009034145706296586,D,R96Q,0.18,Yes,No
+1,Q8IYM1,G169E,Q8WYJ6,3sop,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E117R,Q9BRP8,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E117R,Q9BRP8-2,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P46527,Y74A,P07948,1jsu,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103009211656606245704,Job Id: 2022103009211656606245704,Job Id: 2022103009211656606245704,C,Y74A,2.49,Yes,Yes
+0,P46527,Y74A,P07948-2,1jsu,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103009314353461765890,Job Id: 2022103009314353461765890,Job Id: 2022103009314353461765890,C,Y74A,2.48,Yes,Yes
+1,Q13418,M402A,Q9NVD7,3rep,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103009425308136173510,Job Id: 2022103009425308136173510,Job Id: 2022103009425308136173510,A,M402A,2.21,Yes,Yes
+1,Q9UBQ0,P92G,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103009551545732188709,Job Id: 2022103009551545732188709,Job Id: 2022103009551545732188709,A,P92G,1.1,Yes,No
+1,Q12918,Y198A,Q9UHP7,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,Y198A,Q9UHP7-2,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,Y198A,Q9UHP7-3,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,Y198A,Q9UHP7-6,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P02538,I462S,P19012,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P04637,F19A,Q09472,2k8f,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103013273548576885880,Job Id: 2022103013273548576885880,Job Id: 2022103013273548576885880,B,F19A,0.9,Yes,No
+0,P60891,D183H,Q14558,4f8e,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103013353131705307747,Job Id: 2022103013353131705307747,Job Id: 2022103013353131705307747,B,D183H,1.38,Yes,No
+0,P60891,D183H,Q14558-2,4f8e,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103013543198345161942,Job Id: 2022103013543198345161942,Job Id: 2022103013543198345161942,B,D183H,1.38,Yes,No
+1,Q14457,L116A,Q16611,2pon,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01112,T35S,Q13671,2ot3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01112,T35S,Q13671-2,2ot3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01112,Y40C,Q13671,2ot3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01112,Y40C,Q13671-2,2ot3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q96NA2,R255A,P51149,1yhn,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103014225290362081816,Job Id: 2022103014225290362081816,Job Id: 2022103014225290362081816,B,R255A,1.57,Yes,Yes
+0,Q9Y248,L150S,Q9BRT9,2eho,K,I,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103014335947061043137,Job Id: 2022103014335947061043137,Job Id: 2022103014335947061043137,K,L150S,1.32,Yes,No
+1,Q10567,V88D,P84077,4hmy,B,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103014483072869588160,Job Id: 2022103014483072869588160,Job Id: 2022103014483072869588160,B,V88D,1.46,Yes,No
+1,Q96QK1,H675D,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103015172393219212300,Job Id: 2022103015172393219212300,Job Id: 2022103015172393219212300,C,H675D,1.23,Yes,No
+1,Q96QK1,H675D,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103016335975277393966,Job Id: 2022103016335975277393966,Job Id: 2022103016335975277393966,C,H675D,1.28,Yes,No
+1,Q8IYM1,D197N,Q8WYJ6,3sop,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9HAU4,C716A,P0CG47,4bbn,A,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9HAU4,C716A,P0CG47,4bbn,A,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O95149,N150A,O14980,3nc0,E,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103023074215004848522,Job Id: 2022103023074215004848522,Job Id: 2022103023074215004848522,E,N150A,0.33,Yes,No
+0,Q13794,F32I,Q92843,3mqp,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103023593006335709718,Job Id: 2022103023593006335709718,Job Id: 2022103023593006335709718,B,F32I,-0.96,Yes,No
+0,Q13794,F32I,Q92843-2,3mqp,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103100055456542746139,Job Id: 2022103100055456542746139,Job Id: 2022103100055456542746139,B,F32I,-0.97,Yes,No
+1,P63279,H20D,P61956,2uyz,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103100134094618872526,Job Id: 2022103100134094618872526,Job Id: 2022103100134094618872526,A,H20D,2.67,Yes,Yes
+1,P63279,H20D,P61956-2,2uyz,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103100222855364515666,Job Id: 2022103100222855364515666,Job Id: 2022103100222855364515666,A,H20D,2.65,Yes,Yes
+1,O95149,L4A,O14980,3nc0,E,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103100311956859451773,Job Id: 2022103100311956859451773,Job Id: 2022103100311956859451773,E,L4A,0.06,Yes,No
+1,P51809,T129P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q92797,K185A,Q9NP77,4h3k,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103101252099071538159,Job Id: 2022103101252099071538159,Job Id: 2022103101252099071538159,D,K185A,1.72,Yes,Yes
+1,Q92797,K185A,Q9NP77-2,4h3k,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103101412076248403966,Job Id: 2022103101412076248403966,Job Id: 2022103101412076248403966,D,K185A,1.69,Yes,Yes
+1,P38919,F232R,O15234,3ex7,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103101570304710776429,Job Id: 2022103101570304710776429,Job Id: 2022103101570304710776429,C,F232R,0.78,Yes,No
+0,P13646,R355H,P02538,3tnu,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01903,F49S,P01911,4i5b,D,E,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,A5PKW4,E621K,P62330,1r8s,E,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P07195,R172H,P00338-2,4aj2,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P07195,R172H,P00338-3,4aj2,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P07195,R172H,P00338-5,4aj2,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P61587,N86R,O43157-2,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P61587,N86R,O43157,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P40692,V213M,P54278-2,1h7s,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O95149,K144D,O14980,3nc0,E,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103102325742856519244,Job Id: 2022103102325742856519244,Job Id: 2022103102325742856519244,E,K144D,1.31,Yes,No
+0,P13747,R129A,Q13241,1p1z,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P13747,R129A,Q13241-3,1p1z,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y4K3,L74H,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103103321978292020893,Job Id: 2022103103321978292020893,Job Id: 2022103103321978292020893,A,L74H,2.91,Yes,Yes
+1,Q9BV40,L44P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P04637,L25A,Q09472,2k8f,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103104125024099744111,Job Id: 2022103104125024099744111,Job Id: 2022103104125024099744111,B,L25A,0.75,Yes,No
+1,Q16665,Y340T,P27540,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103104194535447932151,Job Id: 2022103104194535447932151,Job Id: 2022103104194535447932151,A,Y340T,2.42,Yes,Yes
+1,Q16665,Y340T,P27540-2,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103105171218647727586,Job Id: 2022103105171218647727586,Job Id: 2022103105171218647727586,A,Y340T,2.42,Yes,Yes
+1,Q16665,Y340T,P27540-3,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103105250148376374137,Job Id: 2022103105250148376374137,Job Id: 2022103105250148376374137,A,Y340T,2.43,Yes,Yes
+1,Q16531,W561K,Q13619,2hye,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103105325069545141907,Job Id: 2022103105325069545141907,Job Id: 2022103105325069545141907,A,W561K,2.84,Yes,Yes
+1,Q96QK1,F541D,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103106573589864237392,Job Id: 2022103106573589864237392,Job Id: 2022103106573589864237392,C,F541D,1.14,Yes,No
+1,Q96QK1,F541D,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103107104571275235451,Job Id: 2022103107104571275235451,Job Id: 2022103107104571275235451,C,F541D,1.12,Yes,No
+0,P13747,T235A,Q13241,1p1z,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P13747,T235A,Q13241-2,1p4l,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P13747,T235A,Q13241-3,1p1z,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV40,L16P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q16665,P564G,Q96KS0,3hqr,S,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103107272521936612181,Job Id: 2022103107272521936612181,Job Id: 2022103107272521936612181,S,P564G,2.88,Yes,Yes
+1,Q16665,P564G,Q96KS0-2,3hqr,S,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103107351460271893026,Job Id: 2022103107351460271893026,Job Id: 2022103107351460271893026,S,P564G,2.9,Yes,Yes
+0,P11362,P252R,P09038,1iil,H,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P11362,P252R,P09038-1,1cvs,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103107424045604157700,Job Id: 2022103107424045604157700,Job Id: 2022103107424045604157700,D,P252R,0.51,Yes,No
+0,P11362,P252R,P09038-2,1cvs,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103107555123158412160,Job Id: 2022103107555123158412160,Job Id: 2022103107555123158412160,D,P252R,0.51,Yes,No
+0,P11362,P252R,P09038-3,1cvs,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103108080691836164305,Job Id: 2022103108080691836164305,Job Id: 2022103108080691836164305,D,P252R,0.51,Yes,No
+1,O14641,Y27D,O15169,2d5g,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14641,Y27D,O15169-2,2d5g,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O15085,R868G,P61586,3qbv,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,G91V,P62805,1kx5,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O43543,V160I,O75771-4,1pzn,G,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O43543,V160I,O75771-7,1pzn,G,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O15111,K44M,P25963,3zu7,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P11362,P252R,P31371,3ojv,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103108273989822385534,Job Id: 2022103108273989822385534,Job Id: 2022103108273989822385534,C,P252R,0.89,Yes,No
+0,P12272,I64L,Q03431,3h3g,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P04637,L22A,Q09472,2k8f,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103108442055332296476,Job Id: 2022103108442055332296476,Job Id: 2022103108442055332296476,B,L22A,3.5,Yes,Yes
+1,O15085,R872D,P61586,3qbv,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E68R,Q9BRP8,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E68R,Q9BRP8-2,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8NI22,D122V,P49257,3lcp,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103108533624116150663,Job Id: 2022103108533624116150663,Job Id: 2022103108533624116150663,D,D122V,0.91,Yes,No
+1,Q13257,W167A,Q12834,4aez,H,G,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103109053620214701300,Job Id: 2022103109053620214701300,Job Id: 2022103109053620214701300,H,W167A,1.06,Yes,No
+0,P01133,L996V,P00533-3,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,H980Y,P00533,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-2,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-3,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-3,3ltf,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-4,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q92900,E182R,Q9HAU5,2wjv,B,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103109275002905765460,Job Id: 2022103109275002905765460,Job Id: 2022103109275002905765460,B,E182R,0.9,Yes,No
+0,Q13241,N158A,P13747,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P10276,P375L,P48443,1xdk,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141,2qag,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141-2,2qag,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141-3,2qag,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141-4,2qag,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q92692,F145A,Q495A1,3udw,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q92692,F145A,Q495A1-2,3udw,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV36,R35V,P51159-2,2zet,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103110041495803035987,Job Id: 2022103110041495803035987,Job Id: 2022103110041495803035987,D,R35V,2.18,Yes,Yes
+1,Q9BV36,R35V,P51159,2zet,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103115221754324928729,Job Id: 2022103115221754324928729,Job Id: 2022103115221754324928729,C,R35V,1.3,Yes,No
+1,Q96QK1,T629D,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103115424849243102196,Job Id: 2022103115424849243102196,Job Id: 2022103115424849243102196,C,T629D,1.37,Yes,No
+1,Q96QK1,T629D,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103115560831231509316,Job Id: 2022103115560831231509316,Job Id: 2022103115560831231509316,C,T629D,1.33,Yes,No
+0,P02489,R116C,P02511,3n3e,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q9UK55,E404A,P00742,2gd4,I,H,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q10567,I85D,P84077,4hmy,B,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103118412551443559464,Job Id: 2022103118412551443559464,Job Id: 2022103118412551443559464,B,I85D,1.75,Yes,Yes
+0,P02538,I462S,O76015,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P13489,Y438A,P03950,3tsr,F,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43809,Y160A,Q16630-3,3q2s,B,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103119115645471073744,Job Id: 2022103119115645471073744,Job Id: 2022103119115645471073744,B,Y160A,2.44,No,Yes
+1,O43809,Y160A,Q16630,3p5t,C,O,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103119240912818199692,Job Id: 2022103119240912818199692,Job Id: 2022103119240912818199692,C,Y160A,1.78,Yes,Yes
+1,O43809,Y160A,Q16630-2,3p5t,C,O,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103119330042192266160,Job Id: 2022103119330042192266160,Job Id: 2022103119330042192266160,C,Y160A,1.76,Yes,Yes
+1,Q96I25,R375A,P26368,3v4m,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q96I25,R375A,P26368-2,3v4m,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q96CA5,H164R,P55211,1nw9,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q96CA5,H164R,P55211-2,1nw9,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q96CA5,H164R,P55211-4,1nw9,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y2M5,L148A,Q13618,4hxi,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q16665,P564G,Q9GZT9-2,3hqr,S,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103119474671931455266,Job Id: 2022103119474671931455266,Job Id: 2022103119474671931455266,S,P564G,2.72,Yes,Yes
+1,Q16665,P564G,Q9GZT9-3,3hqr,S,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103119551364265992277,Job Id: 2022103119551364265992277,Job Id: 2022103119551364265992277,S,P564G,2.92,Yes,Yes
+1,Q16665,P564G,Q9GZT9,3hqr,S,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103120025628266645697,Job Id: 2022103120025628266645697,Job Id: 2022103120025628266645697,S,P564G,2.73,Yes,Yes
+1,Q99558,K430A,O15111,4idt,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103120104176802513106,Job Id: 2022103120104176802513106,Job Id: 2022103120104176802513106,B,K430A,1.31,Yes,No
+0,Q8WXD5,S25N,Q9H840,1y96,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103120294608440243305,Job Id: 2022103120294608440243305,Job Id: 2022103120294608440243305,A,S25N,0.11,Yes,No
+0,P52294,T433M,Q9UKX7,3tj3,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103120375492623090892,Job Id: 2022103120375492623090892,Job Id: 2022103120375492623090892,A,T433M,0.81,Yes,No
+1,P84077,L77D,Q10567-2,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022103120512055600491314,Job Id: 2022103120512055600491314,Job Id: 2022103120512055600491314,C,L77D,2.36,Yes,Yes
+1,P84077,L77D,Q10567-3,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110100183974301898188,Job Id: 2022110100183974301898188,Job Id: 2022110100183974301898188,C,L77D,2.37,Yes,Yes
+1,P84077,L77D,Q10567-4,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110100464105699873238,Job Id: 2022110100464105699873238,Job Id: 2022110100464105699873238,C,L77D,2.33,Yes,Yes
+1,P84077,L77D,Q10567,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110101563788884375517,Job Id: 2022110101563788884375517,Job Id: 2022110101563788884375517,C,L77D,2.37,Yes,Yes
+1,Q99814,Q322E,P27540,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110108055206513788542,Job Id: 2022110108055206513788542,Job Id: 2022110108055206513788542,A,Q322E,1.59,Yes,Yes
+1,Q99814,Q322E,P27540-2,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110108134219139343994,Job Id: 2022110108134219139343994,Job Id: 2022110108134219139343994,A,Q322E,1.6,Yes,Yes
+1,Q99814,Q322E,P27540-3,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110108212826421393310,Job Id: 2022110108212826421393310,Job Id: 2022110108212826421393310,A,Q322E,1.57,Yes,Yes
+1,Q9BV40,L44P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P11802,R24H,P55273,1blx,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P40692,F80V,P54278,1h7s,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110122123747903420401,Job Id: 2022110122123747903420401,Job Id: 2022110122123747903420401,B,F80V,0.78,No,No
+0,P40692,F80V,P54278-3,1h7s,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110122313762444905348,Job Id: 2022110122313762444905348,Job Id: 2022110122313762444905348,B,F80V,0.75,No,No
+1,Q14457,G120E,Q07817-3,2pon,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q14457,G120E,Q07817,2pon,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43541,G471S,Q15797,1khu,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07812,D68R,Q07817,4a1w,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61224,F64A,P47736,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110217211678172674591,Job Id: 2022110217211678172674591,Job Id: 2022110217211678172674591,D,F64A,1.82,Yes,Yes
+1,P61224,F64A,P47736-2,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110217524750620900539,Job Id: 2022110217524750620900539,Job Id: 2022110217524750620900539,D,F64A,1.8,Yes,Yes
+1,P61224,F64A,P47736-3,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110218440229928219577,Job Id: 2022110218440229928219577,Job Id: 2022110218440229928219577,D,F64A,1.8,Yes,Yes
+1,P61224,F64A,P47736-4,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110218594732875224255,Job Id: 2022110218594732875224255,Job Id: 2022110218594732875224255,D,F64A,1.84,Yes,Yes
+1,Q8WXH0,Y6878A,Q9UH99,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,Y6878A,Q9UH99-2,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,Y6878A,Q9UH99-3,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV40,V20P,O15400,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV40,V20P,O15400-2,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,L53P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q16531,A400D,Q13619,2hye,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110220502633392353812,Job Id: 2022110220502633392353812,Job Id: 2022110220502633392353812,A,A400D,1.04,Yes,No
+1,O15085,D873N,P61586,3qbv,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P38919,R179E,O15234,3ex7,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110222320066352362031,Job Id: 2022110222320066352362031,Job Id: 2022110222320066352362031,C,R179E,0.48,Yes,No
+1,P11940,K580A,Q9BPZ3,1jgn,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15672,L159F,P15923,2ypa,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15672,L159F,P15923-2,2ypa,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q16611,L163V,Q07817,4a1w,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q16611,L163V,Q07817-3,3zlr,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P25815,F74G,P23297,2y5i,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P11802,S52N,P42772,1bi7,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O00267,I194V,P63272,3h7h,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110321112932539032827,Job Id: 2022110321112932539032827,Job Id: 2022110321112932539032827,B,I194V,0.85,Yes,No
+1,P51809,L157P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13133,I442A,Q15788,1p8d,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13133,I442A,Q15788-2,1p8d,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13133,I442A,Q15788-3,1p8d,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IXQ5,A153T,Q13618-2,4hxi,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P11802,R24C,P55273,1blx,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q99814,Y342T,P27540,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110321400427564164393,Job Id: 2022110321400427564164393,Job Id: 2022110321400427564164393,A,Y342T,2.95,Yes,Yes
+1,Q99814,Y342T,P27540-2,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110321525783117966541,Job Id: 2022110321525783117966541,Job Id: 2022110321525783117966541,A,Y342T,2.95,Yes,Yes
+1,Q99814,Y342T,P27540-3,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110400344460207447403,Job Id: 2022110400344460207447403,Job Id: 2022110400344460207447403,A,Y342T,2.9,Yes,Yes
+1,Q9BV40,L51P,O15400,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV40,L51P,O15400-2,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,P6883A,Q9UH99,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,P6883A,Q9UH99-2,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,P6883A,Q9UH99-3,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P42773,F37I,Q00534,1blx,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,E95A,P62805,1kx5,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q495M9,E393D,Q9Y6N9-4,3k1r,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110400542391362272670,Job Id: 2022110400542391362272670,Job Id: 2022110400542391362272670,B,E393D,0.25,Yes,No
+0,Q495M9,E393D,Q9Y6N9-3,3k1r,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110401040931217298896,Job Id: 2022110401040931217298896,Job Id: 2022110401040931217298896,B,E393D,0.27,Yes,No
+0,Q495M9,E393D,Q9Y6N9,3k1r,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110401192869834275487,Job Id: 2022110401192869834275487,Job Id: 2022110401192869834275487,B,E393D,0.17,Yes,No
+0,Q495M9,E393D,Q9Y6N9-5,3k1r,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110401292138815716623,Job Id: 2022110401292138815716623,Job Id: 2022110401292138815716623,B,E393D,0.23,Yes,No
+1,Q9HCG8,N171A,P38919,4c9b,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110401391156494317812,Job Id: 2022110401391156494317812,Job Id: 2022110401391156494317812,B,N171A,2.0,Yes,Yes
+1,P10276,P375L,P28702,1xdk,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P10276,P375L,P28702-3,1xdk,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P55957,G94A,Q92843,1zy3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P15056,I666R,Q02750,2y4i,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P63279,R17E,P61956,2uyz,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110402051862031962537,Job Id: 2022110402051862031962537,Job Id: 2022110402051862031962537,A,R17E,2.97,Yes,Yes
+1,P63279,R17E,P61956-2,2uyz,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110402141088988672904,Job Id: 2022110402141088988672904,Job Id: 2022110402141088988672904,A,R17E,2.9,Yes,Yes
+1,Q07812,M74E,Q92843,2y6w,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07812,M74E,Q92843-2,2y6w,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q14203,Q93R,P30622,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110402243941242525677,Job Id: 2022110402243941242525677,Job Id: 2022110402243941242525677,B,Q93R,0.47,Yes,No
+0,Q14203,Q93R,P30622,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110402322495797017607,Job Id: 2022110402322495797017607,Job Id: 2022110402322495797017607,B,Q93R,0.28,Yes,No
+0,Q14203,Q93R,P30622-1,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110402385326992336779,Job Id: 2022110402385326992336779,Job Id: 2022110402385326992336779,B,Q93R,0.33,Yes,No
+0,Q14203,Q93R,P30622-1,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110402464375901503462,Job Id: 2022110402464375901503462,Job Id: 2022110402464375901503462,B,Q93R,0.3,Yes,No
+0,Q14203,Q93R,P30622-2,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110402542693960791315,Job Id: 2022110402542693960791315,Job Id: 2022110402542693960791315,B,Q93R,0.37,Yes,No
+0,Q14203,Q93R,P30622-2,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110403004796459602084,Job Id: 2022110403004796459602084,Job Id: 2022110403004796459602084,B,Q93R,0.3,Yes,No
+0,O43617,K32Q,O75865,2j3t,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110403082967441765418,Job Id: 2022110403082967441765418,Job Id: 2022110403082967441765418,A,K32Q,0.34,Yes,No
+0,O43617,K32Q,O75865-2,2j3t,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110403193521862575690,Job Id: 2022110403193521862575690,Job Id: 2022110403193521862575690,A,K32Q,0.33,Yes,No
+1,P51809,T129P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P02538,I462S,Q15323,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E72R,Q9BRP8,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E72R,Q9BRP8-2,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q96AX1,Y438P,Q9H269,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110403335385926669038,Job Id: 2022110403335385926669038,Job Id: 2022110403335385926669038,A,Y438P,3.2,Yes,Yes
+1,Q96AX1,Y438P,Q9H269-2,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110403535592160146804,Job Id: 2022110403535592160146804,Job Id: 2022110403535592160146804,A,Y438P,3.21,Yes,Yes
+0,O95405,A797P,P84022,1dev,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O95405,A797P,P84022-4,1dev,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O95405,A797P,P84022-2,1dev,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O95405,A797P,P84022-3,1dev,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14965,G198L,Q9NQS7,4af3,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14965,G198L,Q9NQS7-2,4af3,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y376,M260E,Q9P289-3,3gni,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110404195526592582826,Job Id: 2022110404195526592582826,Job Id: 2022110404195526592582826,A,M260E,2.28,Yes,Yes
+1,P61326,E72A,Q9BRP8,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E72A,Q9BRP8-2,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,D973Y,P00533,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,D973Y,P00533-2,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,D973Y,P00533-4,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q92843,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q92843-2,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q00534,D110N,P42773,1blx,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110404452748641080792,Job Id: 2022110404452748641080792,Job Id: 2022110404452748641080792,A,D110N,0.04,Yes,No
+1,Q96AX1,Y438D,Q9H269,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110415564612808986528,Job Id: 2022110415564612808986528,Job Id: 2022110415564612808986528,A,Y438D,3.73,Yes,Yes
+1,Q96AX1,Y438D,Q9H269-2,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110416182503774608679,Job Id: 2022110416182503774608679,Job Id: 2022110416182503774608679,A,Y438D,3.74,Yes,Yes
+1,P38919,Y205A,O15234,3ex7,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110416392402631775286,Job Id: 2022110416392402631775286,Job Id: 2022110416392402631775286,C,Y205A,1.44,Yes,No
+0,P62195,R258W,P43686-2,4ko8,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P62195,R258W,P43686,4ko8,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q53EL6,D253A,P60842-2,3eiq,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110416551095884702001,Job Id: 2022110416551095884702001,Job Id: 2022110416551095884702001,C,D253A,1.14,Yes,No
+1,Q96AX1,K429D,Q9H269,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110417143727070749410,Job Id: 2022110417143727070749410,Job Id: 2022110417143727070749410,A,K429D,2.02,Yes,Yes
+1,Q96AX1,K429D,Q9H269-2,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110417380373020584744,Job Id: 2022110417380373020584744,Job Id: 2022110417380373020584744,A,K429D,2.1,Yes,Yes
+1,Q13542,L59A,P06730,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110417595485404417530,Job Id: 2022110417595485404417530,Job Id: 2022110417595485404417530,B,L59A,3.22,Yes,Yes
+1,Q13542,L59A,P06730-2,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110418083813144195551,Job Id: 2022110418083813144195551,Job Id: 2022110418083813144195551,B,L59A,3.22,Yes,Yes
+1,Q13542,L59A,P06730-2,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110423591882359510926,Job Id: 2022110423591882359510926,Job Id: 2022110423591882359510926,B,L59A,3.22,Yes,Yes
+1,Q13542,L59A,P06730-3,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110500075902934021206,Job Id: 2022110500075902934021206,Job Id: 2022110500075902934021206,B,L59A,3.22,Yes,Yes
+1,Q9UBQ0,L142D,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110500164666866897373,Job Id: 2022110500164666866897373,Job Id: 2022110500164666866897373,A,L142D,1.5,Yes,Yes
+0,P51587,V1532I,Q06609-2,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110500311190080533407,Job Id: 2022110500311190080533407,Job Id: 2022110500311190080533407,B,V1532I,0.15,Yes,No
+0,P51587,V1532I,Q06609-3,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110500395244827868244,Job Id: 2022110500395244827868244,Job Id: 2022110500395244827868244,B,V1532I,0.23,Yes,No
+0,P51587,V1532I,Q06609,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110500483701408872318,Job Id: 2022110500483701408872318,Job Id: 2022110500483701408872318,B,V1532I,0.11,Yes,No
+0,P51587,V1532I,Q06609-4,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110500561844442954096,Job Id: 2022110500561844442954096,Job Id: 2022110500561844442954096,B,V1532I,0.14,Yes,No
+0,P46527,Y89A,P07948,1jsu,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110513112724261973364,Job Id: 2022110513112724261973364,Job Id: 2022110513112724261973364,C,Y89A,1.17,Yes,No
+0,P46527,Y89A,P07948-2,1jsu,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110516270796481815158,Job Id: 2022110516270796481815158,Job Id: 2022110516270796481815158,C,Y89A,1.19,Yes,No
+1,Q15836,L46P,O15400,3hd7,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,L46P,O15400-2,1sfc,I,J,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P16220,S142L,Q92793,1kdx,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110516401509941728332,Job Id: 2022110516401509941728332,Job Id: 2022110516401509941728332,B,S142L,0.38,Yes,No
+0,P16220,S142L,Q92793-2,1kdx,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110516454265073142767,Job Id: 2022110516454265073142767,Job Id: 2022110516454265073142767,B,S142L,0.38,Yes,No
+0,P26715,Q212A,P13747,1p4l,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P56945,F794R,Q8N5H7,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110516525314474074900,Job Id: 2022110516525314474074900,Job Id: 2022110516525314474074900,B,F794R,2.94,Yes,Yes
+1,P56945,F794R,Q8N5H7-3,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110517082830276891659,Job Id: 2022110517082830276891659,Job Id: 2022110517082830276891659,B,F794R,2.95,Yes,Yes
+1,P56945,F794R,Q8N5H7-5,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110518054635458175461,Job Id: 2022110518054635458175461,Job Id: 2022110518054635458175461,B,F794R,2.95,Yes,Yes
+1,P56945,F794R,Q8N5H7-2,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110518185620790878297,Job Id: 2022110518185620790878297,Job Id: 2022110518185620790878297,B,F794R,2.94,Yes,Yes
+1,P56945,F794R,Q8N5H7-4,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110518320275970812330,Job Id: 2022110518320275970812330,Job Id: 2022110518320275970812330,B,F794R,2.94,Yes,Yes
+1,P56945,F794R,Q8N5H7-6,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110518451203861735515,Job Id: 2022110518451203861735515,Job Id: 2022110518451203861735515,B,F794R,2.94,Yes,Yes
+1,Q14457,F123A,Q16611,2pon,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y2M5,I111A,Q13618,4hxi,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P13646,R355H,P35908,3tnu,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61224,Q63E,P47736,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110519011333741792312,Job Id: 2022110519011333741792312,Job Id: 2022110519011333741792312,D,Q63E,2.51,Yes,Yes
+1,P61224,Q63E,P47736-2,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110519174354443085441,Job Id: 2022110519174354443085441,Job Id: 2022110519174354443085441,D,Q63E,2.46,Yes,Yes
+1,P61224,Q63E,P47736-3,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110519340944657485651,Job Id: 2022110519340944657485651,Job Id: 2022110519340944657485651,D,Q63E,2.49,Yes,Yes
+1,P61224,Q63E,P47736-4,3brw,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110519503894980257859,Job Id: 2022110519503894980257859,Job Id: 2022110519503894980257859,D,Q63E,2.44,Yes,Yes
+0,P16220,S142L,Q09472,1kdx,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110520070821539607681,Job Id: 2022110520070821539607681,Job Id: 2022110520070821539607681,B,S142L,0.36,Yes,No
+0,P01116-2,K128A,P04049-2,2v55,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P13489,Y435A,P03950,3tsr,F,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y570,S156A,P67775,3c5w,P,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y570,S156A,P67775-2,3c5w,P,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15013,F191A,Q13257,2qyf,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110520162940926578649,Job Id: 2022110520162940926578649,Job Id: 2022110520162940926578649,B,F191A,2.46,Yes,Yes
+0,P55211,P336S,P98170,1nw9,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110520273424877098441,Job Id: 2022110520273424877098441,Job Id: 2022110520273424877098441,B,P336S,0.33,Yes,No
+1,P84243,G91V,Q9UER7,4hga,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,G91V,Q9UER7-3,4hga,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14980,F561A,O95149,3nc0,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110520380443246453894,Job Id: 2022110520380443246453894,Job Id: 2022110520380443246453894,D,F561A,1.74,Yes,Yes
+0,O75771,R165Q,O43543,1pzn,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q15843,A72R,P62837,4ap4,F,E,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P55957,D95A,Q92843,1zy3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y376,R227A,O95747,3gni,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110521352833731133833,Job Id: 2022110521352833731133833,Job Id: 2022110521352833731133833,A,R227A,1.29,No,No
+1,Q9Y294,D37A,P54198,2i32,B,F,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110521541829134609873,Job Id: 2022110521541829134609873,Job Id: 2022110521541829134609873,B,D37A,2.01,Yes,Yes
+1,Q9Y294,D37A,P54198-2,2i32,B,F,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110522015921639407739,Job Id: 2022110522015921639407739,Job Id: 2022110522015921639407739,B,D37A,2.02,Yes,Yes
+1,P25815,I75G,P23297,2y5i,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y376,R227A,Q9UEW8,3gni,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110522101425927043375,Job Id: 2022110522101425927043375,Job Id: 2022110522101425927043375,A,R227A,1.28,No,No
+1,P01903,G53H,P28068,4md4,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P54727,L8A,P55036,1uel,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110522305496320054193,Job Id: 2022110522305496320054193,Job Id: 2022110522305496320054193,A,L8A,2.58,Yes,Yes
+1,Q8NI22,D89A,P49257,3lcp,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110522405312756988972,Job Id: 2022110522405312756988972,Job Id: 2022110522405312756988972,D,D89A,1.98,Yes,Yes
+1,P51809,L136P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q9Y248,D24G,Q9BRT9,2eho,K,I,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110522530604623991451,Job Id: 2022110522530604623991451,Job Id: 2022110522530604623991451,K,D24G,0.95,Yes,No
+0,P13747,T235A,P26715,1p4l,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P13747,T235A,P26715-2,1p4l,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61081,N113A,Q15843,4ap4,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15788,L693A,Q13133,1p8d,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O15111,S176E,P25963,3zu7,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,P10415,1pq1,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,P10415-2,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q00987,Y489F,O15151,2vje,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110523141329400195381,Job Id: 2022110523141329400195381,Job Id: 2022110523141329400195381,A,Y489F,-0.27,Yes,No
+0,Q00987,Y489F,O15151-4,2vje,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110600332849509966808,Job Id: 2022110600332849509966808,Job Id: 2022110600332849509966808,A,Y489F,-0.27,Yes,No
+0,Q00987,Y489F,O15151-5,2vje,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110600385445505036877,Job Id: 2022110600385445505036877,Job Id: 2022110600385445505036877,A,Y489F,-0.26,Yes,No
+0,P40692,C77R,P54278,1h7s,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P40692,C77R,P54278-3,1h7s,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P15056,R509H,P04049,4h58,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P15056,R509H,P04049-2,4h58,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O15085,R867Q,P61586,3qbv,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P00533,L858R,Q9NSE2-2,4gl9,A,E,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O00311,I99L,Q9UBU7,4f9a,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110602312789071524945,Job Id: 2022110602312789071524945,Job Id: 2022110602312789071524945,C,I99L,1.01,Yes,No
+1,Q15836,L53P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P38919,T178D,O15234,3ex7,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110602455805170285825,Job Id: 2022110602455805170285825,Job Id: 2022110602455805170285825,C,T178D,1.55,Yes,Yes
+1,Q96QK1,R637D,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110603004730984115045,Job Id: 2022110603004730984115045,Job Id: 2022110603004730984115045,C,R637D,2.37,Yes,Yes
+1,Q96QK1,R637D,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110603141199299731943,Job Id: 2022110603141199299731943,Job Id: 2022110603141199299731943,C,R637D,2.44,Yes,Yes
+1,P23297,L12H,P25815,2y5i,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110603275649597800263,Job Id: 2022110603275649597800263,Job Id: 2022110603275649597800263,A,L12H,1.32,Yes,No
+1,Q9H334,W534R,O15409,2a07,I,H,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H334,W534R,O15409-2,2a07,I,H,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H334,W534R,O15409-4,2a07,I,H,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H334,W534R,O15409-9,2a07,I,H,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13241,L162A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O15111,K44A,P25963,3zu7,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7-2,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7-3,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7-6,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13542,Y54A,P06730,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110603465202876225691,Job Id: 2022110603465202876225691,Job Id: 2022110603465202876225691,B,Y54A,3.1,Yes,Yes
+1,Q13542,Y54A,P06730-2,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110603560705079180022,Job Id: 2022110603560705079180022,Job Id: 2022110603560705079180022,B,Y54A,3.07,Yes,Yes
+1,Q13542,Y54A,P06730-2,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110604050108148483914,Job Id: 2022110604050108148483914,Job Id: 2022110604050108148483914,B,Y54A,3.1,Yes,Yes
+1,Q13542,Y54A,P06730-3,3am7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110604135735532033162,Job Id: 2022110604135735532033162,Job Id: 2022110604135735532033162,B,Y54A,3.09,Yes,Yes
+1,Q9BV36,R35F,P51159-2,2zet,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110604231164089575261,Job Id: 2022110604231164089575261,Job Id: 2022110604231164089575261,D,R35F,1.65,Yes,Yes
+1,Q9BV36,R35F,P51159,2zet,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110604345432295815311,Job Id: 2022110604345432295815311,Job Id: 2022110604345432295815311,C,R35F,0.82,Yes,No
+1,P25815,F71A,P23297,2y5i,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84077,I49D,Q10567-2,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110604492347875540688,Job Id: 2022110604492347875540688,Job Id: 2022110604492347875540688,C,I49D,1.96,Yes,Yes
+1,P84077,I49D,Q10567-3,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110605223010188847298,Job Id: 2022110605223010188847298,Job Id: 2022110605223010188847298,C,I49D,1.96,Yes,Yes
+1,P84077,I49D,Q10567-4,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110605534613999964290,Job Id: 2022110605534613999964290,Job Id: 2022110605534613999964290,C,I49D,1.86,Yes,Yes
+1,P84077,I49D,Q10567,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110606250220163089720,Job Id: 2022110606250220163089720,Job Id: 2022110606250220163089720,C,I49D,1.95,Yes,Yes
+1,P25815,I12A,P23297,2y5i,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y4K3,I72F,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110606554029447194570,Job Id: 2022110606554029447194570,Job Id: 2022110606554029447194570,A,I72F,2.08,Yes,Yes
+1,P51809,L157P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P21912,R177A,P31040,1zoy,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q14203,Q93K,P30622,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110613320837011331562,Job Id: 2022110613320837011331562,Job Id: 2022110613320837011331562,B,Q93K,0.64,Yes,No
+0,Q14203,Q93K,P30622,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110613384594411327566,Job Id: 2022110613384594411327566,Job Id: 2022110613384594411327566,B,Q93K,0.65,Yes,No
+0,Q14203,Q93K,P30622-1,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110613463312102714262,Job Id: 2022110613463312102714262,Job Id: 2022110613463312102714262,B,Q93K,0.63,Yes,No
+0,Q14203,Q93K,P30622-1,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110613532278136951906,Job Id: 2022110613532278136951906,Job Id: 2022110613532278136951906,B,Q93K,0.72,Yes,No
+0,Q14203,Q93K,P30622-2,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110614011211663429044,Job Id: 2022110614011211663429044,Job Id: 2022110614011211663429044,B,Q93K,0.71,Yes,No
+0,Q14203,Q93K,P30622-2,2hl3,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110614091362797854865,Job Id: 2022110614091362797854865,Job Id: 2022110614091362797854865,B,Q93K,0.75,Yes,No
+0,P01270,H63A,Q03431,3c4m,D,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P13501,E49A,P02776,1ilp,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P51809,T129P,O15400,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P51809,T129P,O15400-2,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P00492,P38S,Q9NRG1,3ggc,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P00492,P38S,Q9NRG1-2,3ggc,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,D66R,Q9BRP8,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,D66R,Q9BRP8-2,1rk8,B,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P02671,C184W,P02679,3ghg,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P02671,C184W,P02679-2,3ghg,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y4K3,L74K,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110615443291950833659,Job Id: 2022110615443291950833659,Job Id: 2022110615443291950833659,A,L74K,2.55,Yes,Yes
+1,P61587,V87R,O43157-2,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61587,V87R,O43157,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q9Y248,I26T,Q9BRT9,2eho,K,I,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110615573032788146755,Job Id: 2022110615573032788146755,Job Id: 2022110615573032788146755,K,I26T,0.94,Yes,No
+1,Q9UBQ0,A141D,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110616120035597456200,Job Id: 2022110616120035597456200,Job Id: 2022110616120035597456200,A,A141D,1.49,Yes,No
+1,Q9UBQ0,G94P,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110616250491894516888,Job Id: 2022110616250491894516888,Job Id: 2022110616250491894516888,A,G94P,0.57,Yes,No
+1,Q9BZW8,K68A,P09326,2ptt,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O00311,K416T,Q9UBU7,4f9a,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110617204385078524484,Job Id: 2022110617204385078524484,Job Id: 2022110617204385078524484,C,K416T,0.96,Yes,No
+1,Q9UJM3,Y358A,P00533,4i21,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110617361582593252237,Job Id: 2022110617361582593252237,Job Id: 2022110617361582593252237,C,Y358A,1.83,Yes,Yes
+1,Q9BV40,L16P,O15400,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV40,L16P,O15400-2,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H269,R725E,Q96AX1,4bx9,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110617485630036831044,Job Id: 2022110617485630036831044,Job Id: 2022110617485630036831044,C,R725E,3.48,Yes,Yes
+1,Q07812,M74R,Q92843,2y6w,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07812,M74R,Q92843-2,2y6w,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9UBQ0,W93D,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110618124110333459585,Job Id: 2022110618124110333459585,Job Id: 2022110618124110333459585,A,W93D,2.13,Yes,Yes
+1,P16144,R1281A,Q15149,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110618254893856351367,Job Id: 2022110618254893856351367,Job Id: 2022110618254893856351367,C,R1281A,1.5,Yes,No
+1,P16144,R1281A,Q15149-2,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110618433841303209029,Job Id: 2022110618433841303209029,Job Id: 2022110618433841303209029,C,R1281A,1.45,Yes,No
+1,P16144,R1281A,Q15149-4,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110619012938438270648,Job Id: 2022110619012938438270648,Job Id: 2022110619012938438270648,C,R1281A,1.46,Yes,No
+1,P16144,R1281A,Q15149-5,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110619180224042736115,Job Id: 2022110619180224042736115,Job Id: 2022110619180224042736115,C,R1281A,1.44,Yes,No
+1,P16144,R1281A,Q15149-8,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110619360205635128188,Job Id: 2022110619360205635128188,Job Id: 2022110619360205635128188,C,R1281A,1.46,Yes,No
+1,P16144,R1281A,Q15149-9,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110619535445949462350,Job Id: 2022110619535445949462350,Job Id: 2022110619535445949462350,C,R1281A,1.47,Yes,No
+1,P11940,K580A,Q9H074,1jh4,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P11802,N41S,P42772,1bi7,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,V25P,O15400,3hd7,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,V25P,O15400-2,1sfc,I,J,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q16665,P564G,Q9H6Z9,3hqr,S,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110620161263657980772,Job Id: 2022110620161263657980772,Job Id: 2022110620161263657980772,S,P564G,2.75,Yes,Yes
+1,Q8IWE4,D271A,Q13618-2,3tdu,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IWE4,D271A,Q13618-3,3tdu,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IWE4,D271A,Q13618,3tdu,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,L6876A,Q9UH99,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,L6876A,Q9UH99-2,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8WXH0,L6876A,Q9UH99-3,4dxr,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P63272,L10V,O00267,3h7h,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110620284599657496347,Job Id: 2022110620284599657496347,Job Id: 2022110620284599657496347,A,L10V,1.58,Yes,Yes
+0,P63272,L10V,O00267-2,3h7h,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110620360942113407594,Job Id: 2022110620360942113407594,Job Id: 2022110620360942113407594,A,L10V,1.64,Yes,Yes
+1,O15085,I876M,P61586,3qbv,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P63279,V25M,P63165,2uyz,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110622072680172695521,Job Id: 2022110622072680172695521,Job Id: 2022110622072680172695521,A,V25M,0.12,Yes,No
+1,P63279,V25M,P63165-2,2uyz,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110622161138444331317,Job Id: 2022110622161138444331317,Job Id: 2022110622161138444331317,A,V25M,0.12,Yes,No
+0,Q8WXD5,V57L,Q9H840,1y96,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110622245718392355375,Job Id: 2022110622245718392355375,Job Id: 2022110622245718392355375,A,V57L,0.5,Yes,No
+1,Q96AX1,I441K,Q9H269,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110622322295924130377,Job Id: 2022110622322295924130377,Job Id: 2022110622322295924130377,A,I441K,1.12,Yes,No
+1,Q96AX1,I441K,Q9H269-2,4bx9,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110622533899093151133,Job Id: 2022110622533899093151133,Job Id: 2022110622533899093151133,A,I441K,1.29,Yes,No
+1,Q13241,F114A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01903,G53H,P01911,4i5b,D,E,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P26715,K217A,P13747,1p4l,D,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110623172488440110960,Job Id: 2022110623172488440110960,Job Id: 2022110623172488440110960,D,K217A,0.11,No,No
+1,Q92730,E48A,O43157,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q92730,E48A,O43157-2,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV36,R35W,P51159-2,2zet,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110623321565696562413,Job Id: 2022110623321565696562413,Job Id: 2022110623321565696562413,D,R35W,1.73,Yes,Yes
+1,Q9BV36,R35W,P51159,2zet,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110623430637285058926,Job Id: 2022110623430637285058926,Job Id: 2022110623430637285058926,C,R35W,1.48,Yes,No
+1,Q9Y4K3,I72K,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110623551032959646983,Job Id: 2022110623551032959646983,Job Id: 2022110623551032959646983,A,I72K,2.32,Yes,Yes
+1,Q99814,M338E,P27540,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110700061592137253985,Job Id: 2022110700061592137253985,Job Id: 2022110700061592137253985,A,M338E,2.61,Yes,Yes
+1,Q99814,M338E,P27540-2,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110700134609590976081,Job Id: 2022110700134609590976081,Job Id: 2022110700134609590976081,A,M338E,2.62,Yes,Yes
+1,Q99814,M338E,P27540-3,3f1p,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110700211298376425707,Job Id: 2022110700211298376425707,Job Id: 2022110700211298376425707,A,M338E,2.66,Yes,Yes
+0,P11362,P252R,P10767,1cvs,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110700285691596815152,Job Id: 2022110700285691596815152,Job Id: 2022110700285691596815152,D,P252R,0.51,Yes,No
+1,Q9UJM3,F352A,P00533,4i21,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110700420243278585383,Job Id: 2022110700420243278585383,Job Id: 2022110700420243278585383,C,F352A,2.47,Yes,Yes
+1,P62805,R36A,Q71DI3,1kx5,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110700525349333843647,Job Id: 2022110700525349333843647,Job Id: 2022110700525349333843647,B,R36A,0.77,Yes,No
+0,P46734,T222E,Q9Y463,3anq,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P46734,T222E,Q9Y463-2,3anq,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P46734,T222E,Q9Y463-3,3anq,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01270,K58L,Q03431,3c4m,D,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q9H840,R68C,Q8WXD5,1y96,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110701121261521737273,Job Id: 2022110701121261521737273,Job Id: 2022110701121261521737273,B,R68C,1.16,Yes,No
+1,Q99728,V695L,P38398,2nte,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110701195641765423555,Job Id: 2022110701195641765423555,Job Id: 2022110701195641765423555,A,V695L,0.67,No,No
+1,P54198,L464D,Q9Y294,2i32,F,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110701330897026126846,Job Id: 2022110701330897026126846,Job Id: 2022110701330897026126846,F,L464D,1.35,Yes,No
+1,Q9Y570,H349A,P67775,3c5w,P,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110701405456144609642,Job Id: 2022110701405456144609642,Job Id: 2022110701405456144609642,P,H349A,0.89,Yes,No
+1,Q9BV40,L44P,O15400,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV40,L44P,O15400-2,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,O00311,Q106R,Q9UBU7,4f9a,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110701575832751427989,Job Id: 2022110701575832751427989,Job Id: 2022110701575832751427989,C,Q106R,0.71,Yes,No
+1,Q9HAU5,F1113E,Q92900,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110702132751575169688,Job Id: 2022110702132751575169688,Job Id: 2022110702132751575169688,E,F1113E,3.28,Yes,Yes
+1,Q9HAU5,F1113E,Q92900-2,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110702415140538896497,Job Id: 2022110702415140538896497,Job Id: 2022110702415140538896497,E,F1113E,3.28,Yes,Yes
+1,Q15836,T18P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01100,K176N,P05412,1fos,G,H,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110703113988768760285,Job Id: 2022110703113988768760285,Job Id: 2022110703113988768760285,G,K176N,0.89,Yes,No
+1,Q16531,R589E,Q13619,2hye,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110705011002863729156,Job Id: 2022110705011002863729156,Job Id: 2022110705011002863729156,A,R589E,1.8,Yes,Yes
+1,Q71DI3,R64A,P62805,1kx5,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q9UBU7,L306I,O00311,4f9a,D,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110706093406621434309,Job Id: 2022110706093406621434309,Job Id: 2022110706093406621434309,D,L306I,0.37,Yes,No
+0,Q13241,T146A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P61587,F124Y,O43157-2,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P61587,F124Y,O43157,3su8,A,X,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,L53P,O15400,3hd7,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,L53P,O15400-2,1sfc,I,J,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q53EL6,E249A,P60842-2,3eiq,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110706240339377113589,Job Id: 2022110706240339377113589,Job Id: 2022110706240339377113589,C,E249A,0.91,Yes,No
+1,Q9HAU5,L1174E,Q92900,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110706403926177186790,Job Id: 2022110706403926177186790,Job Id: 2022110706403926177186790,E,L1174E,2.51,Yes,Yes
+1,Q9HAU5,L1174E,Q92900-2,2wjv,E,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110707052077941563140,Job Id: 2022110707052077941563140,Job Id: 2022110707052077941563140,E,L1174E,2.55,Yes,Yes
+1,P51809,L136P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14965,G198A,Q9NQS7,4af3,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14965,G198A,Q9NQS7-2,4af3,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9HCG8,K172A,P38919,4c9b,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110715360943100476030,Job Id: 2022110715360943100476030,Job Id: 2022110715360943100476030,B,K172A,1.59,Yes,Yes
+1,Q9Y376,V224E,Q9P289,2wtk,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110715565837031137408,Job Id: 2022110715565837031137408,Job Id: 2022110715565837031137408,D,V224E,1.44,Yes,No
+1,Q9Y376,V224E,Q9P289-2,2wtk,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110716143441067487298,Job Id: 2022110716143441067487298,Job Id: 2022110716143441067487298,D,V224E,1.48,Yes,No
+1,Q9Y376,V224E,Q9P289-3,3gni,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110716320058778392981,Job Id: 2022110716320058778392981,Job Id: 2022110716320058778392981,A,V224E,1.42,Yes,No
+1,P01112,Y40C,P04049,4g0n,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110716483094185961668,Job Id: 2022110716483094185961668,Job Id: 2022110716483094185961668,A,Y40C,1.45,Yes,No
+1,P01112,Y40C,P04049-2,4g0n,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110716560759106407900,Job Id: 2022110716560759106407900,Job Id: 2022110716560759106407900,A,Y40C,1.45,Yes,No
+1,O14980,L525A,O95149,3nc0,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110717042062752095504,Job Id: 2022110717042062752095504,Job Id: 2022110717042062752095504,D,L525A,1.63,Yes,Yes
+1,Q96B26,D202V,Q9NQT4,2nn6,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110717505206012013229,Job Id: 2022110717505206012013229,Job Id: 2022110717505206012013229,C,D202V,0.5,Yes,No
+1,O14796,R31K,Q9UN19-2,1d1z,D,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P63272,S65N,O00267,3h7h,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110718032337000475956,Job Id: 2022110718032337000475956,Job Id: 2022110718032337000475956,A,S65N,0.25,Yes,No
+0,P63272,S65N,O00267-2,3h7h,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110718093774719055014,Job Id: 2022110718093774719055014,Job Id: 2022110718093774719055014,A,S65N,0.25,Yes,No
+0,Q13241,N148A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9UKK6,1jkg,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14980,I521A,O95149,3nc0,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110718171893518581314,Job Id: 2022110718171893518581314,Job Id: 2022110718171893518581314,D,I521A,0.88,Yes,No
+0,P35908,L484P,P13646,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43809,Y158A,Q16630-3,3q2s,B,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110719025729224071997,Job Id: 2022110719025729224071997,Job Id: 2022110719025729224071997,B,Y158A,3.01,Yes,Yes
+1,O43809,Y158A,Q16630,3p5t,C,O,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110719143633725298931,Job Id: 2022110719143633725298931,Job Id: 2022110719143633725298931,C,Y158A,2.68,Yes,Yes
+1,O43809,Y158A,Q16630-2,3p5t,C,O,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110722593372100134858,Job Id: 2022110722593372100134858,Job Id: 2022110722593372100134858,C,Y158A,2.68,Yes,Yes
+0,P63000,G12V,P52757-5,2ngr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110723092300376889837,Job Id: 2022110723092300376889837,Job Id: 2022110723092300376889837,A,G12V,2.04,Yes,Yes
+0,P63000,G12V,P52757-6,2ngr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110723190870954888100,Job Id: 2022110723190870954888100,Job Id: 2022110723190870954888100,A,G12V,2.0,Yes,Yes
+0,P63000,G12V,P52757-7,2ngr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110723301120647620468,Job Id: 2022110723301120647620468,Job Id: 2022110723301120647620468,A,G12V,2.01,Yes,Yes
+0,P63000,G12V,P52757-9,2ngr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110723395376645522886,Job Id: 2022110723395376645522886,Job Id: 2022110723395376645522886,A,G12V,2.05,Yes,Yes
+0,P35908,L484P,P08727,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07812,M74D,Q92843,2y6w,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07812,M74D,Q92843-2,2y6w,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P68431,S88A,Q9UER7,4h9n,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,K41D,P38919,2j0s,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110723540091923533876,Job Id: 2022110723540091923533876,Job Id: 2022110723540091923533876,C,K41D,1.57,Yes,Yes
+0,Q13241,N148A,P13747,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P12272,I67A,Q03431,3h3g,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P40337,C162F,Q15369-2,4ajy,V,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110800110297117361503,Job Id: 2022110800110297117361503,Job Id: 2022110800110297117361503,V,C162F,2.78,Yes,Yes
+1,P40337,C162F,Q15369,4ajy,V,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110800204662074240876,Job Id: 2022110800204662074240876,Job Id: 2022110800204662074240876,V,C162F,2.81,Yes,Yes
+1,O95149,Y147A,O14980,3nc0,E,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110800303515696341218,Job Id: 2022110800303515696341218,Job Id: 2022110800303515696341218,E,Y147A,1.79,Yes,Yes
+1,Q9NPD8,R60E,Q9NW38,4ccg,A,X,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110801162446048507549,Job Id: 2022110801162446048507549,Job Id: 2022110801162446048507549,A,R60E,1.09,Yes,No
+1,Q9NPD8,R60E,Q9NW38-2,4ccg,A,X,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110801250968187743388,Job Id: 2022110801250968187743388,Job Id: 2022110801250968187743388,A,R60E,1.1,Yes,No
+0,P42771,M53I,Q00534,1bi7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110801335707373143068,Job Id: 2022110801335707373143068,Job Id: 2022110801335707373143068,B,M53I,1.21,Yes,No
+1,Q9Y2M5,C146A,Q13618-2,4hxi,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y2M5,C146A,Q13618-3,4hxi,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y2M5,C146A,Q13618,4hxi,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P35908,L484P,P19012,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9UBQ0,R104D,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110801482791509975385,Job Id: 2022110801482791509975385,Job Id: 2022110801482791509975385,A,R104D,2.25,Yes,Yes
+1,Q9Y376,M260A,Q7RTN6,2wtk,D,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110801593864901162168,Job Id: 2022110801593864901162168,Job Id: 2022110801593864901162168,D,M260A,1.55,Yes,Yes
+1,Q07820,L213A,Q07812,4bd8,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07820,L213A,Q07812-2,4bd8,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07820,L213A,Q07812-7,4bd7,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q07820,L213A,Q07812-8,4bd8,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P11802,R24C,P42773,1blx,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P61326,E20R,P38919,2j0s,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110802215235090232766,Job Id: 2022110802215235090232766,Job Id: 2022110802215235090232766,C,E20R,2.01,Yes,Yes
+1,P15056,M517W,P04049,4h58,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P15056,M517W,P04049-2,4h58,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P56945,D797R,Q8N5H7-4,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110802390848289751377,Job Id: 2022110802390848289751377,Job Id: 2022110802390848289751377,B,D797R,2.42,Yes,Yes
+1,Q9BV40,V20P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P16144,R1225H,Q15149,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110802504769847757777,Job Id: 2022110802504769847757777,Job Id: 2022110802504769847757777,C,R1225H,0.98,Yes,No
+1,P16144,R1225H,Q15149-2,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110803062187822204890,Job Id: 2022110803062187822204890,Job Id: 2022110803062187822204890,C,R1225H,0.97,Yes,No
+1,P16144,R1225H,Q15149-4,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110803204072538349644,Job Id: 2022110803204072538349644,Job Id: 2022110803204072538349644,C,R1225H,1.1,Yes,No
+1,P16144,R1225H,Q15149-5,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110803361549200522384,Job Id: 2022110803361549200522384,Job Id: 2022110803361549200522384,C,R1225H,0.96,Yes,No
+1,P16144,R1225H,Q15149-6,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110803514746755372777,Job Id: 2022110803514746755372777,Job Id: 2022110803514746755372777,C,R1225H,1.0,Yes,No
+1,P16144,R1225H,Q15149-7,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110804072146566795979,Job Id: 2022110804072146566795979,Job Id: 2022110804072146566795979,C,R1225H,0.95,Yes,No
+1,P16144,R1225H,Q15149-8,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110804214269933743794,Job Id: 2022110804214269933743794,Job Id: 2022110804214269933743794,C,R1225H,0.99,Yes,No
+1,P16144,R1225H,Q15149-9,3f7p,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110804372658273752133,Job Id: 2022110804372658273752133,Job Id: 2022110804372658273752133,C,R1225H,0.98,Yes,No
+1,P48059,F42A,Q13418,4hi8,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110804520675003222517,Job Id: 2022110804520675003222517,Job Id: 2022110804520675003222517,B,F42A,4.13,Yes,Yes
+1,P84077,H80D,Q10567-2,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110805000164865864494,Job Id: 2022110805000164865864494,Job Id: 2022110805000164865864494,C,H80D,2.55,Yes,Yes
+1,P84077,H80D,Q10567-3,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110805254226492068392,Job Id: 2022110805254226492068392,Job Id: 2022110805254226492068392,C,H80D,2.57,Yes,Yes
+1,P84077,H80D,Q10567-4,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110805512020559035292,Job Id: 2022110805512020559035292,Job Id: 2022110805512020559035292,C,H80D,2.55,Yes,Yes
+1,P84077,H80D,Q10567,4hmy,C,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110806165581191928954,Job Id: 2022110806165581191928954,Job Id: 2022110806165581191928954,C,H80D,2.61,Yes,Yes
+0,P01133,K998R,P00533-3,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,K998R,P00533-3,3ltf,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q16665,Q320E,P27540,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110806442434651313631,Job Id: 2022110806442434651313631,Job Id: 2022110806442434651313631,A,Q320E,0.72,Yes,No
+1,Q16665,Q320E,P27540-2,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110806504501054811778,Job Id: 2022110806504501054811778,Job Id: 2022110806504501054811778,A,Q320E,0.75,Yes,No
+1,Q16665,Q320E,P27540-3,4h6j,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110806583133106636297,Job Id: 2022110806583133106636297,Job Id: 2022110806583133106636297,A,Q320E,0.73,Yes,No
+1,O43521-3,G66A,Q07817-3,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07817,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y3B2,P10L,Q9NQT4,2nn6,I,F,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110813350690422725156,Job Id: 2022110813350690422725156,Job Id: 2022110813350690422725156,I,P10L,3.42,Yes,Yes
+1,P84243,S58A,P62805,1kx5,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O95149,L8A,O14980,3nc0,E,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01903,F49S,P02686,1fv1,D,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01903,F49S,P02686-3,1fv1,D,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01903,F49S,P02686-4,1fv1,D,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01903,F49S,P02686-5,1fv1,D,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01903,F49S,P02686-6,1fv1,D,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01270,V62A,Q03431,3c4m,D,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q92900,V205I,Q9HAU5,2wjv,B,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110815152053646673842,Job Id: 2022110815152053646673842,Job Id: 2022110815152053646673842,B,V205I,0.99,Yes,No
+1,Q9BV40,L51P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q14457,L116A,Q07817-3,2pon,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q14457,L116A,Q07817,2pon,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7-2,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7-3,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7-6,4iop,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,C111E,Q9NVP2,4eo5,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P01116,E37G,P50749,3ddc,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110815463605205390030,Job Id: 2022110815463605205390030,Job Id: 2022110815463605205390030,A,E37G,0.88,Yes,No
+1,Q96I25,R375D,P26368,3v4m,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q96I25,R375D,P26368-2,3v4m,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y570,S156T,P67775,3c5w,P,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y570,S156T,P67775-2,3c5w,P,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9UH99,H628A,Q8WXH0-3,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110816001646705092383,Job Id: 2022110816001646705092383,Job Id: 2022110816001646705092383,A,H628A,1.17,No,No
+1,Q9UH99,H628A,Q8WXH0-4,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110816432212382308071,Job Id: 2022110816432212382308071,Job Id: 2022110816432212382308071,A,H628A,1.18,No,No
+1,Q9UH99,H628A,Q8WXH0-7,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110820535230177384979,Job Id: 2022110820535230177384979,Job Id: 2022110820535230177384979,A,H628A,1.17,No,No
+1,Q9UH99,H628A,Q8WXH0,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110821024173673971981,Job Id: 2022110821024173673971981,Job Id: 2022110821024173673971981,A,H628A,1.19,No,No
+1,Q9UH99,H628A,Q8WXH0-2,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110821122360232161955,Job Id: 2022110821122360232161955,Job Id: 2022110821122360232161955,A,H628A,1.18,No,No
+1,Q9UH99,H628A,Q8WXH0-5,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110821210282109279687,Job Id: 2022110821210282109279687,Job Id: 2022110821210282109279687,A,H628A,1.17,No,No
+1,Q9UH99,H628A,Q8WXH0-6,4dxr,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110821294454934778377,Job Id: 2022110821294454934778377,Job Id: 2022110821294454934778377,A,H628A,1.18,No,No
+1,Q13241,D163A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IWE4,D241A,Q13618,3tdu,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110821400747540326217,Job Id: 2022110821400747540326217,Job Id: 2022110821400747540326217,A,D241A,1.47,Yes,No
+0,P42771,M53I,P11802,1bi7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110821494983106092699,Job Id: 2022110821494983106092699,Job Id: 2022110821494983106092699,B,M53I,1.19,Yes,No
+1,Q9BV36,R35K,P51159-2,2zet,D,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110822002978500827595,Job Id: 2022110822002978500827595,Job Id: 2022110822002978500827595,D,R35K,0.8,Yes,No
+1,Q9BV36,R35K,P51159,2zet,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110822101486707533079,Job Id: 2022110822101486707533079,Job Id: 2022110822101486707533079,C,R35K,0.7,Yes,No
+0,P84022,T330A,O95405,1dev,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9UBU9,H457A,Q9UKK6,1jkg,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110822214265102533727,Job Id: 2022110822214265102533727,Job Id: 2022110822214265102533727,B,H457A,0.54,Yes,No
+0,P26715,Q220A,P13747,1p4l,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14788,R223A,Q9Y6Q6,3qbq,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O14788,R223A,Q9Y6Q6-2,3qbq,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9NPJ8-2,1jkg,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9NPJ8,1jkg,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9NPJ8-3,1jkg,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,K998S,P00533-3,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P01133,K998S,P00533-3,3ltf,D,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,G91L,Q9UER7,4hga,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,G91L,Q9UER7-3,4hga,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9UBQ0,Y139A,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110902542304055498234,Job Id: 2022110902542304055498234,Job Id: 2022110902542304055498234,A,Y139A,1.47,Yes,No
+1,P54198,I461D,Q9Y294,2i32,F,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110903053523537045262,Job Id: 2022110903053523537045262,Job Id: 2022110903053523537045262,F,I461D,3.68,Yes,Yes
+1,P56945,F794E,Q8N5H7,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110903132191829418920,Job Id: 2022110903132191829418920,Job Id: 2022110903132191829418920,B,F794E,3.54,Yes,Yes
+1,P56945,F794E,Q8N5H7-3,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110903243385483315776,Job Id: 2022110903243385483315776,Job Id: 2022110903243385483315776,B,F794E,3.55,Yes,Yes
+1,P56945,F794E,Q8N5H7-5,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110903364226489195427,Job Id: 2022110903364226489195427,Job Id: 2022110903364226489195427,B,F794E,3.54,Yes,Yes
+1,P56945,F794E,Q8N5H7-2,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110904331626727561732,Job Id: 2022110904331626727561732,Job Id: 2022110904331626727561732,B,F794E,3.54,Yes,Yes
+1,P56945,F794E,Q8N5H7-4,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110904450072045636500,Job Id: 2022110904450072045636500,Job Id: 2022110904450072045636500,B,F794E,3.55,Yes,Yes
+1,P56945,F794E,Q8N5H7-6,3t6g,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110904571916655393442,Job Id: 2022110904571916655393442,Job Id: 2022110904571916655393442,B,F794E,3.55,Yes,Yes
+0,P01133,M991S,P00533-3,1nql,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q13241,N158A,P17693,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9Y4K3,I72D,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110905105293937556695,Job Id: 2022110905105293937556695,Job Id: 2022110905105293937556695,A,I72D,2.16,Yes,Yes
+1,Q96MG7,L97A,Q8WV22,3nw0,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110905210933252021588,Job Id: 2022110905210933252021588,Job Id: 2022110905210933252021588,B,L97A,1.06,Yes,No
+1,Q15836,V25P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q0P5N6,G66D,O43924,1ksh,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P55957,G94A,Q07817,1zy3,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,Q7Z3B4,R385K,P37198,3t97,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P19429,R145Q,P02585,1j1e,F,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P19429,R145Q,P02585,1j1e,F,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q13241,L162A,P13747,1p1z,D,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P42771,R24P,P11802,1bi7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110905404112093559856,Job Id: 2022110905404112093559856,Job Id: 2022110905404112093559856,B,R24P,1.55,Yes,Yes
+1,Q92900,Y184D,Q9HAU5,2wjv,B,E,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110910274418251909929,Job Id: 2022110910274418251909929,Job Id: 2022110910274418251909929,B,Y184D,1.76,Yes,Yes
+1,Q9UBQ0,P92A,Q96QK1,2r17,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110910541900104978430,Job Id: 2022110910541900104978430,Job Id: 2022110910541900104978430,A,P92A,1.14,Yes,No
+1,P51809,L136P,O15400,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P51809,L136P,O15400-2,1gl2,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q15836,T18P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P21860,G284R,P04626,3u7u,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P21860,G284R,P04626-4,3u7u,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P63279,C93A,Q9UBT2,4ii2,C,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q99728,L44P,P38398,1jm7,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110911135165715724670,Job Id: 2022110911135165715724670,Job Id: 2022110911135165715724670,B,L44P,2.65,Yes,Yes
+1,P38919,D154K,O15234,3ex7,C,D,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110911214729207842474,Job Id: 2022110911214729207842474,Job Id: 2022110911214729207842474,C,D154K,3.9,Yes,Yes
+1,Q16531,I587D,Q13619,2hye,A,C,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110919094655889709202,Job Id: 2022110919094655889709202,Job Id: 2022110919094655889709202,A,I587D,2.52,Yes,Yes
+1,Q9Y4K3,D57K,P61088,3hct,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110920220943724938518,Job Id: 2022110920220943724938518,Job Id: 2022110920220943724938518,A,D57K,0.75,Yes,No
+1,P84243,G91L,P62805,1kx5,E,F,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q9BV40,V20P,Q9UNK0,1gl2,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IWE4,A265R,Q13618-2,3tdu,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IWE4,A265R,Q13618-3,3tdu,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q8IWE4,A265R,Q13618,3tdu,A,C,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07817-3,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07817,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P23297,F16A,P25815,2y5i,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110920484948090784222,Job Id: 2022110920484948090784222,Job Id: 2022110920484948090784222,A,F16A,1.26,No,No
+1,P51587,V1532F,Q06609-2,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110920563354106548521,Job Id: 2022110920563354106548521,Job Id: 2022110920563354106548521,B,V1532F,0.98,Yes,No
+1,P51587,V1532F,Q06609-3,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110921040091910915564,Job Id: 2022110921040091910915564,Job Id: 2022110921040091910915564,B,V1532F,1.08,Yes,No
+1,P51587,V1532F,Q06609,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110921124938167459159,Job Id: 2022110921124938167459159,Job Id: 2022110921124938167459159,B,V1532F,1.08,Yes,No
+1,P51587,V1532F,Q06609-4,1n0w,B,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110921211648854259345,Job Id: 2022110921211648854259345,Job Id: 2022110921211648854259345,B,V1532F,1.09,Yes,No
+1,P30622-2,K252A,Q15691,1txq,A,B,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,P10415,1pq1,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,O43521-3,G66E,P10415-2,3fdl,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+0,P35908,L484P,O76015,3tnu,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,Q94A,Q9UER7,4hga,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,P84243,Q94A,Q9UER7-3,4hga,B,A,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,
+1,Q96QK1,L589D,Q9UBQ0,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022110921594465294179037,Job Id: 2022110921594465294179037,Job Id: 2022110921594465294179037,C,L589D,1.37,Yes,No
+1,Q96QK1,L589D,Q9UBQ0-2,2r17,C,A,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022111000354900368262290,Job Id: 2022111000354900368262290,Job Id: 2022111000354900368262290,C,L589D,1.39,Yes,No
+1,P23297,F72L,P25815,2y5i,A,B,,1,1,https://lilab.jysw.suda.edu.cn/research/mutabind2/job/2022111000480306590214984,Job Id: 2022111000480306590214984,Job Id: 2022111000480306590214984,A,F72L,2.09,Yes,Yes
+1,Q15836,L46P,O43752,2nps,A,D,"Error: we have the following requirements for the input file, and your submitted file does not meet one or more.",1,0,,,,,,,,

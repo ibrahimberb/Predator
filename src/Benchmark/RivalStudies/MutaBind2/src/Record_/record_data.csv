@@ -1,0 +1,1491 @@
+MUTATION_EFFECT_LABEL,PROTEIN,MUTATION,INTERACTOR,PDB_ID,CHAIN_ID,ERROR_ENCOUNTERED,SUBMITTED,SAVED,RESULT_URL,PREDICTED_AFFINITY_CHANGE_VALUE,PREDICTED_AFFINITY_CHANGE,MUTATION_DETAILS_CHAIN,MUTATION_DETAILS_POSITION,MUTATION_DETAILS_WILDTYPE,MUTATION_DETAILS_MUTANT,MUTATION_DETAILS_DISTANCE_FROM_CLOSEST_PARTNER
+1,Q9BPZ3,F118A,P11940,1jgn,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 118 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01116,Y40C,P50749,3ddc,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493452267,-2.18,Decreasing affinity,A,40.0,TYR,CYS,3.494Å
+1,Q96QK1,F534D,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493458798,-1.982,Decreasing affinity,C,534.0,PHE,ASP,3.482Å
+1,Q96QK1,F534D,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449347244,-1.982,Decreasing affinity,C,534.0,PHE,ASP,3.482Å
+1,O43521-3,G66A,Q07812,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07812-2,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07812-4,2nl9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493488335,-1.62,Decreasing affinity,B,66.0,GLY,ALA,3.267Å
+1,O43521-3,G66A,Q07812-5,2nl9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493493686,-1.62,Decreasing affinity,B,66.0,GLY,ALA,3.267Å
+1,O43521-3,G66A,Q07812-6,2nl9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449349782,-1.62,Decreasing affinity,B,66.0,GLY,ALA,3.267Å
+1,O43521-3,G66A,Q07812-7,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07812-8,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q13418,Q362H,Q9NVD7,3rep,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493505499,-0.183,Decreasing affinity,A,362.0,GLN,HIS,3.494Å
+1,Q9BV40,L51P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 51 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P11802,R24C,P42772,1bi7,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 24 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9HAU5,M1173E,Q92900,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449351739,-1.21,Decreasing affinity,E,1173.0,MET,GLU,3.139Å
+1,Q9HAU5,M1173E,Q92900-2,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493540336,-1.21,Decreasing affinity,E,1173.0,MET,GLU,3.139Å
+0,Q969J2,G79R,Q96IT1,3lhr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 79 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9UH99,S641E,Q8WXH0-3,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493563273,-0.758,Decreasing affinity,A,641.0,SER,GLU,2.725Å
+1,Q9UH99,S641E,Q8WXH0-4,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449356849,-0.758,Decreasing affinity,A,641.0,SER,GLU,2.725Å
+1,Q9UH99,S641E,Q8WXH0-7,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493573731,-0.758,Decreasing affinity,A,641.0,SER,GLU,2.725Å
+1,Q9UH99,S641E,Q8WXH0,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493579158,-0.758,Decreasing affinity,A,641.0,SER,GLU,2.725Å
+1,Q9UH99,S641E,Q8WXH0-2,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493584306,-0.758,Decreasing affinity,A,641.0,SER,GLU,2.725Å
+1,Q9UH99,S641E,Q8WXH0-5,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449358962,-0.758,Decreasing affinity,A,641.0,SER,GLU,2.725Å
+1,Q9UH99,S641E,Q8WXH0-6,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493594961,-0.758,Decreasing affinity,A,641.0,SER,GLU,2.725Å
+1,Q9Y4K3,L74E,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493600259,-1.236,Decreasing affinity,A,74.0,LEU,GLU,2.825Å
+1,P62805,R37A,Q71DI3,1kx5,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 37 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P38919,R206E,O15234,3ex7,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493610281,0.659,Increasing affinity,C,206.0,ARG,GLU,2.745Å
+1,Q15013,Q83A,Q13257,2qyf,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493632801,-1.365,Decreasing affinity,B,83.0,GLN,ALA,3.077Å
+1,Q13241,F114A,P13747,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 114 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01112,E37G,P04049,4g0n,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493645019,0.802,Increasing affinity,A,37.0,GLU,GLY,2.309Å
+1,P01112,E37G,P04049-2,4g0n,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493650598,0.802,Increasing affinity,A,37.0,GLU,GLY,2.309Å
+1,Q53EL6,D414A,P60842,2zu6,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493657058,-0.791,Decreasing affinity,B,414.0,ASP,ALA,2.919Å
+1,Q99558,K430A,O14920-3,4idt,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449368260,-0.752,Decreasing affinity,B,430.0,LYS,ALA,3.07Å
+0,P42773,T69A,Q00534,1blx,B,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 69 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,Q92843,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,Q92843-2,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q13794,F32I,Q07817,3mqp,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493699074,0.574,Increasing affinity,B,32.0,PHE,ILE,3.304Å
+1,Q96F10,R126C,P21673,2b4d,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 126 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P61587,Y60A,O43157,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 60 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q15019,H270D,Q14141-2,2qag,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493707961,-0.464,Decreasing affinity,A,270.0,HIS,ASP,3.501Å
+0,Q15019,H270D,Q14141-3,2qag,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493718255,-0.464,Decreasing affinity,A,270.0,HIS,ASP,3.501Å
+0,Q15019,H270D,Q14141-4,2qag,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493728568,-0.464,Decreasing affinity,A,270.0,HIS,ASP,3.501Å
+1,P04049,R89L,P15056,3ny5,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 89 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P50616,Y50N,Q9UIV1,2d5r,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 50 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P50616,Y50N,Q9UIV1-2,2d5r,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 50 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P25815,F74V,P23297,2y5i,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 74 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P25815,I11A,P23297,2y5i,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 11 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P60891,N114S,P11908,4f8e,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493751438,-0.354,Decreasing affinity,B,114.0,ASN,SER,3.345Å
+0,P60891,N114S,P11908-2,4f8e,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493760674,-0.354,Decreasing affinity,B,114.0,ASN,SER,3.345Å
+1,Q9HCG8,N174A,P38919,4c9b,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493771198,-1.084,Decreasing affinity,B,174.0,ASN,ALA,2.938Å
+1,Q9BZW8,E70A,P09326,2ptt,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 70 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P55957,D95A,Q07817,1zy3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 95 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q16665,V336E,P27540,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493787069,-1.792,Decreasing affinity,A,336.0,VAL,GLU,3.459Å
+1,Q16665,V336E,P27540-2,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493792396,-1.792,Decreasing affinity,A,336.0,VAL,GLU,3.459Å
+1,Q16665,V336E,P27540-3,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493797626,-1.792,Decreasing affinity,A,336.0,VAL,GLU,3.459Å
+0,P46527,Y88A,P07948,1jsu,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493803085,-2.132,Decreasing affinity,C,88.0,TYR,ALA,2.74Å
+0,P46527,Y88A,P07948-2,1jsu,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493810952,-2.132,Decreasing affinity,C,88.0,TYR,ALA,2.74Å
+1,P61587,L90R,O43157-2,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 90 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61587,L90R,O43157,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 90 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q92900,V204D,Q9HAU5,2wjv,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493907651,-1.167,Decreasing affinity,B,204.0,VAL,ASP,3.059Å
+1,Q8N5H7-2,L469R,P56945-4,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493946108,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,Q8N5H7-2,L469R,P56945-7,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449395892,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,Q8N5H7-2,L469R,P56945-8,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493972533,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,Q8N5H7-2,L469R,P56945,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493985806,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,Q8N5H7-2,L469R,P56945-2,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164493998676,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,Q8N5H7-2,L469R,P56945-3,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449401165,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,Q8N5H7-2,L469R,P56945-5,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494024776,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,Q8N5H7-2,L469R,P56945-6,3t6g,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449403790,-1.608,Decreasing affinity,A,469.0,LEU,ARG,3.106Å
+1,P02671,C184W,P02675,3ghg,J,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 184 in chain J.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P26715,V213A,P13747,1p4l,D,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 213 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P38919,H223D,P61326,2j0s,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494057891,0.089,Increasing affinity,A,223.0,HIS,ASP,2.897Å
+1,Q13241,Q112A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue GLN could not be found at position 112 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y376,F178E,Q9P289,2wtk,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494074317,-2.495,Decreasing affinity,D,178.0,PHE,GLU,3.097Å
+1,Q9Y376,F178E,Q9P289-2,2wtk,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449410352,-2.495,Decreasing affinity,D,178.0,PHE,GLU,3.097Å
+1,Q9Y376,F178E,Q9P289-3,3gni,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494131661,-2.368,Decreasing affinity,A,178.0,PHE,GLU,2.897Å
+1,Q9HAU5,F1171E,Q92900,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494143573,-1.436,Decreasing affinity,E,1171.0,PHE,GLU,3.531Å
+1,Q9HAU5,F1171E,Q92900-2,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494165323,-1.436,Decreasing affinity,E,1171.0,PHE,GLU,3.531Å
+1,Q13241,N160A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 160 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P07195,R172P,P00338-2,4aj2,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 172 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P07195,R172P,P00338-3,4aj2,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 172 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P07195,R172P,P00338-5,4aj2,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 172 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,L46P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 46 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812-2,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812-4,2nl9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494202922,-1.79,Decreasing affinity,B,66.0,GLY,GLU,3.267Å
+1,O43521-3,G66E,Q07812-5,2nl9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494208042,-1.79,Decreasing affinity,B,66.0,GLY,GLU,3.267Å
+1,O43521-3,G66E,Q07812-6,2nl9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494213289,-1.79,Decreasing affinity,B,66.0,GLY,GLU,3.267Å
+1,O43521-3,G66E,Q07812-7,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07812-8,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P15056,L515G,P04049,4h58,C,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 515 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P15056,L515G,P04049-2,4h58,C,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 515 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14893,R213D,Q16637,2leh,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494713877,-1.014,Decreasing affinity,A,213.0,ARG,ASP,3.372Å
+1,O14893,R213D,Q16637-2,2leh,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494725192,-1.014,Decreasing affinity,A,213.0,ARG,ASP,3.372Å
+1,O14893,R213D,Q16637-3,2leh,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494738171,-1.014,Decreasing affinity,A,213.0,ARG,ASP,3.372Å
+1,O14893,R213D,Q16637-4,2leh,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494751804,-1.014,Decreasing affinity,A,213.0,ARG,ASP,3.372Å
+0,Q71DI3,M91G,P62805,1kx5,A,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 91 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q96QK1,N725A,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494760989,-1.281,Decreasing affinity,C,725.0,ASN,ALA,3.077Å
+1,Q96QK1,N725A,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494774763,-1.281,Decreasing affinity,C,725.0,ASN,ALA,3.077Å
+1,Q13133,K273A,Q15788,1p8d,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 273 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13133,K273A,Q15788-2,1p8d,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 273 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13133,K273A,Q15788-3,1p8d,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 273 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8N423,Y61A,P17693,2dyp,D,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 61 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9UJM3,M346A,P00533,4i21,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494796598,-0.956,Decreasing affinity,C,346.0,MET,ALA,3.492Å
+1,Q15788,L694A,Q13133,1p8d,C,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 694 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15788,L694A,Q13133-2,1p8d,C,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 694 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15788,L694A,Q13133-3,1p8d,C,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 694 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13133,E441A,Q15788,1p8d,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 441 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13257,Y199A,Q12834,4aez,H,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494814416,-1.768,Decreasing affinity,H,199.0,TYR,ALA,2.298Å
+0,P11362,P252R,P08620,3ojv,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494848296,0.155,Increasing affinity,C,252.0,PRO,ARG,3.763Å
+1,Q13241,Q112A,P13747,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue GLN could not be found at position 112 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O00311,I99T,Q9UBU7,4f9a,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494860323,-0.484,Decreasing affinity,C,99.0,ILE,THR,4.407Å
+1,O14980,F572A,O95149,3nc0,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164494979451,-1.481,Decreasing affinity,D,572.0,PHE,ALA,3.713Å
+1,Q13241,N160A,P13747,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 160 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y4K3,L74R,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495084404,-0.905,Decreasing affinity,A,74.0,LEU,ARG,2.825Å
+1,P51809,L157P,O15400,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 157 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P51809,L157P,O15400-2,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 157 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,Y201A,Q9UHP7,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 201 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,Y201A,Q9UHP7-2,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 201 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,Y201A,Q9UHP7-6,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 201 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q16611,Y110E,P55957,4bd2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 110 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q16611,Y110E,P55957-2,4bd2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 110 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q13241,T146A,P13747,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 146 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P11802,R24H,P42773,1blx,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 24 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,D73K,Q9BRP8,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 73 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q96QK1,Q586A,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495110397,-0.872,Decreasing affinity,C,586.0,GLN,ALA,3.904Å
+1,Q96QK1,Q586A,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495124303,-0.872,Decreasing affinity,C,586.0,GLN,ALA,3.904Å
+1,Q9UBQ0,W93A,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449513839,-1.701,Decreasing affinity,A,93.0,TRP,ALA,3.252Å
+1,Q96QK1,R582D,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495150837,-1.485,Decreasing affinity,C,582.0,ARG,ASP,2.809Å
+1,Q96QK1,R582D,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495164229,-1.485,Decreasing affinity,C,582.0,ARG,ASP,2.809Å
+1,P01903,G53D,P28068,4md4,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 53 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P56945,L787E,Q8N5H7-4,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495180485,-1.419,Decreasing affinity,B,787.0,LEU,GLU,3.965Å
+1,Q9BV40,L16P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 16 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13257,R133A,Q12834,4aez,H,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 133 in chain H.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,T18P,O15400,3hd7,E,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 18 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,T18P,O15400-2,1sfc,I,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 18 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P02538,I462S,P13646,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 462 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q13794,K35E,Q92843,3mqp,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495203111,-0.287,Decreasing affinity,B,35.0,LYS,GLU,6.633Å
+0,Q13794,K35E,Q92843-2,3mqp,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495208215,-0.287,Decreasing affinity,B,35.0,LYS,GLU,6.633Å
+1,Q96QK1,Y729A,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495213712,-1.579,Decreasing affinity,C,729.0,TYR,ALA,3.048Å
+1,Q96QK1,Y729A,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495227529,-1.579,Decreasing affinity,C,729.0,TYR,ALA,3.048Å
+1,Q15836,V25P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 25 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13241,E164A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 164 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P55211,P336S,Q13490,1nw9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449524500,-0.081,Decreasing affinity,B,336.0,PRO,SER,3.934Å
+1,P52298,D107R,Q09161,3fey,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449525298,-1.42,Decreasing affinity,B,107.0,ASP,ARG,4.418Å
+1,Q9NQT4,R96Q,Q96B26,2nn6,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495270743,-0.381,Decreasing affinity,D,96.0,ARG,GLN,2.917Å
+1,Q8IYM1,G169E,Q8WYJ6,3sop,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 169 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E117R,Q9BRP8,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 117 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E117R,Q9BRP8-2,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 117 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P46527,Y74A,P07948,1jsu,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449530610,-2.066,Decreasing affinity,C,74.0,TYR,ALA,3.154Å
+0,P46527,Y74A,P07948-2,1jsu,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495315044,-2.066,Decreasing affinity,C,74.0,TYR,ALA,3.154Å
+1,Q13418,M402A,Q9NVD7,3rep,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495323861,-1.138,Decreasing affinity,A,402.0,MET,ALA,3.403Å
+1,Q9UBQ0,P92G,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495331716,-1.682,Decreasing affinity,A,92.0,PRO,GLY,3.316Å
+1,Q12918,Y198A,Q9UHP7,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 198 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,Y198A,Q9UHP7-2,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 198 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,Y198A,Q9UHP7-3,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 198 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,Y198A,Q9UHP7-6,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 198 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P02538,I462S,P19012,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 462 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P04637,F19A,Q09472,2k8f,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495354444,-1.727,Decreasing affinity,B,19.0,PHE,ALA,3.064Å
+0,P60891,D183H,Q14558,4f8e,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495359065,0.213,Increasing affinity,B,183.0,ASP,HIS,2.828Å
+0,P60891,D183H,Q14558-2,4f8e,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495369224,0.213,Increasing affinity,B,183.0,ASP,HIS,2.828Å
+1,Q14457,L116A,Q16611,2pon,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 116 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01112,T35S,Q13671,2ot3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 35 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01112,T35S,Q13671-2,2ot3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 35 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01112,Y40C,Q13671,2ot3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 40 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01112,Y40C,Q13671-2,2ot3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 40 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q96NA2,R255A,P51149,1yhn,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495391718,-0.921,Decreasing affinity,B,255.0,ARG,ALA,3.163Å
+0,Q9Y248,L150S,Q9BRT9,2eho,K,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495397864,-0.869,Decreasing affinity,K,150.0,LEU,SER,3.126Å
+1,Q10567,V88D,P84077,4hmy,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495427375,-0.42,Decreasing affinity,B,88.0,VAL,ASP,3.399Å
+1,Q96QK1,H675D,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495459757,-1.064,Decreasing affinity,C,675.0,HIS,ASP,3.375Å
+1,Q96QK1,H675D,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495473752,-1.064,Decreasing affinity,C,675.0,HIS,ASP,3.375Å
+1,Q8IYM1,D197N,Q8WYJ6,3sop,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 197 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9HAU4,C716A,P0CG47,4bbn,A,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 716 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9HAU4,C716A,P0CG47,4bbn,A,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 716 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O95149,N150A,O14980,3nc0,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495496548,-0.632,Decreasing affinity,E,150.0,ASN,ALA,3.996Å
+0,Q13794,F32I,Q92843,3mqp,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495564246,0.574,Increasing affinity,B,32.0,PHE,ILE,3.304Å
+0,Q13794,F32I,Q92843-2,3mqp,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449556913,0.574,Increasing affinity,B,32.0,PHE,ILE,3.304Å
+1,P63279,H20D,P61956,2uyz,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495574574,-1.447,Decreasing affinity,A,20.0,HIS,ASP,3.109Å
+1,P63279,H20D,P61956-2,2uyz,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495580169,-1.447,Decreasing affinity,A,20.0,HIS,ASP,3.109Å
+1,O95149,L4A,O14980,3nc0,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495588468,-0.188,Decreasing affinity,E,4.0,LEU,ALA,2.843Å
+1,P51809,T129P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 129 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q92797,K185A,Q9NP77,4h3k,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495659958,-0.96,Decreasing affinity,D,185.0,LYS,ALA,2.889Å
+1,Q92797,K185A,Q9NP77-2,4h3k,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495674454,-0.96,Decreasing affinity,D,185.0,LYS,ALA,2.889Å
+1,P38919,F232R,O15234,3ex7,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495689123,-1.42,Decreasing affinity,C,232.0,PHE,ARG,3.456Å
+0,P13646,R355H,P02538,3tnu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 355 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01903,F49S,P01911,4i5b,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 49 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,A5PKW4,E621K,P62330,1r8s,E,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 621 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P07195,R172H,P00338-2,4aj2,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 172 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P07195,R172H,P00338-3,4aj2,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 172 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P07195,R172H,P00338-5,4aj2,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 172 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P61587,N86R,O43157-2,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 86 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P61587,N86R,O43157,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 86 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P40692,V213M,P54278-2,1h7s,B,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 213 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O95149,K144D,O14980,3nc0,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449573680,-0.639,Decreasing affinity,E,144.0,LYS,ASP,3.372Å
+0,P13747,R129A,Q13241,1p1z,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 129 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P13747,R129A,Q13241-3,1p1z,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 129 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y4K3,L74H,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495803994,-0.514,Decreasing affinity,A,74.0,LEU,HIS,2.825Å
+1,Q9BV40,L44P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 44 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P04637,L25A,Q09472,2k8f,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495812067,-0.986,Decreasing affinity,B,25.0,LEU,ALA,3.098Å
+1,Q16665,Y340T,P27540,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495815805,-1.459,Decreasing affinity,A,340.0,TYR,THR,3.65Å
+1,Q16665,Y340T,P27540-2,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495820998,-1.459,Decreasing affinity,A,340.0,TYR,THR,3.65Å
+1,Q16665,Y340T,P27540-3,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495826027,-1.459,Decreasing affinity,A,340.0,TYR,THR,3.65Å
+1,Q16531,W561K,Q13619,2hye,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495832156,-2.337,Decreasing affinity,A,561.0,TRP,LYS,3.05Å
+1,Q96QK1,F541D,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495918069,-1.27,Decreasing affinity,C,541.0,PHE,ASP,3.345Å
+1,Q96QK1,F541D,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495931607,-1.27,Decreasing affinity,C,541.0,PHE,ASP,3.345Å
+0,P13747,T235A,Q13241,1p1z,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 235 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P13747,T235A,Q13241-2,1p4l,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 235 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P13747,T235A,Q13241-3,1p1z,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 235 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV40,L16P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 16 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q16665,P564G,Q96KS0,3hqr,S,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495952186,-2.607,Decreasing affinity,S,564.0,PRO,GLY,2.646Å
+1,Q16665,P564G,Q96KS0-2,3hqr,S,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495957115,-2.607,Decreasing affinity,S,564.0,PRO,GLY,2.646Å
+0,P11362,P252R,P09038,1iil,H,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 252 in chain H.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P11362,P252R,P09038-1,1cvs,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495964967,-0.004,Decreasing affinity,D,252.0,PRO,ARG,3.731Å
+0,P11362,P252R,P09038-2,1cvs,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495973847,-0.004,Decreasing affinity,D,252.0,PRO,ARG,3.731Å
+0,P11362,P252R,P09038-3,1cvs,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164495982652,-0.004,Decreasing affinity,D,252.0,PRO,ARG,3.731Å
+1,O14641,Y27D,O15169,2d5g,A,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 27 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14641,Y27D,O15169-2,2d5g,A,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 27 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O15085,R868G,P61586,3qbv,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 868 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,G91V,P62805,1kx5,E,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 91 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O43543,V160I,O75771-4,1pzn,G,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 160 in chain G.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O43543,V160I,O75771-7,1pzn,G,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 160 in chain G.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O15111,K44M,P25963,3zu7,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 44 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P11362,P252R,P31371,3ojv,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496009892,0.155,Increasing affinity,C,252.0,PRO,ARG,3.763Å
+0,P12272,I64L,Q03431,3h3g,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 64 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P04637,L22A,Q09472,2k8f,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496023033,-1.48,Decreasing affinity,B,22.0,LEU,ALA,2.807Å
+1,O15085,R872D,P61586,3qbv,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 872 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E68R,Q9BRP8,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 68 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E68R,Q9BRP8-2,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 68 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8NI22,D122V,P49257,3lcp,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496033496,-0.444,Decreasing affinity,D,122.0,ASP,VAL,2.829Å
+1,Q13257,W167A,Q12834,4aez,H,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496042974,-2.407,Decreasing affinity,H,167.0,TRP,ALA,3.308Å
+0,P01133,L996V,P00533-3,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 996 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,H980Y,P00533,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 980 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-2,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 980 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-3,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 980 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-3,3ltf,D,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 980 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,H980Y,P00533-4,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 980 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q92900,E182R,Q9HAU5,2wjv,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496092508,-0.255,Decreasing affinity,B,182.0,GLU,ARG,5.232Å
+0,Q13241,N158A,P13747,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 158 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P10276,P375L,P48443,1xdk,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 375 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141,2qag,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 197 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141-2,2qag,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 197 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141-3,2qag,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 197 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IYM1,D197N,Q14141-4,2qag,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 197 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q92692,F145A,Q495A1,3udw,C,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 145 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q92692,F145A,Q495A1-2,3udw,C,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 145 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV36,R35V,P51159-2,2zet,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496149554,-0.797,Decreasing affinity,D,35.0,ARG,VAL,2.872Å
+1,Q9BV36,R35V,P51159,2zet,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496158355,-0.717,Decreasing affinity,C,35.0,ARG,VAL,3.109Å
+1,Q96QK1,T629D,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496167819,-0.092,Decreasing affinity,C,629.0,THR,ASP,4.303Å
+1,Q96QK1,T629D,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496181439,-0.092,Decreasing affinity,C,629.0,THR,ASP,4.303Å
+0,P02489,R116C,P02511,3n3e,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 116 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q9UK55,E404A,P00742,2gd4,I,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 404 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q10567,I85D,P84077,4hmy,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496199902,-0.616,Decreasing affinity,B,85.0,ILE,ASP,2.926Å
+0,P02538,I462S,O76015,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 462 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P13489,Y438A,P03950,3tsr,F,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 438 in chain F.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43809,Y160A,Q16630-3,3q2s,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496235601,-1.897,Decreasing affinity,B,160.0,TYR,ALA,3.088Å
+1,O43809,Y160A,Q16630,3p5t,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496244229,-1.805,Decreasing affinity,C,160.0,TYR,ALA,2.588Å
+1,O43809,Y160A,Q16630-2,3p5t,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496268008,-1.805,Decreasing affinity,C,160.0,TYR,ALA,2.588Å
+1,Q96I25,R375A,P26368,3v4m,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 375 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q96I25,R375A,P26368-2,3v4m,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 375 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q96CA5,H164R,P55211,1nw9,A,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 164 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q96CA5,H164R,P55211-2,1nw9,A,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 164 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q96CA5,H164R,P55211-4,1nw9,A,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 164 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y2M5,L148A,Q13618,4hxi,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 148 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q16665,P564G,Q9GZT9-2,3hqr,S,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496302764,-2.607,Decreasing affinity,S,564.0,PRO,GLY,2.646Å
+1,Q16665,P564G,Q9GZT9-3,3hqr,S,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496307803,-2.607,Decreasing affinity,S,564.0,PRO,GLY,2.646Å
+1,Q16665,P564G,Q9GZT9,3hqr,S,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496312916,-2.607,Decreasing affinity,S,564.0,PRO,GLY,2.646Å
+1,Q99558,K430A,O15111,4idt,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449631865,-0.752,Decreasing affinity,B,430.0,LYS,ALA,3.07Å
+0,Q8WXD5,S25N,Q9H840,1y96,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496329494,-0.038,Decreasing affinity,A,25.0,SER,ASN,3.836Å
+0,P52294,T433M,Q9UKX7,3tj3,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496335595,-0.396,Decreasing affinity,A,433.0,THR,MET,3.098Å
+1,P84077,L77D,Q10567-2,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496350738,-1.244,Decreasing affinity,C,77.0,LEU,ASP,4.077Å
+1,P84077,L77D,Q10567-3,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496376312,-1.244,Decreasing affinity,C,77.0,LEU,ASP,4.077Å
+1,P84077,L77D,Q10567-4,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496402295,-1.244,Decreasing affinity,C,77.0,LEU,ASP,4.077Å
+1,P84077,L77D,Q10567,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496426781,-1.244,Decreasing affinity,C,77.0,LEU,ASP,4.077Å
+1,Q99814,Q322E,P27540,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496451897,-0.637,Decreasing affinity,A,322.0,GLN,GLU,3.675Å
+1,Q99814,Q322E,P27540-2,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496457373,-0.637,Decreasing affinity,A,322.0,GLN,GLU,3.675Å
+1,Q99814,Q322E,P27540-3,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496462533,-0.637,Decreasing affinity,A,322.0,GLN,GLU,3.675Å
+1,Q9BV40,L44P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 44 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P11802,R24H,P55273,1blx,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 24 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P40692,F80V,P54278,1h7s,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496471265,-0.521,Decreasing affinity,B,80.0,PHE,VAL,17.969Å
+0,P40692,F80V,P54278-3,1h7s,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496479938,-0.521,Decreasing affinity,B,80.0,PHE,VAL,17.969Å
+1,Q14457,G120E,Q07817-3,2pon,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 120 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q14457,G120E,Q07817,2pon,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 120 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43541,G471S,Q15797,1khu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 471 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07812,D68R,Q07817,4a1w,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 68 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61224,F64A,P47736,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449650494,-1.083,Decreasing affinity,D,64.0,PHE,ALA,3.88Å
+1,P61224,F64A,P47736-2,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496519859,-1.083,Decreasing affinity,D,64.0,PHE,ALA,3.88Å
+1,P61224,F64A,P47736-3,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496535042,-1.083,Decreasing affinity,D,64.0,PHE,ALA,3.88Å
+1,P61224,F64A,P47736-4,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496550253,-1.083,Decreasing affinity,D,64.0,PHE,ALA,3.88Å
+1,Q8WXH0,Y6878A,Q9UH99,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 6878 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,Y6878A,Q9UH99-2,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 6878 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,Y6878A,Q9UH99-3,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 6878 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV40,V20P,O15400,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 20 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV40,V20P,O15400-2,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 20 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,L53P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 53 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q16531,A400D,Q13619,2hye,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449657567,0.145,Increasing affinity,A,400.0,ALA,ASP,3.617Å
+1,O15085,D873N,P61586,3qbv,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 873 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P38919,R179E,O15234,3ex7,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496665408,-0.226,Decreasing affinity,C,179.0,ARG,GLU,3.011Å
+1,P11940,K580A,Q9BPZ3,1jgn,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 580 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15672,L159F,P15923,2ypa,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 159 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15672,L159F,P15923-2,2ypa,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 159 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q16611,L163V,Q07817,4a1w,D,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 163 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q16611,L163V,Q07817-3,3zlr,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 163 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P25815,F74G,P23297,2y5i,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 74 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P11802,S52N,P42772,1bi7,A,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 52 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O00267,I194V,P63272,3h7h,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496706141,-1.101,Decreasing affinity,B,194.0,ILE,VAL,3.552Å
+1,P51809,L157P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 157 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13133,I442A,Q15788,1p8d,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 442 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13133,I442A,Q15788-2,1p8d,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 442 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13133,I442A,Q15788-3,1p8d,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 442 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IXQ5,A153T,Q13618-2,4hxi,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 153 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P11802,R24C,P55273,1blx,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 24 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q99814,Y342T,P27540,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496723709,-1.588,Decreasing affinity,A,342.0,TYR,THR,3.694Å
+1,Q99814,Y342T,P27540-2,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496729528,-1.588,Decreasing affinity,A,342.0,TYR,THR,3.694Å
+1,Q99814,Y342T,P27540-3,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496735176,-1.588,Decreasing affinity,A,342.0,TYR,THR,3.694Å
+1,Q9BV40,L51P,O15400,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 51 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV40,L51P,O15400-2,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 51 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,P6883A,Q9UH99,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 6883 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,P6883A,Q9UH99-2,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 6883 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,P6883A,Q9UH99-3,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 6883 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P42773,F37I,Q00534,1blx,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 37 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,E95A,P62805,1kx5,E,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 95 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q495M9,E393D,Q9Y6N9-4,3k1r,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496753913,-0.085,Decreasing affinity,B,393.0,GLU,ASP,3.848Å
+0,Q495M9,E393D,Q9Y6N9-3,3k1r,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496759201,-0.085,Decreasing affinity,B,393.0,GLU,ASP,3.848Å
+0,Q495M9,E393D,Q9Y6N9,3k1r,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496764179,-0.085,Decreasing affinity,B,393.0,GLU,ASP,3.848Å
+0,Q495M9,E393D,Q9Y6N9-5,3k1r,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496769219,-0.085,Decreasing affinity,B,393.0,GLU,ASP,3.848Å
+1,Q9HCG8,N171A,P38919,4c9b,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496775069,-1.382,Decreasing affinity,B,171.0,ASN,ALA,2.756Å
+1,P10276,P375L,P28702,1xdk,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 375 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P10276,P375L,P28702-3,1xdk,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 375 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P55957,G94A,Q92843,1zy3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 94 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P15056,I666R,Q02750,2y4i,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 666 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P63279,R17E,P61956,2uyz,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496796078,-1.232,Decreasing affinity,A,17.0,ARG,GLU,2.835Å
+1,P63279,R17E,P61956-2,2uyz,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496801595,-1.232,Decreasing affinity,A,17.0,ARG,GLU,2.835Å
+1,Q07812,M74E,Q92843,2y6w,A,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 74 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07812,M74E,Q92843-2,2y6w,A,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 74 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q14203,Q93R,P30622,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496810258,-0.063,Decreasing affinity,B,93.0,GLN,ARG,2.806Å
+0,Q14203,Q93R,P30622,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496815171,-0.063,Decreasing affinity,B,93.0,GLN,ARG,2.806Å
+0,Q14203,Q93R,P30622-1,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496819997,-0.063,Decreasing affinity,B,93.0,GLN,ARG,2.806Å
+0,Q14203,Q93R,P30622-1,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496824972,-0.063,Decreasing affinity,B,93.0,GLN,ARG,2.806Å
+0,Q14203,Q93R,P30622-2,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496829892,-0.063,Decreasing affinity,B,93.0,GLN,ARG,2.806Å
+0,Q14203,Q93R,P30622-2,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496834696,-0.063,Decreasing affinity,B,93.0,GLN,ARG,2.806Å
+0,O43617,K32Q,O75865,2j3t,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496840289,0.39,Increasing affinity,A,32.0,LYS,GLN,4.217Å
+0,O43617,K32Q,O75865-2,2j3t,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496848969,0.39,Increasing affinity,A,32.0,LYS,GLN,4.217Å
+1,P51809,T129P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 129 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P02538,I462S,Q15323,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 462 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E72R,Q9BRP8,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 72 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E72R,Q9BRP8-2,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 72 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q96AX1,Y438P,Q9H269,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496866084,-0.891,Decreasing affinity,A,438.0,TYR,PRO,2.521Å
+1,Q96AX1,Y438P,Q9H269-2,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496890568,-0.891,Decreasing affinity,A,438.0,TYR,PRO,2.521Å
+0,O95405,A797P,P84022,1dev,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 797 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O95405,A797P,P84022-4,1dev,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 797 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O95405,A797P,P84022-2,1dev,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 797 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O95405,A797P,P84022-3,1dev,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 797 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14965,G198L,Q9NQS7,4af3,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 198 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14965,G198L,Q9NQS7-2,4af3,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 198 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y376,M260E,Q9P289-3,3gni,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496925651,-1.641,Decreasing affinity,A,260.0,MET,GLU,2.797Å
+1,P61326,E72A,Q9BRP8,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 72 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E72A,Q9BRP8-2,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 72 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,D973Y,P00533,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 973 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,D973Y,P00533-2,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 973 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,D973Y,P00533-4,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 973 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q92843,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q92843-2,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q00534,D110N,P42773,1blx,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496949041,-0.282,Decreasing affinity,A,110.0,ASP,ASN,6.531Å
+1,Q96AX1,Y438D,Q9H269,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496958648,-1.603,Decreasing affinity,A,438.0,TYR,ASP,2.521Å
+1,Q96AX1,Y438D,Q9H269-2,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164496981894,-1.603,Decreasing affinity,A,438.0,TYR,ASP,2.521Å
+1,P38919,Y205A,O15234,3ex7,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449700644,-2.998,Decreasing affinity,C,205.0,TYR,ALA,2.811Å
+0,P62195,R258W,P43686-2,4ko8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 258 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P62195,R258W,P43686,4ko8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 258 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q53EL6,D253A,P60842-2,3eiq,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497032909,-1.964,Decreasing affinity,C,253.0,ASP,ALA,2.639Å
+1,Q96AX1,K429D,Q9H269,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497046187,-0.853,Decreasing affinity,A,429.0,LYS,ASP,3.482Å
+1,Q96AX1,K429D,Q9H269-2,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497070885,-0.853,Decreasing affinity,A,429.0,LYS,ASP,3.482Å
+1,Q13542,L59A,P06730,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497094224,-1.517,Decreasing affinity,B,59.0,LEU,ALA,2.849Å
+1,Q13542,L59A,P06730-2,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497099465,-1.517,Decreasing affinity,B,59.0,LEU,ALA,2.849Å
+1,Q13542,L59A,P06730-2,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449710445,-1.517,Decreasing affinity,B,59.0,LEU,ALA,2.849Å
+1,Q13542,L59A,P06730-3,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497109732,-1.517,Decreasing affinity,B,59.0,LEU,ALA,2.849Å
+1,Q9UBQ0,L142D,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497115391,-1.084,Decreasing affinity,A,142.0,LEU,ASP,3.774Å
+0,P51587,V1532I,Q06609-2,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497127546,0.422,Increasing affinity,B,1532.0,VAL,ILE,4.446Å
+0,P51587,V1532I,Q06609-3,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497132778,0.422,Increasing affinity,B,1532.0,VAL,ILE,4.446Å
+0,P51587,V1532I,Q06609,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497137972,0.422,Increasing affinity,B,1532.0,VAL,ILE,4.446Å
+0,P51587,V1532I,Q06609-4,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497143346,0.422,Increasing affinity,B,1532.0,VAL,ILE,4.446Å
+0,P46527,Y89A,P07948,1jsu,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497148731,-1.812,Decreasing affinity,C,89.0,TYR,ALA,3.461Å
+0,P46527,Y89A,P07948-2,1jsu,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497157549,-1.812,Decreasing affinity,C,89.0,TYR,ALA,3.461Å
+1,Q15836,L46P,O15400,3hd7,E,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 46 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,L46P,O15400-2,1sfc,I,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 46 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P16220,S142L,Q92793,1kdx,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497172556,-0.425,Decreasing affinity,B,142.0,SER,LEU,3.413Å
+0,P16220,S142L,Q92793-2,1kdx,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497178722,-0.425,Decreasing affinity,B,142.0,SER,LEU,3.413Å
+0,P26715,Q212A,P13747,1p4l,D,"Provided mutation position does not match with PDB file.
+Wild-type residue GLN could not be found at position 212 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P56945,F794R,Q8N5H7,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497185588,-2.79,Decreasing affinity,B,794.0,PHE,ARG,3.344Å
+1,P56945,F794R,Q8N5H7-3,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497196088,-2.79,Decreasing affinity,B,794.0,PHE,ARG,3.344Å
+1,P56945,F794R,Q8N5H7-5,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497206879,-2.79,Decreasing affinity,B,794.0,PHE,ARG,3.344Å
+1,P56945,F794R,Q8N5H7-2,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497217475,-2.79,Decreasing affinity,B,794.0,PHE,ARG,3.344Å
+1,P56945,F794R,Q8N5H7-4,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497227943,-2.79,Decreasing affinity,B,794.0,PHE,ARG,3.344Å
+1,P56945,F794R,Q8N5H7-6,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497238479,-2.79,Decreasing affinity,B,794.0,PHE,ARG,3.344Å
+1,Q14457,F123A,Q16611,2pon,A,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 123 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y2M5,I111A,Q13618,4hxi,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 111 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P13646,R355H,P35908,3tnu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 355 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61224,Q63E,P47736,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497257968,0.271,Increasing affinity,D,63.0,GLN,GLU,3.265Å
+1,P61224,Q63E,P47736-2,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497272627,0.271,Increasing affinity,D,63.0,GLN,GLU,3.265Å
+1,P61224,Q63E,P47736-3,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497287428,0.271,Increasing affinity,D,63.0,GLN,GLU,3.265Å
+1,P61224,Q63E,P47736-4,3brw,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497302448,0.271,Increasing affinity,D,63.0,GLN,GLU,3.265Å
+0,P16220,S142L,Q09472,1kdx,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497318341,-0.425,Decreasing affinity,B,142.0,SER,LEU,3.413Å
+0,P01116-2,K128A,P04049-2,2v55,D,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 128 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P13489,Y435A,P03950,3tsr,F,"Provided mutation position does not match with PDB file.
+Wild-type residue TYR could not be found at position 435 in chain F.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y570,S156A,P67775,3c5w,P,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 156 in chain P.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y570,S156A,P67775-2,3c5w,P,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 156 in chain P.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15013,F191A,Q13257,2qyf,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497333606,-2.064,Decreasing affinity,B,191.0,PHE,ALA,3.256Å
+0,P55211,P336S,P98170,1nw9,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497343408,-0.081,Decreasing affinity,B,336.0,PRO,SER,3.934Å
+1,P84243,G91V,Q9UER7,4hga,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 91 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,G91V,Q9UER7-3,4hga,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 91 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14980,F561A,O95149,3nc0,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497357089,-1.597,Decreasing affinity,D,561.0,PHE,ALA,3.882Å
+0,O75771,R165Q,O43543,1pzn,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 165 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q15843,A72R,P62837,4ap4,F,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 72 in chain F.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P55957,D95A,Q92843,1zy3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 95 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y376,R227A,O95747,3gni,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497469896,-1.35,Decreasing affinity,A,227.0,ARG,ALA,2.772Å
+1,Q9Y294,D37A,P54198,2i32,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497480895,-1.319,Decreasing affinity,B,37.0,ASP,ALA,2.748Å
+1,Q9Y294,D37A,P54198-2,2i32,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497486157,-1.319,Decreasing affinity,B,37.0,ASP,ALA,2.748Å
+1,P25815,I75G,P23297,2y5i,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 75 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y376,R227A,Q9UEW8,3gni,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497493901,-1.35,Decreasing affinity,A,227.0,ARG,ALA,2.772Å
+1,P01903,G53H,P28068,4md4,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 53 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P54727,L8A,P55036,1uel,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497509311,-1.378,Decreasing affinity,A,8.0,LEU,ALA,2.981Å
+1,Q8NI22,D89A,P49257,3lcp,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497513653,-1.375,Decreasing affinity,D,89.0,ASP,ALA,2.741Å
+1,P51809,L136P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 136 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q9Y248,D24G,Q9BRT9,2eho,K,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497523978,-0.893,Decreasing affinity,K,24.0,ASP,GLY,2.394Å
+0,P13747,T235A,P26715,1p4l,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 235 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P13747,T235A,P26715-2,1p4l,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 235 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61081,N113A,Q15843,4ap4,E,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 113 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15788,L693A,Q13133,1p8d,C,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 693 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O15111,S176E,P25963,3zu7,A,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 176 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,P10415,1pq1,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,P10415-2,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q00987,Y489F,O15151,2vje,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497566578,0.308,Increasing affinity,A,489.0,TYR,PHE,2.892Å
+0,Q00987,Y489F,O15151-4,2vje,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497571794,0.308,Increasing affinity,A,489.0,TYR,PHE,2.892Å
+0,Q00987,Y489F,O15151-5,2vje,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497576891,0.308,Increasing affinity,A,489.0,TYR,PHE,2.892Å
+0,P40692,C77R,P54278,1h7s,B,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 77 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P40692,C77R,P54278-3,1h7s,B,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 77 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P15056,R509H,P04049,4h58,C,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 509 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P15056,R509H,P04049-2,4h58,C,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 509 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O15085,R867Q,P61586,3qbv,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 867 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P00533,L858R,Q9NSE2-2,4gl9,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 858 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O00311,I99L,Q9UBU7,4f9a,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497596565,-0.446,Decreasing affinity,C,99.0,ILE,LEU,4.407Å
+1,Q15836,L53P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 53 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P38919,T178D,O15234,3ex7,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497611543,-1.509,Decreasing affinity,C,178.0,THR,ASP,3.018Å
+1,Q96QK1,R637D,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497633387,-1.55,Decreasing affinity,C,637.0,ARG,ASP,3.47Å
+1,Q96QK1,R637D,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497647468,-1.55,Decreasing affinity,C,637.0,ARG,ASP,3.47Å
+1,P23297,L12H,P25815,2y5i,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449766132,-1.043,Decreasing affinity,A,12.0,LEU,HIS,3.286Å
+1,Q9H334,W534R,O15409,2a07,I,"Provided mutation position does not match with PDB file.
+Wild-type residue TRP could not be found at position 534 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H334,W534R,O15409-2,2a07,I,"Provided mutation position does not match with PDB file.
+Wild-type residue TRP could not be found at position 534 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H334,W534R,O15409-4,2a07,I,"Provided mutation position does not match with PDB file.
+Wild-type residue TRP could not be found at position 534 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H334,W534R,O15409-9,2a07,I,"Provided mutation position does not match with PDB file.
+Wild-type residue TRP could not be found at position 534 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13241,L162A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 162 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O15111,K44A,P25963,3zu7,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 44 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7-2,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7-3,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q12918,E200R,Q9UHP7-6,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13542,Y54A,P06730,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497688357,-1.966,Decreasing affinity,B,54.0,TYR,ALA,2.582Å
+1,Q13542,Y54A,P06730-2,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497693515,-1.966,Decreasing affinity,B,54.0,TYR,ALA,2.582Å
+1,Q13542,Y54A,P06730-2,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497698687,-1.966,Decreasing affinity,B,54.0,TYR,ALA,2.582Å
+1,Q13542,Y54A,P06730-3,3am7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497703834,-1.966,Decreasing affinity,B,54.0,TYR,ALA,2.582Å
+1,Q9BV36,R35F,P51159-2,2zet,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497709341,-0.724,Decreasing affinity,D,35.0,ARG,PHE,2.872Å
+1,Q9BV36,R35F,P51159,2zet,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497718284,-0.675,Decreasing affinity,C,35.0,ARG,PHE,3.109Å
+1,P25815,F71A,P23297,2y5i,B,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 71 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84077,I49D,Q10567-2,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497730094,-0.016,Decreasing affinity,C,49.0,ILE,ASP,2.708Å
+1,P84077,I49D,Q10567-3,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497754834,-0.016,Decreasing affinity,C,49.0,ILE,ASP,2.708Å
+1,P84077,I49D,Q10567-4,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497779264,-0.016,Decreasing affinity,C,49.0,ILE,ASP,2.708Å
+1,P84077,I49D,Q10567,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497803542,-0.016,Decreasing affinity,C,49.0,ILE,ASP,2.708Å
+1,P25815,I12A,P23297,2y5i,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 12 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y4K3,I72F,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497829575,0.002,Increasing affinity,A,72.0,ILE,PHE,2.975Å
+1,P51809,L157P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 157 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P21912,R177A,P31040,1zoy,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 177 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q14203,Q93K,P30622,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497838875,0.668,Increasing affinity,B,93.0,GLN,LYS,2.806Å
+0,Q14203,Q93K,P30622,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497843782,0.668,Increasing affinity,B,93.0,GLN,LYS,2.806Å
+0,Q14203,Q93K,P30622-1,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497848629,0.668,Increasing affinity,B,93.0,GLN,LYS,2.806Å
+0,Q14203,Q93K,P30622-1,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497853605,0.668,Increasing affinity,B,93.0,GLN,LYS,2.806Å
+0,Q14203,Q93K,P30622-2,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497858469,0.668,Increasing affinity,B,93.0,GLN,LYS,2.806Å
+0,Q14203,Q93K,P30622-2,2hl3,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497863312,0.668,Increasing affinity,B,93.0,GLN,LYS,2.806Å
+0,P01270,H63A,Q03431,3c4m,D,"Provided mutation position does not match with PDB file.
+Wild-type residue HIS could not be found at position 63 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P13501,E49A,P02776,1ilp,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 49 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P51809,T129P,O15400,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 129 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P51809,T129P,O15400-2,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 129 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P00492,P38S,Q9NRG1,3ggc,A,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 38 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P00492,P38S,Q9NRG1-2,3ggc,A,"Provided mutation position does not match with PDB file.
+Wild-type residue PRO could not be found at position 38 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,D66R,Q9BRP8,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,D66R,Q9BRP8-2,1rk8,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P02671,C184W,P02679,3ghg,A,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 184 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P02671,C184W,P02679-2,3ghg,A,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 184 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y4K3,L74K,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497895126,-0.68,Decreasing affinity,A,74.0,LEU,LYS,2.825Å
+1,P61587,V87R,O43157-2,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 87 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61587,V87R,O43157,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 87 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q9Y248,I26T,Q9BRT9,2eho,K,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449790708,-1.105,Decreasing affinity,K,26.0,ILE,THR,3.702Å
+1,Q9UBQ0,A141D,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497935121,0.673,Increasing affinity,A,141.0,ALA,ASP,3.161Å
+1,Q9UBQ0,G94P,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497947527,-0.953,Decreasing affinity,A,94.0,GLY,PRO,5.777Å
+1,Q9BZW8,K68A,P09326,2ptt,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 68 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O00311,K416T,Q9UBU7,4f9a,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497960653,-0.485,Decreasing affinity,C,416.0,LYS,THR,3.033Å
+1,Q9UJM3,Y358A,P00533,4i21,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449797318,-2.698,Decreasing affinity,C,358.0,TYR,ALA,2.457Å
+1,Q9BV40,L16P,O15400,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 16 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV40,L16P,O15400-2,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 16 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H269,R725E,Q96AX1,4bx9,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164497985381,-1.523,Decreasing affinity,C,725.0,ARG,GLU,2.859Å
+1,Q07812,M74R,Q92843,2y6w,A,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 74 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07812,M74R,Q92843-2,2y6w,A,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 74 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9UBQ0,W93D,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498008356,-2.057,Decreasing affinity,A,93.0,TRP,ASP,3.252Å
+1,P16144,R1281A,Q15149,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498020458,-1.895,Decreasing affinity,C,1281.0,ARG,ALA,2.426Å
+1,P16144,R1281A,Q15149-2,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498034672,-1.895,Decreasing affinity,C,1281.0,ARG,ALA,2.426Å
+1,P16144,R1281A,Q15149-4,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498047764,-1.895,Decreasing affinity,C,1281.0,ARG,ALA,2.426Å
+1,P16144,R1281A,Q15149-5,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498061164,-1.895,Decreasing affinity,C,1281.0,ARG,ALA,2.426Å
+1,P16144,R1281A,Q15149-8,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498074333,-1.895,Decreasing affinity,C,1281.0,ARG,ALA,2.426Å
+1,P16144,R1281A,Q15149-9,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498087604,-1.895,Decreasing affinity,C,1281.0,ARG,ALA,2.426Å
+1,P11940,K580A,Q9H074,1jh4,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 580 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P11802,N41S,P42772,1bi7,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 41 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,V25P,O15400,3hd7,E,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 25 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,V25P,O15400-2,1sfc,I,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 25 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q16665,P564G,Q9H6Z9,3hqr,S,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498111151,-2.607,Decreasing affinity,S,564.0,PRO,GLY,2.646Å
+1,Q8IWE4,D271A,Q13618-2,3tdu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 271 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IWE4,D271A,Q13618-3,3tdu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 271 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IWE4,D271A,Q13618,3tdu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 271 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,L6876A,Q9UH99,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 6876 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,L6876A,Q9UH99-2,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 6876 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8WXH0,L6876A,Q9UH99-3,4dxr,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 6876 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P63272,L10V,O00267,3h7h,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498129724,-0.594,Decreasing affinity,A,10.0,LEU,VAL,3.552Å
+0,P63272,L10V,O00267-2,3h7h,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498134802,-0.594,Decreasing affinity,A,10.0,LEU,VAL,3.552Å
+1,O15085,I876M,P61586,3qbv,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 876 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P63279,V25M,P63165,2uyz,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449814302,-0.59,Decreasing affinity,A,25.0,VAL,MET,4.011Å
+1,P63279,V25M,P63165-2,2uyz,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498148459,-0.59,Decreasing affinity,A,25.0,VAL,MET,4.011Å
+0,Q8WXD5,V57L,Q9H840,1y96,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498156318,-0.947,Decreasing affinity,A,57.0,VAL,LEU,2.918Å
+1,Q96AX1,I441K,Q9H269,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498163785,-1.099,Decreasing affinity,A,441.0,ILE,LYS,3.779Å
+1,Q96AX1,I441K,Q9H269-2,4bx9,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498186213,-1.099,Decreasing affinity,A,441.0,ILE,LYS,3.779Å
+1,Q13241,F114A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 114 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01903,G53H,P01911,4i5b,D,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 53 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P26715,K217A,P13747,1p4l,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498212785,-0.089,Decreasing affinity,D,217.0,LYS,ALA,11.246Å
+1,Q92730,E48A,O43157,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 48 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q92730,E48A,O43157-2,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 48 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV36,R35W,P51159-2,2zet,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498225834,-0.371,Decreasing affinity,D,35.0,ARG,TRP,2.872Å
+1,Q9BV36,R35W,P51159,2zet,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498234805,-0.48,Decreasing affinity,C,35.0,ARG,TRP,3.109Å
+1,Q9Y4K3,I72K,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498245644,-1.461,Decreasing affinity,A,72.0,ILE,LYS,2.975Å
+1,Q99814,M338E,P27540,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498257137,-1.789,Decreasing affinity,A,338.0,MET,GLU,3.352Å
+1,Q99814,M338E,P27540-2,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498262458,-1.789,Decreasing affinity,A,338.0,MET,GLU,3.352Å
+1,Q99814,M338E,P27540-3,3f1p,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498268003,-1.789,Decreasing affinity,A,338.0,MET,GLU,3.352Å
+0,P11362,P252R,P10767,1cvs,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498273478,-0.004,Decreasing affinity,D,252.0,PRO,ARG,3.731Å
+1,Q9UJM3,F352A,P00533,4i21,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498282174,-1.908,Decreasing affinity,C,352.0,PHE,ALA,2.826Å
+1,P62805,R36A,Q71DI3,1kx5,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498290991,-1.557,Decreasing affinity,B,36.0,ARG,ALA,2.872Å
+0,P46734,T222E,Q9Y463,3anq,D,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 222 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P46734,T222E,Q9Y463-2,3anq,D,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 222 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P46734,T222E,Q9Y463-3,3anq,D,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 222 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01270,K58L,Q03431,3c4m,D,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 58 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q9H840,R68C,Q8WXD5,1y96,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498330601,-0.329,Decreasing affinity,B,68.0,ARG,CYS,2.698Å
+1,Q99728,V695L,P38398,2nte,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498336004,-0.489,Decreasing affinity,A,695.0,VAL,LEU,11.352Å
+1,P54198,L464D,Q9Y294,2i32,F,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498343631,-0.93,Decreasing affinity,F,464.0,LEU,ASP,3.392Å
+1,Q9Y570,H349A,P67775,3c5w,P,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449834910,-1.195,Decreasing affinity,P,349.0,HIS,ALA,3.034Å
+1,Q9BV40,L44P,O15400,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 44 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV40,L44P,O15400-2,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 44 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,O00311,Q106R,Q9UBU7,4f9a,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498363669,-0.401,Decreasing affinity,C,106.0,GLN,ARG,3.893Å
+1,Q9HAU5,F1113E,Q92900,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498376534,-2.725,Decreasing affinity,E,1113.0,PHE,GLU,3.261Å
+1,Q9HAU5,F1113E,Q92900-2,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449839855,-2.725,Decreasing affinity,E,1113.0,PHE,GLU,3.261Å
+1,Q15836,T18P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 18 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01100,K176N,P05412,1fos,G,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498422859,0.976,Increasing affinity,G,176.0,LYS,ASN,3.081Å
+1,Q16531,R589E,Q13619,2hye,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498430325,-0.606,Decreasing affinity,A,589.0,ARG,GLU,2.729Å
+1,Q71DI3,R64A,P62805,1kx5,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 64 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q9UBU7,L306I,O00311,4f9a,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498526529,-1.049,Decreasing affinity,D,306.0,LEU,ILE,3.813Å
+0,Q13241,T146A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 146 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P61587,F124Y,O43157-2,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 124 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P61587,F124Y,O43157,3su8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 124 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,L53P,O15400,3hd7,E,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 53 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,L53P,O15400-2,1sfc,I,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 53 in chain I.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q53EL6,E249A,P60842-2,3eiq,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498548924,-0.727,Decreasing affinity,C,249.0,GLU,ALA,2.256Å
+1,Q9HAU5,L1174E,Q92900,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498561718,-1.396,Decreasing affinity,E,1174.0,LEU,GLU,2.941Å
+1,Q9HAU5,L1174E,Q92900-2,2wjv,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498582498,-1.396,Decreasing affinity,E,1174.0,LEU,GLU,2.941Å
+1,P51809,L136P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 136 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14965,G198A,Q9NQS7,4af3,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 198 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14965,G198A,Q9NQS7-2,4af3,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 198 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9HCG8,K172A,P38919,4c9b,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498608548,-1.445,Decreasing affinity,B,172.0,LYS,ALA,2.649Å
+1,Q9Y376,V224E,Q9P289,2wtk,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498619281,-1.248,Decreasing affinity,D,224.0,VAL,GLU,3.5Å
+1,Q9Y376,V224E,Q9P289-2,2wtk,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498647081,-1.248,Decreasing affinity,D,224.0,VAL,GLU,3.5Å
+1,Q9Y376,V224E,Q9P289-3,3gni,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498674698,-1.033,Decreasing affinity,A,224.0,VAL,GLU,3.682Å
+1,P01112,Y40C,P04049,4g0n,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498685835,-2.668,Decreasing affinity,A,40.0,TYR,CYS,3.451Å
+1,P01112,Y40C,P04049-2,4g0n,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498691232,-2.668,Decreasing affinity,A,40.0,TYR,CYS,3.451Å
+1,O14980,L525A,O95149,3nc0,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498699236,-1.468,Decreasing affinity,D,525.0,LEU,ALA,3.233Å
+1,Q96B26,D202V,Q9NQT4,2nn6,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449880692,-0.212,Decreasing affinity,C,202.0,ASP,VAL,3.387Å
+1,O14796,R31K,Q9UN19-2,1d1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 31 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P63272,S65N,O00267,3h7h,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164498838112,0.249,Increasing affinity,A,65.0,SER,ASN,3.0Å
+0,P63272,S65N,O00267-2,3h7h,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499252086,0.249,Increasing affinity,A,65.0,SER,ASN,3.0Å
+0,Q13241,N148A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 148 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9UKK6,1jkg,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 409 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14980,I521A,O95149,3nc0,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499263948,-1.526,Decreasing affinity,D,521.0,ILE,ALA,3.466Å
+0,P35908,L484P,P13646,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 484 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43809,Y158A,Q16630-3,3q2s,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499379957,-1.511,Decreasing affinity,B,158.0,TYR,ALA,2.593Å
+1,O43809,Y158A,Q16630,3p5t,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499389275,-1.489,Decreasing affinity,C,158.0,TYR,ALA,2.79Å
+1,O43809,Y158A,Q16630-2,3p5t,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499414114,-1.489,Decreasing affinity,C,158.0,TYR,ALA,2.79Å
+0,P63000,G12V,P52757-5,2ngr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499438064,-0.358,Decreasing affinity,A,12.0,GLY,VAL,3.932Å
+0,P63000,G12V,P52757-6,2ngr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499444557,-0.358,Decreasing affinity,A,12.0,GLY,VAL,3.932Å
+0,P63000,G12V,P52757-7,2ngr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499451355,-0.358,Decreasing affinity,A,12.0,GLY,VAL,3.932Å
+0,P63000,G12V,P52757-9,2ngr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499458067,-0.358,Decreasing affinity,A,12.0,GLY,VAL,3.932Å
+0,P35908,L484P,P08727,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 484 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07812,M74D,Q92843,2y6w,A,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 74 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07812,M74D,Q92843-2,2y6w,A,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 74 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P68431,S88A,Q9UER7,4h9n,A,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 88 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,K41D,P38919,2j0s,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499472347,-1.787,Decreasing affinity,C,41.0,LYS,ASP,2.689Å
+0,Q13241,N148A,P13747,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 148 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P12272,I67A,Q03431,3h3g,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ILE could not be found at position 67 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P40337,C162F,Q15369-2,4ajy,V,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499486547,-0.554,Decreasing affinity,V,162.0,CYS,PHE,3.54Å
+1,P40337,C162F,Q15369,4ajy,V,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499493092,-0.554,Decreasing affinity,V,162.0,CYS,PHE,3.54Å
+1,O95149,Y147A,O14980,3nc0,E,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499502559,-0.914,Decreasing affinity,E,147.0,TYR,ALA,3.204Å
+1,Q9NPD8,R60E,Q9NW38,4ccg,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449956725,0.371,Increasing affinity,A,60.0,ARG,GLU,2.971Å
+1,Q9NPD8,R60E,Q9NW38-2,4ccg,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499575228,0.371,Increasing affinity,A,60.0,ARG,GLU,2.971Å
+0,P42771,M53I,Q00534,1bi7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499583047,-0.865,Decreasing affinity,B,53.0,MET,ILE,3.239Å
+1,Q9Y2M5,C146A,Q13618-2,4hxi,A,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 146 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y2M5,C146A,Q13618-3,4hxi,A,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 146 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y2M5,C146A,Q13618,4hxi,A,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 146 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P35908,L484P,P19012,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 484 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9UBQ0,R104D,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499599991,-1.839,Decreasing affinity,A,104.0,ARG,ASP,3.077Å
+1,Q9Y376,M260A,Q7RTN6,2wtk,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499613236,-1.29,Decreasing affinity,D,260.0,MET,ALA,2.754Å
+1,Q07820,L213A,Q07812,4bd8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 213 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07820,L213A,Q07812-2,4bd8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 213 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07820,L213A,Q07812-7,4bd7,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 213 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q07820,L213A,Q07812-8,4bd8,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 213 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P11802,R24C,P42773,1blx,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 24 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P61326,E20R,P38919,2j0s,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499654757,-2.667,Decreasing affinity,C,20.0,GLU,ARG,2.877Å
+1,P15056,M517W,P04049,4h58,C,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 517 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P15056,M517W,P04049-2,4h58,C,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 517 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P56945,D797R,Q8N5H7-4,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499670282,-1.483,Decreasing affinity,B,797.0,ASP,ARG,2.879Å
+1,Q9BV40,V20P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 20 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P16144,R1225H,Q15149,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499683582,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P16144,R1225H,Q15149-2,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499699191,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P16144,R1225H,Q15149-4,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499713914,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P16144,R1225H,Q15149-5,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499728558,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P16144,R1225H,Q15149-6,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499743068,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P16144,R1225H,Q15149-7,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499757515,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P16144,R1225H,Q15149-8,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499772116,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P16144,R1225H,Q15149-9,3f7p,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499786963,-0.168,Decreasing affinity,C,1225.0,ARG,HIS,2.813Å
+1,P48059,F42A,Q13418,4hi8,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499800908,-2.099,Decreasing affinity,B,42.0,PHE,ALA,3.38Å
+1,P84077,H80D,Q10567-2,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499807061,-0.282,Decreasing affinity,C,80.0,HIS,ASP,3.379Å
+1,P84077,H80D,Q10567-3,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449983244,-0.282,Decreasing affinity,C,80.0,HIS,ASP,3.379Å
+1,P84077,H80D,Q10567-4,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499858734,-0.282,Decreasing affinity,C,80.0,HIS,ASP,3.379Å
+1,P84077,H80D,Q10567,4hmy,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449988422,-0.282,Decreasing affinity,C,80.0,HIS,ASP,3.379Å
+0,P01133,K998R,P00533-3,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 998 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,K998R,P00533-3,3ltf,D,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 998 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q16665,Q320E,P27540,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/16449991725,-0.311,Decreasing affinity,A,320.0,GLN,GLU,3.565Å
+1,Q16665,Q320E,P27540-2,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499925955,-0.311,Decreasing affinity,A,320.0,GLN,GLU,3.565Å
+1,Q16665,Q320E,P27540-3,4h6j,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499931096,-0.311,Decreasing affinity,A,320.0,GLN,GLU,3.565Å
+1,O43521-3,G66A,Q07817-3,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66A,Q07817,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y3B2,P10L,Q9NQT4,2nn6,I,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499941399,-0.873,Decreasing affinity,I,10.0,PRO,LEU,3.385Å
+1,P84243,S58A,P62805,1kx5,E,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 58 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O95149,L8A,O14980,3nc0,E,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 8 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01903,F49S,P02686,1fv1,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 49 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01903,F49S,P02686-3,1fv1,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 49 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01903,F49S,P02686-4,1fv1,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 49 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01903,F49S,P02686-5,1fv1,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 49 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01903,F49S,P02686-6,1fv1,D,"Provided mutation position does not match with PDB file.
+Wild-type residue PHE could not be found at position 49 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01270,V62A,Q03431,3c4m,D,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 62 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q92900,V205I,Q9HAU5,2wjv,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164499994945,-1.11,Decreasing affinity,B,205.0,VAL,ILE,2.673Å
+1,Q9BV40,L51P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 51 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q14457,L116A,Q07817-3,2pon,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 116 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q14457,L116A,Q07817,2pon,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 116 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7-2,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7-3,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q12918,E200A,Q9UHP7-6,4iop,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLU could not be found at position 200 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,C111E,Q9NVP2,4eo5,B,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 111 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P01116,E37G,P50749,3ddc,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500059503,0.251,Increasing affinity,A,37.0,GLU,GLY,3.167Å
+1,Q96I25,R375D,P26368,3v4m,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 375 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q96I25,R375D,P26368-2,3v4m,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 375 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y570,S156T,P67775,3c5w,P,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 156 in chain P.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y570,S156T,P67775-2,3c5w,P,"Provided mutation position does not match with PDB file.
+Wild-type residue SER could not be found at position 156 in chain P.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9UH99,H628A,Q8WXH0-3,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500075168,-0.842,Decreasing affinity,A,628.0,HIS,ALA,4.021Å
+1,Q9UH99,H628A,Q8WXH0-4,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500080327,-0.842,Decreasing affinity,A,628.0,HIS,ALA,4.021Å
+1,Q9UH99,H628A,Q8WXH0-7,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500085825,-0.842,Decreasing affinity,A,628.0,HIS,ALA,4.021Å
+1,Q9UH99,H628A,Q8WXH0,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500090968,-0.842,Decreasing affinity,A,628.0,HIS,ALA,4.021Å
+1,Q9UH99,H628A,Q8WXH0-2,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500096423,-0.842,Decreasing affinity,A,628.0,HIS,ALA,4.021Å
+1,Q9UH99,H628A,Q8WXH0-5,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500101665,-0.842,Decreasing affinity,A,628.0,HIS,ALA,4.021Å
+1,Q9UH99,H628A,Q8WXH0-6,4dxr,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500107014,-0.842,Decreasing affinity,A,628.0,HIS,ALA,4.021Å
+1,Q13241,D163A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASP could not be found at position 163 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IWE4,D241A,Q13618,3tdu,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500114696,-1.373,Decreasing affinity,A,241.0,ASP,ALA,2.615Å
+0,P42771,M53I,P11802,1bi7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500122343,-0.865,Decreasing affinity,B,53.0,MET,ILE,3.239Å
+1,Q9BV36,R35K,P51159-2,2zet,D,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500128913,-0.653,Decreasing affinity,D,35.0,ARG,LYS,2.872Å
+1,Q9BV36,R35K,P51159,2zet,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500137976,-0.744,Decreasing affinity,C,35.0,ARG,LYS,3.109Å
+0,P84022,T330A,O95405,1dev,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 330 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9UBU9,H457A,Q9UKK6,1jkg,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500149451,-0.701,Decreasing affinity,B,457.0,HIS,ALA,3.438Å
+0,P26715,Q220A,P13747,1p4l,D,"Provided mutation position does not match with PDB file.
+Wild-type residue GLN could not be found at position 220 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14788,R223A,Q9Y6Q6,3qbq,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 223 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O14788,R223A,Q9Y6Q6-2,3qbq,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 223 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9NPJ8-2,1jkg,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 409 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9NPJ8,1jkg,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 409 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9H4D5,R409W,Q9NPJ8-3,1jkg,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 409 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,K998S,P00533-3,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 998 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P01133,K998S,P00533-3,3ltf,D,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 998 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,G91L,Q9UER7,4hga,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 91 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,G91L,Q9UER7-3,4hga,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 91 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9UBQ0,Y139A,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500178469,-1.163,Decreasing affinity,A,139.0,TYR,ALA,3.198Å
+1,P54198,I461D,Q9Y294,2i32,F,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500205909,-2.926,Decreasing affinity,F,461.0,ILE,ASP,2.704Å
+1,P56945,F794E,Q8N5H7,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500212203,-3.104,Decreasing affinity,B,794.0,PHE,GLU,3.344Å
+1,P56945,F794E,Q8N5H7-3,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500223023,-3.104,Decreasing affinity,B,794.0,PHE,GLU,3.344Å
+1,P56945,F794E,Q8N5H7-5,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500233821,-3.104,Decreasing affinity,B,794.0,PHE,GLU,3.344Å
+1,P56945,F794E,Q8N5H7-2,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500244525,-3.104,Decreasing affinity,B,794.0,PHE,GLU,3.344Å
+1,P56945,F794E,Q8N5H7-4,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500255556,-3.104,Decreasing affinity,B,794.0,PHE,GLU,3.344Å
+1,P56945,F794E,Q8N5H7-6,3t6g,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500266309,-3.104,Decreasing affinity,B,794.0,PHE,GLU,3.344Å
+0,P01133,M991S,P00533-3,1nql,B,"Provided mutation position does not match with PDB file.
+Wild-type residue MET could not be found at position 991 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q13241,N158A,P17693,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue ASN could not be found at position 158 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9Y4K3,I72D,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500280438,-2.473,Decreasing affinity,A,72.0,ILE,ASP,2.975Å
+1,Q96MG7,L97A,Q8WV22,3nw0,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500286064,-0.707,Decreasing affinity,B,97.0,LEU,ALA,3.58Å
+1,Q15836,V25P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 25 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q0P5N6,G66D,O43924,1ksh,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P55957,G94A,Q07817,1zy3,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 94 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,Q7Z3B4,R385K,P37198,3t97,B,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 385 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P19429,R145Q,P02585,1j1e,F,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 145 in chain F.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P19429,R145Q,P02585,1j1e,F,"Provided mutation position does not match with PDB file.
+Wild-type residue ARG could not be found at position 145 in chain F.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q13241,L162A,P13747,1p1z,D,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 162 in chain D.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P42771,R24P,P11802,1bi7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500308779,-0.317,Decreasing affinity,B,24.0,ARG,PRO,2.913Å
+1,Q92900,Y184D,Q9HAU5,2wjv,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500316087,-1.135,Decreasing affinity,B,184.0,TYR,ASP,2.843Å
+1,Q9UBQ0,P92A,Q96QK1,2r17,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500355627,-1.221,Decreasing affinity,A,92.0,PRO,ALA,3.316Å
+1,P51809,L136P,O15400,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 136 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P51809,L136P,O15400-2,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 136 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q15836,T18P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue THR could not be found at position 18 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P21860,G284R,P04626,3u7u,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 284 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P21860,G284R,P04626-4,3u7u,A,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 284 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P63279,C93A,Q9UBT2,4ii2,C,"Provided mutation position does not match with PDB file.
+Wild-type residue CYS could not be found at position 93 in chain C.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q99728,L44P,P38398,1jm7,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500390479,-1.881,Decreasing affinity,B,44.0,LEU,PRO,3.616Å
+1,P38919,D154K,O15234,3ex7,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500397453,-0.883,Decreasing affinity,C,154.0,ASP,LYS,2.492Å
+1,Q16531,I587D,Q13619,2hye,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500420064,-1.31,Decreasing affinity,A,587.0,ILE,ASP,4.27Å
+1,Q9Y4K3,D57K,P61088,3hct,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500507422,-0.606,Decreasing affinity,A,57.0,ASP,LYS,2.951Å
+1,P84243,G91L,P62805,1kx5,E,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 91 in chain E.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q9BV40,V20P,Q9UNK0,1gl2,A,"Provided mutation position does not match with PDB file.
+Wild-type residue VAL could not be found at position 20 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IWE4,A265R,Q13618-2,3tdu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 265 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IWE4,A265R,Q13618-3,3tdu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 265 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q8IWE4,A265R,Q13618,3tdu,A,"Provided mutation position does not match with PDB file.
+Wild-type residue ALA could not be found at position 265 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07817-3,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,Q07817,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P23297,F16A,P25815,2y5i,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500530582,-1.501,Decreasing affinity,A,16.0,PHE,ALA,4.725Å
+1,P51587,V1532F,Q06609-2,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500538058,-0.05,Decreasing affinity,B,1532.0,VAL,PHE,4.446Å
+1,P51587,V1532F,Q06609-3,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500543265,-0.05,Decreasing affinity,B,1532.0,VAL,PHE,4.446Å
+1,P51587,V1532F,Q06609,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500548206,-0.05,Decreasing affinity,B,1532.0,VAL,PHE,4.446Å
+1,P51587,V1532F,Q06609-4,1n0w,B,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500553227,-0.05,Decreasing affinity,B,1532.0,VAL,PHE,4.446Å
+1,P30622-2,K252A,Q15691,1txq,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LYS could not be found at position 252 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,P10415,1pq1,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,O43521-3,G66E,P10415-2,3fdl,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLY could not be found at position 66 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+0,P35908,L484P,O76015,3tnu,B,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 484 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,Q94A,Q9UER7,4hga,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLN could not be found at position 94 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,P84243,Q94A,Q9UER7-3,4hga,B,"Provided mutation position does not match with PDB file.
+Wild-type residue GLN could not be found at position 94 in chain B.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
+1,Q96QK1,L589D,Q9UBQ0,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500569481,-1.82,Decreasing affinity,C,589.0,LEU,ASP,3.433Å
+1,Q96QK1,L589D,Q9UBQ0-2,2r17,C,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500583122,-1.82,Decreasing affinity,C,589.0,LEU,ASP,3.433Å
+1,P23297,F72L,P25815,2y5i,A,,1,1,http://biosig.unimelb.edu.au/mcsm_ppi2/results_prediction/164500596902,-2.001,Decreasing affinity,A,72.0,PHE,LEU,3.527Å
+1,Q15836,L46P,O43752,2nps,A,"Provided mutation position does not match with PDB file.
+Wild-type residue LEU could not be found at position 46 in chain A.
+Please check whether wild-type residue, its position (residue index) and chain are consistent with the provided PDB.",1,0,,,,,,,,
