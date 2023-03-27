@@ -57,7 +57,7 @@ Jupyter notebook _Reproduced_PredatorStudyModel.ipynb_ will be created in _repro
 
 ### Predictions on the TCGA Mutation Datasets
 
-Trained Predator model can be applied to TCG mutation datasets with 
+Trained Predator model can be applied to TCGA mutation datasets with 
 _reproducable_01_training_predator.py_. The script also allows the selection of 
 the model to be used in the prediction task. Simply run the following command to execute:
 
