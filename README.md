@@ -9,7 +9,7 @@ into disrupting and nondisrupting and provides a comprehensive analysis on candi
 associated genes, their most frequently disrupted interaction partners, cancer patients and 
 several cancer cohorts in TCGA project.
 
-For more information, please refer to the article which can be found at [here](https://www.google.com).
+For more information, please refer to the article which can be found at [here]([https://www.google.com](https://ieeexplore.ieee.org/document/10081505)).
 
 <br/>
 <p align="center">
