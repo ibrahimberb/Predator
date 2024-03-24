@@ -93,3 +93,23 @@ Run the notebook _analyses/PatientInteractionAnalysis/PatientInteractionAnalysis
 
 Continue with the second part of the _tables/preliminary_tables_counts.ipynb_, which
 the Gene Level Statistics table will be generated.
+
+### Citation
+
+If you find **Predator** useful for your research, please consider citing the following paper:
+
+> Berber, Ibrahim, Cesim Erten, and Hilal Kazan. "Predator: Predicting the impact of cancer somatic mutations on protein-protein interactions." IEEE/ACM Transactions on Computational Biology and Bioinformatics (2023).
+
+```
+@article{berber2023predator,
+  title={Predator: Predicting the impact of cancer somatic mutations on protein-protein interactions},
+  author={Berber, Ibrahim and Erten, Cesim and Kazan, Hilal},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  year={2023},
+  volume={20},
+  number={5},
+  pages={3163-3172},
+  publisher={IEEE},
+  doi={10.1109/TCBB.2023.3262119},
+}
+```
